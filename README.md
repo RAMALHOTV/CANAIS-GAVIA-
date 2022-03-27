@@ -8,21 +8,11 @@
 
 
 <item>
-<title>[B]Globo[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11071|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Globo HD RJ[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11110|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo RPC TV Curitiba SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11117|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]GLOBO SP[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/valter/valter/482|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo AMAZONICA[/COLOR]</link>
-<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
-<fanart>https://imgur.com/5RQ1PxL.png</fanart>
-<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
-</item>
-<item>
-<title>[B]Globo PR[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11210|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Globo RPC Paranavai HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11214|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo RPC TV Foz do Iguacu HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11215|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo RPC TV Maringa HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11212|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo AMAZONICA[/COLOR]</link>
+<title>[B]Globo  [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/valter/valter/480|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Globo HD RJ[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/valter/valter/484|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo HD SP[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/valter/valter/483|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]GLOBO RPC CURITIBA[/COLOR]</link>
+<link>http://45.224.115.214:8080/valter/valter/482|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo AMAZONICA[/COLOR]</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 <fanart>https://imgur.com/5RQ1PxL.png</fanart>
 <info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
@@ -30,10 +20,10 @@
 
 <item>
 <title>[B]SBT [/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5045|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]SBT SD[/COLOR</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5047|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]SBT PR[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5050|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]SBT[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5054|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]SBT[/COLOR]</link>
+<link>https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]SBT SD[/COLOR</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/384|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]SBT PR[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/valter/valter/384|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]SBT[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/jhonatha/123/384|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]SBT[/COLOR]</link>
 <thumbnail>http://i.imgur.com/7SlZF9B.png</thumbnail>
 <fanart>http://i.imgur.com/7SlZF9B.png</fanart>
 <info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
@@ -45,8 +35,8 @@
 
 <item>
 <title>[B]BAND[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9378|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Band SP [/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9379|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Band RJ [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/jhonatha/123/381|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Band SP [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/381|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Band RJ [/COLOR]</link>
 <thumbnail>http://i.imgur.com/x70tdT3.png</thumbnail>
 <fanart>http://i.imgur.com/x70tdT3.png</fanart>
 <info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio</info>
@@ -54,9 +44,8 @@
 
 <item>
 <title>[B]RECORD RJ[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5057|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Record RJ HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5059|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Record RJ SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5064|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]RecordTV Rio Grande do Sul [/COLOR]</link>
+<link>https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Record RJ HD[/COLOR]</link>
+<link>http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Record RJ SD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
 <fanart>http://i.imgur.com/5UeQAk9.png</fanart>
 <info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial. Em 2010 ela foi eleita pelo mercado publicitário a 5º maior emissora do mundo em faturamento e a 8º maior rede em estrutura física.</info>
@@ -64,8 +53,8 @@
 
 <item>
 <title>[B]RECORD SP[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9395|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Record SP SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9396|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Record SP SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/497|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Record SP SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/498|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Record SP SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/499|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Record SP HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
 <fanart>http://i.imgur.com/5UeQAk9.png</fanart>
@@ -75,21 +64,14 @@
 <item>
 <title>[B]RedeTV![/B]</title>
 <link>http://177.20.208.58:8000/play/a03p/index.m3u8?|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]RedeTV! SP[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9432|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Rede TV SP[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9433|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Rede TV RS[/COLOR]</link>
+<link>https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Rede TV SP[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/392|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Rede TV RS[/COLOR]</link>
 <thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
 <fanart>https://i.imgur.com/hd76Jt4.png</fanart>
 <info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
 </item>
 
 
-<item>
-<title>[B]Retrô Cartoon - Webtv[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/5092|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Retrô Cartoon[/COLOR]</link>
-<thumbnail>https://listaiptv.gratis/logos/imagens/retro-tv.png</thumbnail>
-<fanart>https://listaiptv.gratis/logos/imagens/retro-tv.png</fanart>
-<info>.</info>
-</item>
 
 
 <item>
@@ -198,7 +180,7 @@
 
 <item>
 <title>[B]FX[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11004|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]FX SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/639|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]FX SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/484|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]FX HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/GaQZSu6.png</thumbnail>
 <fanart>http://i.imgur.com/GaQZSu6.png</fanart>
@@ -207,7 +189,7 @@
 
 <item>
 <title>[B]Megapix [/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11008|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Megapix SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/649|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Megapix SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/491|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Megapix  HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/LewQb1v.png</thumbnail>
 <fanart>http://i.imgur.com/LewQb1v.png</fanart>
@@ -216,7 +198,7 @@
 
 <item>
 <title>[B]Telecine Action[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9583|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Action 4K[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/655|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Action SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/407|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Telecine Action HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/9n9boo3.png</thumbnail>
 <fanart>http://i.imgur.com/9n9boo3.png</fanart>
@@ -234,7 +216,7 @@
 
 <item>
 <title>[B]Telecine Touch[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9588|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Touch 4K[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/660|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Touch SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/417|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Telecine Touch HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/Ns47Tfm.png</thumbnail>
 <fanart>http://i.imgur.com/Ns47Tfm.png</fanart>
@@ -243,7 +225,7 @@
 
 <item>
 <title>[B]Telecine Fun[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9585|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Fun 4K[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/657|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Fun SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/411|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Telecine Fun HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/9nwihyb.png</thumbnail>
 <fanart>http://i.imgur.com/9nwihyb.png</fanart>
@@ -253,7 +235,7 @@
 
 <item>
 <title>[B]Telecine Pipoca[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9586|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Pipoca 4K[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/658|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Pipoca SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/413|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Telecine Pipoca HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/HtsOTJm.png</thumbnail>
 <fanart>http://i.imgur.com/HtsOTJm.png</fanart>
@@ -261,7 +243,7 @@
 </item>
 <item>
 <title>[B]Telecine Cult[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/9584|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Cult 4K[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/656|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Telecine Cult SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/409|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Telecine Cult HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/fPwVtGc.png</thumbnail>
 <fanart>http://i.imgur.com/fPwVtGc.png</fanart>
@@ -270,8 +252,8 @@
 
 <item>
 <title>[B]Cinemax[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/10986|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Cinemax SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/10987|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Cinemax HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/634|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Cinemax SD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/18212|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Cinemax HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/nlGx2t1.png</thumbnail>
 <fanart>http://i.imgur.com/nlGx2t1.png</fanart>
 <info>O Cinemax é uma rede de televisão por assinatura de filmes, que pertence a Home Box Office, uma subsidiária da WarnerMedia Inc. Foi lançado no Brasil no dia 1º de outubro de 1997.</info>
@@ -287,7 +269,7 @@
 </item>
 <item>
 <title>[B]AMC[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/10970|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]AMC SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/631|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]AMC SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/301|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]AMC HD[/COLOR]</link>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/150/amc.png</thumbnail>
 <fanart>https://www.tvmagazine.com.br/imagens/icones/150/amc.png</fanart>
@@ -296,7 +278,7 @@
 
 <item>
 <title>[B]AXN[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/10974|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]AXN SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/632|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]AXN SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/304|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]AXN HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/kNNpfSN.png</thumbnail>
 <fanart>http://i.imgur.com/kNNpfSN.png</fanart>
@@ -306,7 +288,7 @@
 
 <item>
 <title>[B]Star Channel[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11024|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Star Channel SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/635|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Star Channel SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/490|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Star Channel HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/pjtRpMJ.png</thumbnail>
 <fanart>http://i.imgur.com/pjtRpMJ.png</fanart>
@@ -316,7 +298,7 @@
 
 <item>
 <title>[B]Sony[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/10982|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Sony SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/633|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Sony SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/393|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Sony HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/KjvoSeG.png</thumbnail>
 <fanart>http://i.imgur.com/KjvoSeG.png</fanart>
@@ -326,7 +308,7 @@
 
 <item>
 <title>[B]TNT Séries[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11055|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT Séries SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/663|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT Séries SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/406|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]TNT Séries HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/ky7Nxh1.png</thumbnail>
 <fanart>http://i.imgur.com/ky7Nxh1.png</fanart>
@@ -337,7 +319,7 @@
 
 <item>
 <title>[B]TNT[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11051|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/662|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/405|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]TNT HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/wtLZgX5.png</thumbnail>
 <fanart>http://i.imgur.com/wtLZgX5.png</fanart>
@@ -346,7 +328,7 @@
 
 <item>
 <title>[B]Paramount[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11012|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Paramount SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/650|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Paramount SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/375|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Paramount HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/yScrn6s.png</thumbnail>
 <fanart>http://i.imgur.com/yScrn6s.png</fanart>
@@ -355,7 +337,7 @@
 
 <item>
 <title>[B]Warner[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://88.198.192.72:8080/movcineplus/123654852748/11063|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Warner SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/422|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Warner SD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://37.58.50.28:2095/Touroubox3-QR-PIPS7824687712/2995556018/422|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Warner HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/HBaycf4.png</thumbnail>
 <fanart>http://i.imgur.com/HBaycf4.png</fanart>
@@ -378,7 +360,7 @@
 <item>
 <title>[B]Premiere Clubes[/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/541|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Premiere Clubes SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/164|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere Clubes HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/49925|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere Clubes HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
 <fanart>http://i.imgur.com/xmmiHls.png</fanart>
 <info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
@@ -386,8 +368,8 @@
  
 <item>
 <title>[B]Premiere [/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/150|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Premiere 2[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/152|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere 3[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/542|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Premiere 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/543|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere 3[/COLOR]</link>
 <thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
 <fanart>http://i.imgur.com/xmmiHls.png</fanart>
 <info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
@@ -395,8 +377,8 @@
  
 <item>
 <title>[B]Premiere [/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/154|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Premiere 4[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/156|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere 5[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/544|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Premiere 4[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/545|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere 5[/COLOR]</link>
 <thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
 <fanart>http://i.imgur.com/xmmiHls.png</fanart>
 <info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
@@ -404,8 +386,8 @@
  
 <item>
 <title>[B]Premiere [/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/158|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Premiere 6 SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/160|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere 7 HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/546|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Premiere 6 SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://45.224.115.214:8080/edgar/123/547|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Premiere 7 HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
 <fanart>http://i.imgur.com/xmmiHls.png</fanart>
 <info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
@@ -416,8 +398,8 @@
  
 <item>
 <title>[B]Combate[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/123|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Combate SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1001|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Combate HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/17895|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Combate SD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/34932|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Combate HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/dOFWcWV.png</thumbnail>
 <fanart>http://i.imgur.com/dOFWcWV.png</fanart>
 <info>Combate é uma marca brasileira de conteúdo especializada em esportes de luta pertencente ao Grupo Globo e distribuida via operadoras de tv por assinatura em sistema de pay-per-view. O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mundo de Jiu-Jitsu e Kickboxing. </info>
@@ -428,12 +410,12 @@
  
 <item>
 <title>[B]TNT Sports[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/216|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 1 HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/217|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]TNT SPORTS 2 HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/218|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 3 HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/219|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]TNT SPORTS 4 HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/220|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 5 HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/220|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 6 HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/155198|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 1 HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/155200|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]TNT SPORTS 2 HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/155202|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 3 HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/155204|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]TNT SPORTS 4 HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/155206|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 5 HD[/COLOR]</link>
+<link>http://4tv.site:2082/9939dd/4891349939/155208|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]TNT SPORTS 6 HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/ka06Cjw.png</thumbnail>
 <fanart>http://i.imgur.com/ka06Cjw.png</fanart>
 <info>Esporte Interativo foi um canal esportivo de televisão por assinatura brasileiro que iniciou as transmissões em 5 de janeiro de 2014, incialmente como o nome de Esporte Interativo Nordeste. Ao contrário do canal aberto, este tinha transmissão somente pela TV por Assinatura e transmitidos inteiramente em HD.</info>
@@ -441,8 +423,8 @@
  
 <item>
 <title>[B]ESPN Brasil[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/143$nome= [COLOR green]ESPN Brasil SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/143$nome= [COLOR yellow]ESPN Brasil HD[/COLOR]</link>
+<link>http://189.91.128.146:4444/udp/227.10.20.81:1234?PEDROJUNIORTUTORIAIS$nome= [COLOR green]ESPN Brasil SD[/COLOR]</link>
+<link>http://189.91.128.146:4444/udp/227.10.20.81:1234?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]ESPN Brasil HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/rTXcueh.png</thumbnail>
 <fanart>http://i.imgur.com/rTXcueh.png</fanart>
 <info>ESPN Brasil é a franquia local da ESPN, sendo a filial controlada diretamente pela The Walt Disney Company e pela Hearst Corporation. Transmite eventos esportivos de várias modalidades, tanto nacionais quanto internacionais. No Brasil, a Disney conta com seis canais na TV por assinatura.</info>
@@ -450,9 +432,9 @@
  
 <item>
 <title>[B]ESPN[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/134$nome= [COLOR green]ESPN 1[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/135$nome= [COLOR yellow]ESPN 2[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/134$nome= [COLOR yellow]ESPN EXTRA HD[/COLOR]</link>
+<link>http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31149$nome= [COLOR green]ESPN 1[/COLOR]</link>
+<link>http://189.91.128.146:4444/udp/227.10.20.153:1234?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]ESPN 2[/COLOR]</link>
+<link>http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31146$nome= [COLOR yellow]ESPN EXTRA HD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/kcxzdPA.png</thumbnail>
 <fanart>http://i.imgur.com/kcxzdPA.png</fanart>
 <info>ESPN.com é o website oficial da ESPN e uma subdivisão da ESPN Inc. O site foi lançado em 1995 como ESPNet.SportsZone.com. O site tem várias seções: para a NHL, NFL, MLB, NBA, NASCAR, IRL, College, golfe e futebol. </info>
