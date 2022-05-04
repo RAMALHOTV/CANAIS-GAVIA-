@@ -24,1723 +24,1133 @@ https://www.youtube.com/channel/UCojJlqr-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)991045772
 https://www.youtube.com/channel/UCojJ
 
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/28136
+#EXTINF:-1,24h I Timão & Pumba
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46522
+#EXTINF:-1,89 FM A Rádio Rock
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23663
+#EXTINF:-1,A Mansão Foster para Amigos Imaginários
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46505
+#EXTINF:-1,A Pantera Cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46506
+#EXTINF:-1,A Pequena Sereia (1992)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49724
+#EXTINF:-1,A Vaca e o Frango
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46507
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20253
 #EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12002
-#EXTINF:-1,A&E HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12003
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/236
 #EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12004
-#EXTINF:-1,A&E SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12005
-#EXTINF:-1,BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12006
-#EXTINF:-1,BIS FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12007
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12008
-#EXTINF:-1,BIS HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12009
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12010
-#EXTINF:-1,BIS SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12011
-#EXTINF:-1,Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12012
-#EXTINF:-1,Comedy Central FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12013
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12014
-#EXTINF:-1,Comedy Central HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12015
-#EXTINF:-1,Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12016
-#EXTINF:-1,Comedy Central SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12017
-#EXTINF:-1,Discovery H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12018
-#EXTINF:-1,Discovery H&H FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12019
-#EXTINF:-1,Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12020
-#EXTINF:-1,Discovery H&H HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12021
-#EXTINF:-1,Discovery H&H SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12022
-#EXTINF:-1,Discovery H&H SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12023
-#EXTINF:-1,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12024
-#EXTINF:-1,Discovery Turbo FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12025
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12026
-#EXTINF:-1,Discovery Turbo HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12027
-#EXTINF:-1,Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12028
-#EXTINF:-1,Discovery Turbo SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12029
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12030
-#EXTINF:-1,E! FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12031
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12032
-#EXTINF:-1,E! HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12033
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12034
-#EXTINF:-1,E! SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12035
-#EXTINF:-1,FishTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12042
-#EXTINF:-1,FishTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12043
-#EXTINF:-1,FishTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12044
-#EXTINF:-1,FishTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12045
-#EXTINF:-1,FishTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12046
-#EXTINF:-1,FishTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12047
-#EXTINF:-1,Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12048
-#EXTINF:-1,Food Network FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12049
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12050
-#EXTINF:-1,Food Network HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12051
-#EXTINF:-1,Food Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12052
-#EXTINF:-1,Food Network SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12053
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12054
-#EXTINF:-1,GNT FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12055
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12056
-#EXTINF:-1,GNT HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12057
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12058
-#EXTINF:-1,GNT SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12059
-#EXTINF:-1,Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12060
-#EXTINF:-1,Lifetime FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12061
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12062
-#EXTINF:-1,Lifetime HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12063
-#EXTINF:-1,Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12064
-#EXTINF:-1,Lifetime SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12065
-#EXTINF:-1,Loading FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12066
-#EXTINF:-1,Loading FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12067
-#EXTINF:-1,Loading HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12068
-#EXTINF:-1,Loading HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12069
-#EXTINF:-1,Loading SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12070
-#EXTINF:-1,Loading SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12071
-#EXTINF:-1,Mais GloboSat FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12072
-#EXTINF:-1,Mais GloboSat FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12073
-#EXTINF:-1,Mais GloboSat HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12074
-#EXTINF:-1,Mais GloboSat HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12075
-#EXTINF:-1,Mais GloboSat SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12076
-#EXTINF:-1,Mais GloboSat SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12077
-#EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12078
-#EXTINF:-1,MTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12079
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12080
-#EXTINF:-1,MTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12081
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12082
-#EXTINF:-1,MTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12083
-#EXTINF:-1,MTV Live 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12084
-#EXTINF:-1,MTV Live FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12085
-#EXTINF:-1,MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12086
-#EXTINF:-1,MTV Live HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12087
-#EXTINF:-1,MTV Live SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12088
-#EXTINF:-1,MTV Live SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12089
-#EXTINF:-1,Multishow FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12090
-#EXTINF:-1,Multishow FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12091
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12092
-#EXTINF:-1,Multishow HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12093
-#EXTINF:-1,Multishow SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12094
-#EXTINF:-1,Multishow SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12095
-#EXTINF:-1,Music Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12096
-#EXTINF:-1,Music Box Brazil FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12097
-#EXTINF:-1,Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12098
-#EXTINF:-1,Music Box Brazil HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12099
-#EXTINF:-1,Music Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12100
-#EXTINF:-1,Music Box Brazil SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12101
-#EXTINF:-1,Off FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12102
-#EXTINF:-1,Off FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12103
-#EXTINF:-1,Off HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12104
-#EXTINF:-1,Off HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12105
-#EXTINF:-1,Off SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12106
-#EXTINF:-1,Off SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12107
-#EXTINF:-1,Cinecanal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12114
-#EXTINF:-1,Cinecanal FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12115
-#EXTINF:-1,Cinecanal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12116
-#EXTINF:-1,Cinecanal HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12117
-#EXTINF:-1,Cinecanal SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12118
-#EXTINF:-1,Cinecanal SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12119
-#EXTINF:-1,TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12120
-#EXTINF:-1,TLC FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12121
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12122
-#EXTINF:-1,TLC HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12123
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12124
-#EXTINF:-1,TLC SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12125
-#EXTINF:-1,TruTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12126
-#EXTINF:-1,TruTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12127
-#EXTINF:-1,TruTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12128
-#EXTINF:-1,TruTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12129
-#EXTINF:-1,TruTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12130
-#EXTINF:-1,TruTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12131
-#EXTINF:-1,VH1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12132
-#EXTINF:-1,VH1 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12133
-#EXTINF:-1,VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12134
-#EXTINF:-1,VH1 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12135
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12136
-#EXTINF:-1,VH1 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12137
-#EXTINF:-1,Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12138
-#EXTINF:-1,Viva FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12139
-#EXTINF:-1,Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12140
-#EXTINF:-1,Viva HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12141
-#EXTINF:-1,Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12142
-#EXTINF:-1,Viva SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12143
-#EXTINF:-1,WooHoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12144
-#EXTINF:-1,WooHoo FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12145
-#EXTINF:-1,WooHoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12146
-#EXTINF:-1,WooHoo HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12147
-#EXTINF:-1,WooHoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12148
-#EXTINF:-1,WooHoo SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/12149
-#EXTINF:-1,AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13000
-#EXTINF:-1,AMC FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13001
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/235
+#EXTINF:-1,AgroMais HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48331
+#EXTINF:-1,AgroMais SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48332
+#EXTINF:-1,Aladdin (1994)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42939
 #EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13002
-#EXTINF:-1,AMC HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13003
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/512
 #EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13004
-#EXTINF:-1,AMC SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13005
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13006
-#EXTINF:-1,AXN FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13007
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13008
-#EXTINF:-1,AXN HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13009
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13010
-#EXTINF:-1,AXN SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13011
-#EXTINF:-1,Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13012
-#EXTINF:-1,Canal Brasil FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13013
-#EXTINF:-1,Canal Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13014
-#EXTINF:-1,Canal Brasil HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13015
-#EXTINF:-1,Canal Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13016
-#EXTINF:-1,Canal Brasil SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13017
-#EXTINF:-1,Canal Sony FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13018
-#EXTINF:-1,Canal Sony FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13019
-#EXTINF:-1,Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13020
-#EXTINF:-1,Canal Sony HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13021
-#EXTINF:-1,Canal Sony SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13022
-#EXTINF:-1,Canal Sony SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13023
-#EXTINF:-1,Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13024
-#EXTINF:-1,Cinemax FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13025
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13026
-#EXTINF:-1,Cinemax HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13027
-#EXTINF:-1,Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13028
-#EXTINF:-1,Cinemax SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13029
-#EXTINF:-1,Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13030
-#EXTINF:-1,Star Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13031
-#EXTINF:-1,Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13032
-#EXTINF:-1,Star Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13033
-#EXTINF:-1,Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13034
-#EXTINF:-1,Star Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13035
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13048
-#EXTINF:-1,FX FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13049
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13050
-#EXTINF:-1,FX HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13051
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13052
-#EXTINF:-1,FX SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13053
-#EXTINF:-1,Megapix FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13054
-#EXTINF:-1,Megapix FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13055
-#EXTINF:-1,Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13056
-#EXTINF:-1,Megapix HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13057
-#EXTINF:-1,Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13058
-#EXTINF:-1,Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13059
-#EXTINF:-1,Paramount Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13060
-#EXTINF:-1,Paramount Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13061
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13062
-#EXTINF:-1,Paramount Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13063
-#EXTINF:-1,Paramount Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13064
-#EXTINF:-1,Paramount Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13065
-#EXTINF:-1,Smithsonian Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13066
-#EXTINF:-1,Smithsonian Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13067
-#EXTINF:-1,Smithsonian Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13068
-#EXTINF:-1,Smithsonian Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13069
-#EXTINF:-1,Smithsonian Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13070
-#EXTINF:-1,Smithsonian Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13071
-#EXTINF:-1,Space FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13072
-#EXTINF:-1,Space FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13073
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13074
-#EXTINF:-1,Space HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13075
-#EXTINF:-1,Space SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13076
-#EXTINF:-1,Space SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13077
-#EXTINF:-1,SyFy FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13078
-#EXTINF:-1,SyFy FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13079
-#EXTINF:-1,SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13080
-#EXTINF:-1,SyFy HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13081
-#EXTINF:-1,SyFy SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13082
-#EXTINF:-1,SyFy SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13083
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13084
-#EXTINF:-1,TBS FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13085
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13086
-#EXTINF:-1,TBS HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13087
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13088
-#EXTINF:-1,TBS SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13089
-#EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13090
-#EXTINF:-1,TNT FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13091
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13092
-#EXTINF:-1,TNT HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13093
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13094
-#EXTINF:-1,TNT SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13095
-#EXTINF:-1,TNT Séries FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13096
-#EXTINF:-1,TNT Séries FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13097
-#EXTINF:-1,TNT Séries HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13098
-#EXTINF:-1,TNT Séries HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13099
-#EXTINF:-1,TNT Séries SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13100
-#EXTINF:-1,TNT Séries SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13101
-#EXTINF:-1,Universal Studio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13102
-#EXTINF:-1,Universal Studio FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13103
-#EXTINF:-1,Universal Studio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13104
-#EXTINF:-1,Universal Studio HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13105
-#EXTINF:-1,Universal Studio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13106
-#EXTINF:-1,Universal Studio SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13107
-#EXTINF:-1,Universal TV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13108
-#EXTINF:-1,Universal TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13109
-#EXTINF:-1,Universal TV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13110
-#EXTINF:-1,Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13111
-#EXTINF:-1,Universal TV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13112
-#EXTINF:-1,Universal TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13113
-#EXTINF:-1,Warner Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13114
-#EXTINF:-1,Warner Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13115
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13116
-#EXTINF:-1,Warner Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13117
-#EXTINF:-1,Warner Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13118
-#EXTINF:-1,Warner Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/13119
-#EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14000
-#EXTINF:-1,HBO FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14001
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14002
-#EXTINF:-1,HBO HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14003
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14004
-#EXTINF:-1,HBO SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14005
-#EXTINF:-1,HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14006
-#EXTINF:-1,HBO 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14007
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14008
-#EXTINF:-1,HBO 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14009
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14010
-#EXTINF:-1,HBO 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14011
-#EXTINF:-1,HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14012
-#EXTINF:-1,HBO Family FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14013
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14014
-#EXTINF:-1,HBO Family HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14015
-#EXTINF:-1,HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14016
-#EXTINF:-1,HBO Family SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14017
-#EXTINF:-1,HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14018
-#EXTINF:-1,HBO Mundi FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14019
-#EXTINF:-1,HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14020
-#EXTINF:-1,HBO Mundi HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14021
-#EXTINF:-1,HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14022
-#EXTINF:-1,HBO Mundi SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14023
-#EXTINF:-1,HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14024
-#EXTINF:-1,HBO Plus FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14025
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14026
-#EXTINF:-1,HBO Plus HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14027
-#EXTINF:-1,HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14028
-#EXTINF:-1,HBO Plus SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14029
-#EXTINF:-1,HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14030
-#EXTINF:-1,HBO Pop FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14031
-#EXTINF:-1,HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14032
-#EXTINF:-1,HBO Pop HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14033
-#EXTINF:-1,HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14034
-#EXTINF:-1,HBO Pop SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14035
-#EXTINF:-1,HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14036
-#EXTINF:-1,HBO Signature FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14037
-#EXTINF:-1,HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14038
-#EXTINF:-1,HBO Signature HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14039
-#EXTINF:-1,HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14040
-#EXTINF:-1,HBO Signature SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14041
-#EXTINF:-1,HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14042
-#EXTINF:-1,HBO Xtreme FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14043
-#EXTINF:-1,HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14044
-#EXTINF:-1,HBO Xtreme HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14045
-#EXTINF:-1,HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14046
-#EXTINF:-1,HBO Xtreme SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/14047
-#EXTINF:-1,Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15000
-#EXTINF:-1,Telecine Action FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15001
-#EXTINF:-1,Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15002
-#EXTINF:-1,Telecine Action HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15003
-#EXTINF:-1,Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15004
-#EXTINF:-1,Telecine Action SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15005
-#EXTINF:-1,Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15006
-#EXTINF:-1,Telecine Cult FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15007
-#EXTINF:-1,Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15008
-#EXTINF:-1,Telecine Cult HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15009
-#EXTINF:-1,Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15010
-#EXTINF:-1,Telecine Cult SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15011
-#EXTINF:-1,Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15012
-#EXTINF:-1,Telecine Fun FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15013
-#EXTINF:-1,Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15014
-#EXTINF:-1,Telecine Fun HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15015
-#EXTINF:-1,Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15016
-#EXTINF:-1,Telecine Fun SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15017
-#EXTINF:-1,Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15018
-#EXTINF:-1,Telecine Pipoca FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15019
-#EXTINF:-1,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15020
-#EXTINF:-1,Telecine Pipoca HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15021
-#EXTINF:-1,Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15022
-#EXTINF:-1,Telecine Pipoca SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15023
-#EXTINF:-1,Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15024
-#EXTINF:-1,Telecine Premium FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15025
-#EXTINF:-1,Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15026
-#EXTINF:-1,Telecine Premium HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15027
-#EXTINF:-1,Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15028
-#EXTINF:-1,Telecine Premium SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15029
-#EXTINF:-1,Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15030
-#EXTINF:-1,Telecine Touch FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15031
-#EXTINF:-1,Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15032
-#EXTINF:-1,Telecine Touch HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15033
-#EXTINF:-1,Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15034
-#EXTINF:-1,Telecine Touch SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/15035
-#EXTINF:-1,Cine SKY 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16000
-#EXTINF:-1,Cine SKY 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16001
-#EXTINF:-1,Cine SKY 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16002
-#EXTINF:-1,Cine SKY 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16003
-#EXTINF:-1,Cine SKY 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16004
-#EXTINF:-1,Cine SKY 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16005
-#EXTINF:-1,Cine SKY 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16006
-#EXTINF:-1,Cine SKY 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16007
-#EXTINF:-1,Cine SKY 09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16008
-#EXTINF:-1,Cine SKY 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/16009
-#EXTINF:-1,Band FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17000
-#EXTINF:-1,Band HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17001
-#EXTINF:-1,Band SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17002
-#EXTINF:-1,Cultura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17003
-#EXTINF:-1,Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17004
-#EXTINF:-1,Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17005
-#EXTINF:-1,Futura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17006
-#EXTINF:-1,Futura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17007
-#EXTINF:-1,Futura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17008
-#EXTINF:-1,Record TV SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17009
-#EXTINF:-1,Record TV SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17010
-#EXTINF:-1,Record TV SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17011
-#EXTINF:-1,Record TV Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17012
-#EXTINF:-1,Record TV Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17013
-#EXTINF:-1,Record TV Rio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17014
-#EXTINF:-1,Record TV Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17015
-#EXTINF:-1,Record TV Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17016
-#EXTINF:-1,Record TV Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17017
-#EXTINF:-1,Record TV RS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17018
-#EXTINF:-1,Record TV RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17019
-#EXTINF:-1,Record TV RS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17020
-#EXTINF:-1,Record TV Itapon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17021
-#EXTINF:-1,Record TV Itapon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17022
-#EXTINF:-1,Record TV Itapon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17023
-#EXTINF:-1,Record TV Brasilia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17024
-#EXTINF:-1,Record TV Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17025
-#EXTINF:-1,Record TV Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17026
-#EXTINF:-1,Record TV Goias FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17027
-#EXTINF:-1,Record TV Goias HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17028
-#EXTINF:-1,Record TV Goias SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17029
-#EXTINF:-1,Record TV Belém FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17030
-#EXTINF:-1,Record TV Belém HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17031
-#EXTINF:-1,Record TV Belém SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17032
-#EXTINF:-1,Record TV Manaus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17033
-#EXTINF:-1,Record TV Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17034
-#EXTINF:-1,Record TV Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17035
-#EXTINF:-1,RedeTV! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17036
-#EXTINF:-1,RedeTV! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17037
-#EXTINF:-1,RedeTV! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17038
-#EXTINF:-1,SBT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17039
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17040
-#EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17041
-#EXTINF:-1,TV Diario
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17042
-#EXTINF:-1,RBTV - Rede Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/17043
-#EXTINF:-1,﻿﻿EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18000
-#EXTINF:-1,EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18001
-#EXTINF:-1,EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18002
-#EXTINF:-1,EPTV Ribeirão FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18003
-#EXTINF:-1,EPTV Ribeirão HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18004
-#EXTINF:-1,EPTV Ribeirão SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18005
-#EXTINF:-1,Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18006
-#EXTINF:-1,Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18007
-#EXTINF:-1,Inter TV Alto Litoral SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18008
-#EXTINF:-1,Inter TV Cabugi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18009
-#EXTINF:-1,Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18010
-#EXTINF:-1,Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18011
-#EXTINF:-1,Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18012
-#EXTINF:-1,Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18013
-#EXTINF:-1,Inter TV dos Vales SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18014
-#EXTINF:-1,Inter TV Grande Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18015
-#EXTINF:-1,Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18016
-#EXTINF:-1,Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18017
-#EXTINF:-1,Inter TV Serra Mar FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18018
-#EXTINF:-1,Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18019
-#EXTINF:-1,Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18020
-#EXTINF:-1,RBS TV Florianópolis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18021
-#EXTINF:-1,RBS TV Florianópolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18022
-#EXTINF:-1,RBS TV Florianópolis SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18023
-#EXTINF:-1,RBS TV Porto Alegre FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18024
-#EXTINF:-1,RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18025
-#EXTINF:-1,RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18026
-#EXTINF:-1,Rede Amazônica Boa Vista FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18027
-#EXTINF:-1,Rede Amazônica Boa Vista HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18028
-#EXTINF:-1,Rede Amazônica Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18029
-#EXTINF:-1,Rede Amazônica Macapá FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18030
-#EXTINF:-1,Rede Amazônica Macapá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18031
-#EXTINF:-1,Rede Amazônica Macapá SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18032
-#EXTINF:-1,Rede Amazônica Manaus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18033
-#EXTINF:-1,Rede Amazônica Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18034
-#EXTINF:-1,Rede Amazônica Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18035
-#EXTINF:-1,Rede Amazônica Porto Velho FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18036
-#EXTINF:-1,Rede Amazônica Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18037
-#EXTINF:-1,Rede Amazônica Porto Velho SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18038
-#EXTINF:-1,Rede Amazônica Rio Branco FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18039
-#EXTINF:-1,Rede Amazônica Rio Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18040
-#EXTINF:-1,Rede Amazônica Rio Branco SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18041
-#EXTINF:-1,RPC Curitiba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18042
-#EXTINF:-1,RPC Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18043
-#EXTINF:-1,RPC Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18044
-#EXTINF:-1,TV Anhanguera Goiânia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18045
-#EXTINF:-1,TV Anhanguera Goiânia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18046
-#EXTINF:-1,TV Anhanguera Goiânia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18047
-#EXTINF:-1,TV Bahia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18048
-#EXTINF:-1,TV Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18049
-#EXTINF:-1,TV Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18050
-#EXTINF:-1,TV Fronteira FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18051
-#EXTINF:-1,TV Fronteira HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18052
-#EXTINF:-1,TV Fronteira SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18053
-#EXTINF:-1,TV Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18054
-#EXTINF:-1,TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18055
-#EXTINF:-1,TV Gazeta SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18056
-#EXTINF:-1,TV Globo Brasília FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18057
-#EXTINF:-1,TV Globo Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18058
-#EXTINF:-1,TV Globo Brasília SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18059
-#EXTINF:-1,TV Globo Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18060
-#EXTINF:-1,TV Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18061
-#EXTINF:-1,TV Globo Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18062
-#EXTINF:-1,TV Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18063
-#EXTINF:-1,TV Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18064
-#EXTINF:-1,TV Globo Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18065
-#EXTINF:-1,TV Globo Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18066
-#EXTINF:-1,TV Globo Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18067
-#EXTINF:-1,TV Globo Rio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18068
-#EXTINF:-1,TV Globo São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18069
-#EXTINF:-1,TV Globo São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18070
-#EXTINF:-1,TV Globo São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18071
-#EXTINF:-1,TV Integração Uberlândia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18072
-#EXTINF:-1,TV Integração Uberlândia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18073
-#EXTINF:-1,TV Integração Uberlândia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18074
-#EXTINF:-1,TV Liberal Belém FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18075
-#EXTINF:-1,TV Liberal Belém HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18076
-#EXTINF:-1,TV Liberal Belém SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18077
-#EXTINF:-1,TV Mirante Cocais FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18078
-#EXTINF:-1,TV Mirante Cocais HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18079
-#EXTINF:-1,TV Mirante Cocais SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18080
-#EXTINF:-1,TV Mirante Imperatriz FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18081
-#EXTINF:-1,TV Mirante Imperatriz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18082
-#EXTINF:-1,TV Mirante Imperatriz SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18083
-#EXTINF:-1,TV Mirante São Luiz FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18084
-#EXTINF:-1,TV Mirante São Luiz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18085
-#EXTINF:-1,TV Mirante São Luiz SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18086
-#EXTINF:-1,TV Morena Campo Grande FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18087
-#EXTINF:-1,TV Morena Campo Grande HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18088
-#EXTINF:-1,TV Morena Campo Grande SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18089
-#EXTINF:-1,TV TEM Bauru FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18090
-#EXTINF:-1,TV TEM Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18091
-#EXTINF:-1,TV TEM Bauru SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18092
-#EXTINF:-1,TV TEM Itapetininga FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18093
-#EXTINF:-1,TV TEM Itapetininga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18094
-#EXTINF:-1,TV TEM Itapetininga SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18095
-#EXTINF:-1,TV TEM São José do Rio Preto FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18096
-#EXTINF:-1,TV TEM São José do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18097
-#EXTINF:-1,TV TEM São José do Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18098
-#EXTINF:-1,TV TEM Sorocaba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18099
-#EXTINF:-1,TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18100
-#EXTINF:-1,TV TEM Sorocaba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18101
-#EXTINF:-1,TV Tribuna FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18102
-#EXTINF:-1,TV Tribuna HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18103
-#EXTINF:-1,TV Tribuna SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18104
-#EXTINF:-1,TV Verdes Mares Cariri FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18105
-#EXTINF:-1,TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18106
-#EXTINF:-1,TV Verdes Mares Cariri SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18107
-#EXTINF:-1,TV Verdes Mares Fortaleza FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18108
-#EXTINF:-1,TV Verdes Mares Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18109
-#EXTINF:-1,TV Verdes Mares Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18110
-#EXTINF:-1,Vanguarda São José dos Campos FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18111
-#EXTINF:-1,Vanguarda São José dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18112
-#EXTINF:-1,Vanguarda São José dos Campos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18113
-#EXTINF:-1,Vanguarda Taubaté FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18114
-#EXTINF:-1,Vanguarda Taubaté HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18115
-#EXTINF:-1,Vanguarda Taubaté SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18116
-#EXTINF:-1,EPTV Sul de Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18117
-#EXTINF:-1,EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18118
-#EXTINF:-1,EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18119
-#EXTINF:-1,Inter TV Planície FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18120
-#EXTINF:-1,Inter TV Planície HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18121
-#EXTINF:-1,Inter TV Planície SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18122
-#EXTINF:-1,EPTV Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18123
-#EXTINF:-1,EPTV Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18124
-#EXTINF:-1,EPTV Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18125
-#EXTINF:-1,TV Centro-américa Cuiabá FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18126
-#EXTINF:-1,TV Centro-américa Cuiabá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18127
-#EXTINF:-1,TV Centro-américa Cuiabá SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18128
-#EXTINF:-1,Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18129
-#EXTINF:-1,Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18130
-#EXTINF:-1,Globo TV Sergipe SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18131
-#EXTINF:-1,TV Clube FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18132
-#EXTINF:-1,TV Clube HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18133
-#EXTINF:-1,TV Clube SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/18134
-#EXTINF:-1,Band Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19000
-#EXTINF:-1,Band Sports FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19001
-#EXTINF:-1,Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19002
-#EXTINF:-1,Band Sports HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19003
-#EXTINF:-1,Band Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19004
-#EXTINF:-1,Band Sports SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19005
-#EXTINF:-1,Conmebol TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19006
-#EXTINF:-1,Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19007
-#EXTINF:-1,Conmebol TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19008
-#EXTINF:-1,Conmebol TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19009
-#EXTINF:-1,Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19010
-#EXTINF:-1,Conmebol TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19011
-#EXTINF:-1,Conmebol TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19012
-#EXTINF:-1,Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19013
-#EXTINF:-1,Conmebol TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19014
-#EXTINF:-1,Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19015
-#EXTINF:-1,Combate FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19016
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19017
-#EXTINF:-1,Combate HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19018
-#EXTINF:-1,Combate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19019
-#EXTINF:-1,Combate SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19020
-#EXTINF:-1,DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19021
-#EXTINF:-1,DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19022
-#EXTINF:-1,DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19023
-#EXTINF:-1,Copa do Brasil 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19024
-#EXTINF:-1,Copa do Brasil 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19025
-#EXTINF:-1,Copa do Brasil 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19026
-#EXTINF:-1,Fox Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19027
-#EXTINF:-1,Fox Sports FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19028
-#EXTINF:-1,Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19029
-#EXTINF:-1,Fox Sports HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19030
-#EXTINF:-1,Fox Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19031
-#EXTINF:-1,Fox Sports SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19032
-#EXTINF:-1,Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19033
-#EXTINF:-1,Fox Sports 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19034
-#EXTINF:-1,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19035
-#EXTINF:-1,Fox Sports 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19036
-#EXTINF:-1,Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19037
-#EXTINF:-1,Fox Sports 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19038
-#EXTINF:-1,Conmebol TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19039
-#EXTINF:-1,Conmebol TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19040
-#EXTINF:-1,Conmebol TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19041
-#EXTINF:-1,NBA 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19042
-#EXTINF:-1,NBA 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19043
-#EXTINF:-1,NBA 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19044
-#EXTINF:-1,STAR+ 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19045
-#EXTINF:-1,STAR+ 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19046
-#EXTINF:-1,STAR+ 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19047
-#EXTINF:-1,Campeonato Carioca 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19048
-#EXTINF:-1,Campeonato Carioca 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19049
-#EXTINF:-1,Campeonato Carioca 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19050
-#EXTINF:-1,Copa do Nordeste 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19051
-#EXTINF:-1,Copa do Nordeste 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19052
-#EXTINF:-1,Copa do Nordeste 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19053
-#EXTINF:-1,HBO MAX 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19054
-#EXTINF:-1,HBO MAX 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19055
-#EXTINF:-1,HBO MAX 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19056
-#EXTINF:-1,HBO MAX 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19057
-#EXTINF:-1,HBO MAX 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/19058
-#EXTINF:-1,﻿Premiere 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20000
-#EXTINF:-1,Premiere 1 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20001
-#EXTINF:-1,Premiere 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20002
-#EXTINF:-1,Premiere 1 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20003
-#EXTINF:-1,Premiere 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20004
-#EXTINF:-1,Premiere 1 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20005
-#EXTINF:-1,Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20006
-#EXTINF:-1,Premiere 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20007
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20008
-#EXTINF:-1,Premiere 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20009
-#EXTINF:-1,Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20010
-#EXTINF:-1,Premiere 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20011
-#EXTINF:-1,Premiere 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20012
-#EXTINF:-1,Premiere 3 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20013
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20014
-#EXTINF:-1,Premiere 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20015
-#EXTINF:-1,Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20016
-#EXTINF:-1,Premiere 3 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20017
-#EXTINF:-1,Premiere 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20018
-#EXTINF:-1,Premiere 4 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20019
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20020
-#EXTINF:-1,Premiere 4 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20021
-#EXTINF:-1,Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20022
-#EXTINF:-1,Premiere 4 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20023
-#EXTINF:-1,Premiere 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20024
-#EXTINF:-1,Premiere 5 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20025
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20026
-#EXTINF:-1,Premiere 5 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20027
-#EXTINF:-1,Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20028
-#EXTINF:-1,Premiere 5 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20029
-#EXTINF:-1,Premiere 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20030
-#EXTINF:-1,Premiere 6 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20031
-#EXTINF:-1,Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20032
-#EXTINF:-1,Premiere 6 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20033
-#EXTINF:-1,Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20034
-#EXTINF:-1,Premiere 6 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20035
-#EXTINF:-1,Premiere 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20036
-#EXTINF:-1,Premiere 7 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20037
-#EXTINF:-1,Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20038
-#EXTINF:-1,Premiere 7 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20039
-#EXTINF:-1,Premiere 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20040
-#EXTINF:-1,Premiere 7 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20041
-#EXTINF:-1,Premiere 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20042
-#EXTINF:-1,Premiere 8 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20043
-#EXTINF:-1,Premiere 8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20044
-#EXTINF:-1,Premiere 8 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20045
-#EXTINF:-1,Premiere 8 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20046
-#EXTINF:-1,Premiere 8 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/20047
-#EXTINF:-1,SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21000
-#EXTINF:-1,SporTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21001
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21002
-#EXTINF:-1,SporTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21003
-#EXTINF:-1,SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21004
-#EXTINF:-1,SporTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21005
-#EXTINF:-1,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21006
-#EXTINF:-1,SporTV 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21007
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21008
-#EXTINF:-1,SporTV 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21009
-#EXTINF:-1,SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21010
-#EXTINF:-1,SporTV 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21011
-#EXTINF:-1,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21012
-#EXTINF:-1,SporTV 3 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21013
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21014
-#EXTINF:-1,SporTV 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21015
-#EXTINF:-1,SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21016
-#EXTINF:-1,SporTV 3 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/21017
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22000
-#EXTINF:-1,ESPN FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22001
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22002
-#EXTINF:-1,ESPN HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22003
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22004
-#EXTINF:-1,ESPN SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22005
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22006
-#EXTINF:-1,ESPN 2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22007
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22008
-#EXTINF:-1,ESPN 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22009
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22010
-#EXTINF:-1,ESPN 2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22011
-#EXTINF:-1,ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22012
-#EXTINF:-1,ESPN 3 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22013
-#EXTINF:-1,ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22014
-#EXTINF:-1,ESPN 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22015
-#EXTINF:-1,ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22016
-#EXTINF:-1,ESPN 3 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22017
-#EXTINF:-1,ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22018
-#EXTINF:-1,ESPN Extra FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22019
-#EXTINF:-1,ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22020
-#EXTINF:-1,ESPN Extra HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22021
-#EXTINF:-1,ESPN Extra SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22022
-#EXTINF:-1,ESPN Extra SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/22023
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/233
 #EXTINF:-1,Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23000
-#EXTINF:-1,Animal Planet FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23001
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20257
 #EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23002
-#EXTINF:-1,Animal Planet HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23003
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/232
 #EXTINF:-1,Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23004
-#EXTINF:-1,Animal Planet SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23005
-#EXTINF:-1,Arte1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23006
-#EXTINF:-1,Arte1 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23007
-#EXTINF:-1,Arte1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23008
-#EXTINF:-1,Arte1 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23009
-#EXTINF:-1,Arte1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23010
-#EXTINF:-1,Arte1 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23011
-#EXTINF:-1,Curta! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23012
-#EXTINF:-1,Curta! FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23013
-#EXTINF:-1,Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23014
-#EXTINF:-1,Curta! HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23015
-#EXTINF:-1,Curta! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23016
-#EXTINF:-1,Curta! SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23017
-#EXTINF:-1,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23018
-#EXTINF:-1,Discovery Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23019
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23020
-#EXTINF:-1,Discovery Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23021
-#EXTINF:-1,Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23022
-#EXTINF:-1,Discovery Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23023
-#EXTINF:-1,Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23024
-#EXTINF:-1,Discovery Science FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23025
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23026
-#EXTINF:-1,Discovery Science HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23027
-#EXTINF:-1,Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23028
-#EXTINF:-1,Discovery Science SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23029
-#EXTINF:-1,Discovery Theater FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23030
-#EXTINF:-1,Discovery Theater FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23031
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23032
-#EXTINF:-1,Discovery Theater HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23033
-#EXTINF:-1,Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23034
-#EXTINF:-1,Discovery Theater SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23035
-#EXTINF:-1,Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23036
-#EXTINF:-1,Discovery World FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23037
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23038
-#EXTINF:-1,Discovery World HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23039
-#EXTINF:-1,Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23040
-#EXTINF:-1,Discovery World SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23041
-#EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23042
-#EXTINF:-1,H2 FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23043
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23044
-#EXTINF:-1,H2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23045
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23046
-#EXTINF:-1,H2 SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23047
-#EXTINF:-1,HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23048
-#EXTINF:-1,HGTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23049
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23050
-#EXTINF:-1,HGTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23051
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23052
-#EXTINF:-1,HGTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23053
-#EXTINF:-1,History FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23054
-#EXTINF:-1,History FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23055
-#EXTINF:-1,History HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23056
-#EXTINF:-1,History HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23057
-#EXTINF:-1,History SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23058
-#EXTINF:-1,History SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23059
-#EXTINF:-1,ID: Investigação Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23060
-#EXTINF:-1,ID: Investigação Discovery FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23061
-#EXTINF:-1,ID: Investigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23062
-#EXTINF:-1,ID: Investigação Discovery HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23063
-#EXTINF:-1,ID: Investigação Discovery SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23064
-#EXTINF:-1,ID: Investigação Discovery SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23065
-#EXTINF:-1,National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23066
-#EXTINF:-1,National Geographic FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23067
-#EXTINF:-1,National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23068
-#EXTINF:-1,National Geographic HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23069
-#EXTINF:-1,National Geographic SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23070
-#EXTINF:-1,National Geographic SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/23071
-#EXTINF:-1,BabyTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24000
-#EXTINF:-1,BabyTV FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24001
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/231
+#EXTINF:-1,As Aventuras de Jackie Chan (2000)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49715
+#EXTINF:-1,As Meninas Superpoderosas (1998)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42941
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20234
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/535
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/227
 #EXTINF:-1,BabyTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24002
-#EXTINF:-1,BabyTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24003
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/226
 #EXTINF:-1,BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24004
-#EXTINF:-1,BabyTV SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24005
-#EXTINF:-1,Boomerang FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24006
-#EXTINF:-1,Boomerang FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24007
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24008
-#EXTINF:-1,Boomerang HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24009
-#EXTINF:-1,Boomerang SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24010
-#EXTINF:-1,Boomerang SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24011
-#EXTINF:-1,Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24012
-#EXTINF:-1,Cartoon Network FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24013
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24014
-#EXTINF:-1,Cartoon Network HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24015
-#EXTINF:-1,Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24016
-#EXTINF:-1,Cartoon Network SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24017
-#EXTINF:-1,Discovery Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24018
-#EXTINF:-1,Discovery Kids FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24019
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24020
-#EXTINF:-1,Discovery Kids HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24021
-#EXTINF:-1,Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24022
-#EXTINF:-1,Discovery Kids SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24023
-#EXTINF:-1,Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24024
-#EXTINF:-1,Disney Channel FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24025
-#EXTINF:-1,Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24026
-#EXTINF:-1,Disney Channel HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24027
-#EXTINF:-1,Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24028
-#EXTINF:-1,Disney Channel SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24029
-#EXTINF:-1,Gloob FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24042
-#EXTINF:-1,Gloob FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24043
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24044
-#EXTINF:-1,Gloob HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24045
-#EXTINF:-1,Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24046
-#EXTINF:-1,Gloob SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24047
-#EXTINF:-1,Nick Jr FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24054
-#EXTINF:-1,Nick Jr FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24055
-#EXTINF:-1,Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24056
-#EXTINF:-1,Nick Jr HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24057
-#EXTINF:-1,Nick Jr SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24058
-#EXTINF:-1,Nick Jr SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24059
-#EXTINF:-1,Nickelodeon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24060
-#EXTINF:-1,Nickelodeon FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24061
-#EXTINF:-1,Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24062
-#EXTINF:-1,Nickelodeon HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24063
-#EXTINF:-1,Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24064
-#EXTINF:-1,Nickelodeon SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24065
-#EXTINF:-1,Tooncast FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24066
-#EXTINF:-1,Tooncast FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24067
-#EXTINF:-1,Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24068
-#EXTINF:-1,Tooncast HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24069
-#EXTINF:-1,Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24070
-#EXTINF:-1,Tooncast SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24071
-#EXTINF:-1,TV Ra Tim Bum FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24072
-#EXTINF:-1,TV Ra Tim Bum FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24073
-#EXTINF:-1,TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24074
-#EXTINF:-1,TV Ra Tim Bum HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24075
-#EXTINF:-1,TV Ra Tim Bum SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24076
-#EXTINF:-1,TV Ra Tim Bum SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24077
-#EXTINF:-1,ZooMoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24078
-#EXTINF:-1,ZooMoo FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24079
-#EXTINF:-1,ZooMoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24080
-#EXTINF:-1,ZooMoo HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24081
-#EXTINF:-1,ZooMoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24082
-#EXTINF:-1,ZooMoo SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/24083
-#EXTINF:-1,Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25000
-#EXTINF:-1,Band News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25001
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/225
+#EXTINF:-1,Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/242
+#EXTINF:-1,Band Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/241
 #EXTINF:-1,Band News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25002
-#EXTINF:-1,Band News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25003
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/224
 #EXTINF:-1,Band News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25004
-#EXTINF:-1,Band News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25005
-#EXTINF:-1,CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25006
-#EXTINF:-1,CNN Brasil FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25007
-#EXTINF:-1,CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25008
-#EXTINF:-1,CNN Brasil HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25009
-#EXTINF:-1,CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25010
-#EXTINF:-1,CNN Brasil SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25011
-#EXTINF:-1,Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25012
-#EXTINF:-1,Globo News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25013
-#EXTINF:-1,Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25014
-#EXTINF:-1,Globo News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25015
-#EXTINF:-1,Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25016
-#EXTINF:-1,Globo News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25017
-#EXTINF:-1,Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25018
-#EXTINF:-1,Record News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25019
-#EXTINF:-1,Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25020
-#EXTINF:-1,Record News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25021
-#EXTINF:-1,Record News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25022
-#EXTINF:-1,Record News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25023
-#EXTINF:-1,Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25024
-#EXTINF:-1,Jovem Pan News FHD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25025
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/223
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/130
+#EXTINF:-1,Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/129
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/221
+#EXTINF:-1,Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/220
+#EXTINF:-1,Ben 10: Omniverse
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46508
+#EXTINF:-1,Ben 10: Supremacia Alienígena
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46509
+#EXTINF:-1,BestRadio Brasil
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23673
+#EXTINF:-1,Bis HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/219
+#EXTINF:-1,BIs SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/218
+#EXTINF:-1,Black Kamen Rider 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/537
+#EXTINF:-1,Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49127
+#EXTINF:-1,Bloomberg SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49128
+#EXTINF:-1,Boa Vontade TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49115
+#EXTINF:-1,Boa Vontade TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49116
+#EXTINF:-1,Bob Esponja 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40793
+#EXTINF:-1,BoJack Horseman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46510
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/217
+#EXTINF:-1,Boomerang SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/216
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20227
+#EXTINF:-1,Canal CSI 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/538
+#EXTINF:-1,Canal do Boi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20467
+#EXTINF:-1,Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49046
+#EXTINF:-1,Canal do Carro HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48327
+#EXTINF:-1,Canal do Carro SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48328
+#EXTINF:-1,Canal I Tv Igreja Mundial do Poder de Deus
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23207
+#EXTINF:-1,Canal Rural HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49121
+#EXTINF:-1,Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49122
+#EXTINF:-1,Canção Nova HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47755
+#EXTINF:-1,Canção Nova SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47756
+#EXTINF:-1,Capitão Planeta (1990)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49779
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20267
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/524
+#EXTINF:-1,Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/204
+#EXTINF:-1,Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49052
+#EXTINF:-1,Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49053
+#EXTINF:-1,CatDog
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46511
+#EXTINF:-1,Caverna do Dragão
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46512
+#EXTINF:-1,CDZ  Saga de Poseidon 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40787
+#EXTINF:-1,CDZ Saga de Asgard 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40788
+#EXTINF:-1,CDZ Saga de Hades 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40789
+#EXTINF:-1,CDZ Saga do Santuario  24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40790
+#EXTINF:-1,Chapolin 2 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19541
+#EXTINF:-1,Chaves
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46513
+#EXTINF:-1,Chaves 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40791
+#EXTINF:-1,Chaves Desenho 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40798
+#EXTINF:-1,Chris Country
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23664
+#EXTINF:-1,Cine Action 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/548
+#EXTINF:-1,Cine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/28657
+#EXTINF:-1,Cine Drama 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/550
+#EXTINF:-1,Cine Family 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/551
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/536
+#EXTINF:-1,Cine Fun 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/552
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1477
+#EXTINF:-1,Cine Horror 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/553
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/554
+#EXTINF:-1,CINE Nacionais 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/555
+#EXTINF:-1,CINE SKY 01 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26714
+#EXTINF:-1,CINE SKY 02 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26715
+#EXTINF:-1,CINE SKY 03 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26716
+#EXTINF:-1,CINE SKY 04 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26717
+#EXTINF:-1,CINE SKY 05 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26718
+#EXTINF:-1,CINE SKY 06 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26719
+#EXTINF:-1,CINE SKY 07 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26720
+#EXTINF:-1,CINE SKY 08 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26721
+#EXTINF:-1,CINE SKY 09 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26722
+#EXTINF:-1,CINE SKY 10 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26723
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/36589
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/203
+#EXTINF:-1,Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/202
+#EXTINF:-1,Clube da Criança
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23652
+#EXTINF:-1,Cnn Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/8890
+#EXTINF:-1,Cnn Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/8891
+#EXTINF:-1,CNN International HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49125
+#EXTINF:-1,CNN International SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49126
+#EXTINF:-1,Cold Case
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46497
+#EXTINF:-1,Comando Dolbuck (1983)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49771
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19526
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/201
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/200
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20263
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/199
+#EXTINF:-1,Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/198
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/567
+#EXTINF:-1,Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18835
+#EXTINF:-1,Conmebol TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19039
+#EXTINF:-1,Conmebol TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18836
+#EXTINF:-1,Conmebol TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19040
+#EXTINF:-1,Conmebol TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18837
+#EXTINF:-1,Conmebol TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19041
+#EXTINF:-1,Conmebol TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18838
+#EXTINF:-1,Conmebol TV 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19042
+#EXTINF:-1,Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/197
+#EXTINF:-1,Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/196
+#EXTINF:-1,Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/213
+#EXTINF:-1,Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/212
+#EXTINF:-1,Cybercop, os Policiais do Futuro 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1479
+#EXTINF:-1,Dick Vigarista
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46514
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20225
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/195
+#EXTINF:-1,Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/194
+#EXTINF:-1,Discovery Home & Health FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20265
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/191
+#EXTINF:-1,Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/190
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/189
+#EXTINF:-1,Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/188
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20258
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/187
+#EXTINF:-1,Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/186
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/185
+#EXTINF:-1,Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/184
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20266
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/183
+#EXTINF:-1,Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/182
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20259
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/181
+#EXTINF:-1,Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/180
+#EXTINF:-1,Disney Channel  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/179
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20226
+#EXTINF:-1,Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/178
+#EXTINF:-1,DogTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46139
+#EXTINF:-1,DogTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22987
+#EXTINF:-1,DogTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22988
+#EXTINF:-1,DR. House 1 24HR 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/568
+#EXTINF:-1,Dr. House 2 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20461
+#EXTINF:-1,Dr. House S01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46590
+#EXTINF:-1,Dr. House S02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46591
+#EXTINF:-1,Dr. House S03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46592
+#EXTINF:-1,Dr. House S04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46593
+#EXTINF:-1,Dr. House S05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46594
+#EXTINF:-1,Dr. House S06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46595
+#EXTINF:-1,Dr. House S07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46596
+#EXTINF:-1,Dr. House S08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46597
+#EXTINF:-1,Dragoes  24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1480
+#EXTINF:-1,Dragon Ball GT 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40781
+#EXTINF:-1,Dragon Ball Super 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40776
+#EXTINF:-1,Dragon Ball Super: Deus da Destruição Bills e Golden Freeza
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46515
+#EXTINF:-1,Dragon Ball Super: Sobrevivência do Universo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46516
+#EXTINF:-1,Dragon Ball Super: Universo 6 e Trunks do "Futuro"
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46517
+#EXTINF:-1,Dragon Ball X Freeza 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40777
+#EXTINF:-1,Dragon Ball Z Androides 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40778
+#EXTINF:-1,Dragon Ball Z Cell 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40779
+#EXTINF:-1,Dragon Ball Z Sayajins 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40780
+#EXTINF:-1,Duck Tales
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46518
+#EXTINF:-1,Ducktales 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40783
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/516
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/172
+#EXTINF:-1,EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/34094
+#EXTINF:-1,EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/238
+#EXTINF:-1,EPTV Campinas HD 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/246
+#EXTINF:-1,EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/237
+#EXTINF:-1,ESPN  2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/167
+#EXTINF:-1,ESPN  2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/166
+#EXTINF:-1,ESPN  3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/171
+#EXTINF:-1,ESPN  3 SD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/170
+#EXTINF:-1,ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20310
+#EXTINF:-1,ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/147
+#EXTINF:-1,ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/146
+#EXTINF:-1,Espn Extra  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/164
+#EXTINF:-1,Espn Extra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/165
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27272
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27273
+#EXTINF:-1,Eurochannel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48340
+#EXTINF:-1,Eurochannel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48341
+#EXTINF:-1,Familia da Pesada 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1481
+#EXTINF:-1,Familia Dinossauro  24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/569
+#EXTINF:-1,Fashion TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48333
+#EXTINF:-1,Fashion TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48334
+#EXTINF:-1,FFH The 80's
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23536
+#EXTINF:-1,Film&Arts HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/163
+#EXTINF:-1,Film&Arts SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/162
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20256
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/525
+#EXTINF:-1,Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/161
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/158
+#EXTINF:-1,Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/159
+#EXTINF:-1,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20311
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/529
+#EXTINF:-1,Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/148
+#EXTINF:-1,France 24 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48347
+#EXTINF:-1,France 24 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48348
+#EXTINF:-1,Friends 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40795
+#EXTINF:-1,Friends S01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46540
+#EXTINF:-1,Friends S01-04 (LEG)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46541
+#EXTINF:-1,Friends S02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46542
+#EXTINF:-1,Friends S03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46543
+#EXTINF:-1,Friends S04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46544
+#EXTINF:-1,Friends S05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46545
+#EXTINF:-1,Friends S05-08 (LEG)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46546
+#EXTINF:-1,Friends S06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46547
+#EXTINF:-1,Friends S07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46548
+#EXTINF:-1,Friends S08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46549
+#EXTINF:-1,Friends S09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46550
+#EXTINF:-1,Friends S10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46551
+#EXTINF:-1,Funk - Americano
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23540
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/211
+#EXTINF:-1,Futura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/210
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20275
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/145
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/144
+#EXTINF:-1,Galinha Pintadinha 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1476
+#EXTINF:-1,Game of Thrones S01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46552
+#EXTINF:-1,Game of Thrones S02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46553
+#EXTINF:-1,Game of Thrones S03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46554
+#EXTINF:-1,Game of Thrones S04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46555
+#EXTINF:-1,Game of Thrones S05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46556
+#EXTINF:-1,Game of Thrones S06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46557
+#EXTINF:-1,Game of Thrones S07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46558
+#EXTINF:-1,Game of Thrones S08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46559
+#EXTINF:-1,GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50256
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50272
+#EXTINF:-1,GLOBO EPTV SUL MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50258
+#EXTINF:-1,GLOBO GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50259
+#EXTINF:-1,GLOBO INTEGRAÇÃO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50260
+#EXTINF:-1,GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50261
+#EXTINF:-1,GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50263
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50264
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50265
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50282
+#EXTINF:-1,GLOBO REDE AMAZONICA RONDONIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50286
+#EXTINF:-1,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50266
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50287
+#EXTINF:-1,GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50267
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50292
+#EXTINF:-1,GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50293
+#EXTINF:-1,GLOBO TV BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50268
+#EXTINF:-1,GLOBO TV TEM S.J.R.PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50269
+#EXTINF:-1,GLOBO TV VANG. S.J. CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50307
+#EXTINF:-1,GLOBO TV VANG. TAUBATE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50308
+#EXTINF:-1,GLOBO TV VITORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50309
+#EXTINF:-1,GloboNews HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/143
+#EXTINF:-1,GloboNews SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/142
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/530
+#EXTINF:-1,Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/140
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/139
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/138
+#EXTINF:-1,Greatest Hits of Hip Hop
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23541
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20260
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/137
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/523
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19528
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/135
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/134
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19530
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/133
+#EXTINF:-1,HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/132
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19527
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/131
+#EXTINF:-1,HBO MAX STAR+ 01 - Real Madrid x Manchester City
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47759
+#EXTINF:-1,HBO MAX STAR+ 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47761
+#EXTINF:-1,HBO MAX STAR+ 03 - Real Madrid x Manchester City
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47760
+#EXTINF:-1,HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20316
+#EXTINF:-1,HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/521
+#EXTINF:-1,HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/112
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19529
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/128
+#EXTINF:-1,HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/127
+#EXTINF:-1,HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19532
+#EXTINF:-1,HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/111
+#EXTINF:-1,HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/110
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/126
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19531
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/531
+#EXTINF:-1,HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/124
+#EXTINF:-1,HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20317
+#EXTINF:-1,HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/520
+#EXTINF:-1,HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/113
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/193
+#EXTINF:-1,HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/192
+#EXTINF:-1,History Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20231
+#EXTINF:-1,History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/532
+#EXTINF:-1,History Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/122
+#EXTINF:-1,Hits 90's
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23534
+#EXTINF:-1,Homem-Aranha 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/566
+#EXTINF:-1,Hora do Recreio (1997)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49725
+#EXTINF:-1,ID FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20254
+#EXTINF:-1,ID HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/121
+#EXTINF:-1,ID SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/120
+#EXTINF:-1,Jackson Five (1971)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49765
+#EXTINF:-1,Jaspion 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/570
+#EXTINF:-1,JIBAN 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40784
+#EXTINF:-1,Johnny Bravo (1997)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42938
+#EXTINF:-1,Jovem Pan Anos 2000
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23670
+#EXTINF:-1,Jovem Pan Anos 80
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23668
+#EXTINF:-1,Jovem Pan Anos 90
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23669
+#EXTINF:-1,Jovem Pan FM Piracicaba
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23662
 #EXTINF:-1,Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25026
-#EXTINF:-1,Jovem Pan News HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25027
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47532
 #EXTINF:-1,Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25028
-#EXTINF:-1,Jovem Pan News SD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/25029
-#EXTINF:-1,Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26000
-#EXTINF:-1,Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26001
-#EXTINF:-1,Rede Familia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26002
-#EXTINF:-1,Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26003
-#EXTINF:-1,Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26004
-#EXTINF:-1,Rede CNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26005
-#EXTINF:-1,TV Aparecida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26006
-#EXTINF:-1,TV Pai Eterno
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26007
-#EXTINF:-1,TV Evangelizar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/26008
-#EXTINF:-1,24H Apenas um Show
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27000
-#EXTINF:-1,24H Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27001
-#EXTINF:-1,24H Chaves
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27002
-#EXTINF:-1,24H Eu a patroa e as crianças
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27003
-#EXTINF:-1,24H Largados e Pelados
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27004
-#EXTINF:-1,24H O Incrivel Mundo de Gumball
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27005
-#EXTINF:-1,24H Os Simpsons
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27006
-#EXTINF:-1,24H Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27007
-#EXTINF:-1,24H Big Mouth
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27008
-#EXTINF:-1,24H Coragem o Cão Covarde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27009
-#EXTINF:-1,24H Futurama
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27010
-#EXTINF:-1,24H Rick e Morty
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27011
-#EXTINF:-1,24H Hora de Aventura
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27012
-#EXTINF:-1,24H Os Jovens Titãs em Ação
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27013
-#EXTINF:-1,24H Bob's Burger
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27014
-#EXTINF:-1,24H Pocoyo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27015
-#EXTINF:-1,24H Pantena Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://hubby.fun:80/juliana/juliana123/27016
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47533
+#EXTINF:-1,Jovem Pan Pagode
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23655
+#EXTINF:-1,Jovem Pan Sertanejo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23667
+#EXTINF:-1,Kids 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49783
+#EXTINF:-1,Kids 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49786
+#EXTINF:-1,Kids 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49787
+#EXTINF:-1,Kids 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49789
+#EXTINF:-1,Kids 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49791
+#EXTINF:-1,Kim Possible (2002)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42935
+#EXTINF:-1,Kimba, o Leao Branco (1966)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42934
+#EXTINF:-1,KND - A Turma do Bairro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46519
+#EXTINF:-1,Larva 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1474
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20252
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/522
+#EXTINF:-1,Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/118
+#EXTINF:-1,Lion Man 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1473
+#EXTINF:-1,LOADING HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48350
+#EXTINF:-1,LOADING SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48351
+#EXTINF:-1,Looney Tunnes 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/565
+#EXTINF:-1,MAIS NA TELA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48377
+#EXTINF:-1,MAIS NA TELA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48378
+#EXTINF:-1,Masha e o Urso (2009)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49778
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/109
+#EXTINF:-1,Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/108
+#EXTINF:-1,Modo Viagem HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/117
+#EXTINF:-1,Modo Viagem SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/116
+#EXTINF:-1,MR. Bean 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/546
+#EXTINF:-1,MTV 00s FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20262
+#EXTINF:-1,MTV 00s HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/8
+#EXTINF:-1,MTV 00s SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/7
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20261
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/519
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/106
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20465
+#EXTINF:-1,MTV LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48337
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/105
+#EXTINF:-1,Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/104
+#EXTINF:-1,Mundo de Gunball 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40785
+#EXTINF:-1,Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48342
+#EXTINF:-1,Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48343
+#EXTINF:-1,Mutante Rex (2010)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49749
+#EXTINF:-1,Naruto 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/564
+#EXTINF:-1,National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20272
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/99
+#EXTINF:-1,National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/98
+#EXTINF:-1,NHK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/97
+#EXTINF:-1,NHK SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/96
+#EXTINF:-1,Nick Jr. FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20314
+#EXTINF:-1,Nick Jr. HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/95
+#EXTINF:-1,Nick Jr. SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/94
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20313
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/93
+#EXTINF:-1,Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/92
+#EXTINF:-1,O Chefinho De Volta aos Negocios (2018)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49799
+#EXTINF:-1,O Laboratório de Dexter (1996)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49781
+#EXTINF:-1,O Pequeno Urso (1995)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49773
+#EXTINF:-1,O Show da Luna (2014)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49801
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/209
+#EXTINF:-1,OFF SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/208
+#EXTINF:-1,Os 3 patetas 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19540
+#EXTINF:-1,Os Jetsons
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46520
+#EXTINF:-1,Os Padrinhos Magicos (2001)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49720
+#EXTINF:-1,Os Simpsons 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/563
+#EXTINF:-1,Os Vingadores 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1482
+#EXTINF:-1,Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23850
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20264
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/91
+#EXTINF:-1,Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/90
+#EXTINF:-1,Patrulha Canina (2013)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49743
+#EXTINF:-1,Peppa Pig 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/562
+#EXTINF:-1,Premiere 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/86
+#EXTINF:-1,Premiere 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/247
+#EXTINF:-1,Premiere 1 HD³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46681
+#EXTINF:-1,Premiere 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/85
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/13216
+#EXTINF:-1,Premiere 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1462
+#EXTINF:-1,Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/83
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/82
+#EXTINF:-1,Premiere 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1463
+#EXTINF:-1,Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/81
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/80
+#EXTINF:-1,Premiere 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1464
+#EXTINF:-1,Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/79
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/78
+#EXTINF:-1,Premiere 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1465
+#EXTINF:-1,Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/77
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/76
+#EXTINF:-1,Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/75
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/74
+#EXTINF:-1,Premiere 7 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1467
+#EXTINF:-1,Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48344
+#EXTINF:-1,Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48345
+#EXTINF:-1,RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50368
+#EXTINF:-1,Record BH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50369
+#EXTINF:-1,RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50370
+#EXTINF:-1,RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50371
+#EXTINF:-1,Record Campinas  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/240
+#EXTINF:-1,Record Campinas  HD 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/68
+#EXTINF:-1,RECORD MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50372
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/67
+#EXTINF:-1,Record News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/66
+#EXTINF:-1,RECORD PA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50373
+#EXTINF:-1,RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50374
+#EXTINF:-1,RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50375
+#EXTINF:-1,Record Campinas  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/239
+#EXTINF:-1,Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/65
+#EXTINF:-1,RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50376
+#EXTINF:-1,Record SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/64
+#EXTINF:-1,Rede Família SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48346
+#EXTINF:-1,Rede Família SHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/31823
+#EXTINF:-1,Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/62
+#EXTINF:-1,Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/63
+#EXTINF:-1,RedeTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/61
+#EXTINF:-1,RedeTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/60
+#EXTINF:-1,Retro Baladas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23675
+#EXTINF:-1,Rá -Tim Bum- HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/70
+#EXTINF:-1,Rá- Tim- Bum SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/69
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/59
+#EXTINF:-1,SBT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/58
+#EXTINF:-1,Sony Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20233
+#EXTINF:-1,Sony Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/53
+#EXTINF:-1,Sony Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/52
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20271
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51
+#EXTINF:-1,Space SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47
+#EXTINF:-1,SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/45
+#EXTINF:-1,SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/44
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49
+#EXTINF:-1,SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48
+#EXTINF:-1,Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20274
+#EXTINF:-1,Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/157
+#EXTINF:-1,Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/150
+#EXTINF:-1,Cinecanal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20245
+#EXTINF:-1,Cinecanal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/156
+#EXTINF:-1,Cinecanal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/155
+#EXTINF:-1,Star Plus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46598
+#EXTINF:-1,Star Plus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46599
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/43
+#EXTINF:-1,Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42
+#EXTINF:-1,Super Amigos (1973)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49739
+#EXTINF:-1,Superman A Série Animada (1996)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49763
+#EXTINF:-1,Supernatural S01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46575
+#EXTINF:-1,Supernatural S02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46576
+#EXTINF:-1,Syfy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20255
+#EXTINF:-1,Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/41
+#EXTINF:-1,Syfy SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40
+#EXTINF:-1,Sítio do Pica Pau Amarelo 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40796
+#EXTINF:-1,Taz-Mania (1991)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49751
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20268
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/39
+#EXTINF:-1,TBS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/38
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/37
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/36
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20247
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/35
+#EXTINF:-1,Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/34
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20246
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/33
+#EXTINF:-1,Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/32
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20248
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/31
+#EXTINF:-1,Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/30
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20230
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/29
+#EXTINF:-1,Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/28
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20228
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27
+#EXTINF:-1,Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26
+#EXTINF:-1,Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20229
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/25
+#EXTINF:-1,Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/24
+#EXTINF:-1,Terra Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49048
+#EXTINF:-1,Terra Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49049
+#EXTINF:-1,The Backyardigans 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40786
+#EXTINF:-1,The Big Bang Theory 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/543
+#EXTINF:-1,ThunderCats (1983)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49741
+#EXTINF:-1,ThunderCats 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40794
+#EXTINF:-1,Tico e Teco e os Defensores da Lei
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46521
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20270
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/21
+#EXTINF:-1,TNT HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/13873
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20
+#EXTINF:-1,TNT Séries FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20269
+#EXTINF:-1,TNT Séries HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/517
+#EXTINF:-1,TNT Séries SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18
+#EXTINF:-1,Todo Mundo Odeia o Cris
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/317
+#EXTINF:-1,Tom & Jerry  24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/557
+#EXTINF:-1,Tom e Jerry (1975)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49768
+#EXTINF:-1,Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/17
+#EXTINF:-1,Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/16
+#EXTINF:-1,Trace Brazuca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20468
+#EXTINF:-1,Trace Brazuca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20469
+#EXTINF:-1,Travel Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48335
+#EXTINF:-1,Travel Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48336
+#EXTINF:-1,TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/15
+#EXTINF:-1,TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/14
+#EXTINF:-1,TV Brasil  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47534
+#EXTINF:-1,TV Brasil 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49111
+#EXTINF:-1,TV Brasil 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49112
+#EXTINF:-1,TV Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20308
+#EXTINF:-1,TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47535
+#EXTINF:-1,TV Gazeta FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49239
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27160
+#EXTINF:-1,Tv Gazeta SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22948
+#EXTINF:-1,Tv Globinho  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/215
+#EXTINF:-1,Tv Globinho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/214
+#EXTINF:-1,Tv Justiça
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23531
+#EXTINF:-1,TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20464
+#EXTINF:-1,TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48339
+#EXTINF:-1,TV NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48338
+#EXTINF:-1,Tv Senado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23532
+#EXTINF:-1,TV WA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49120
+#EXTINF:-1,TV WA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49119
+#EXTINF:-1,TV5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49129
+#EXTINF:-1,TV5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49130
+#EXTINF:-1,Two And a Half Man 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/542
+#EXTINF:-1,Um Maluco No Pedaco  24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/541
+#EXTINF:-1,Universal Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20249
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/13215
+#EXTINF:-1,Universal Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/11
+#EXTINF:-1,Vampirina (2017)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49775
+#EXTINF:-1,Venus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/10
+#EXTINF:-1,Venus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/9
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/6
+#EXTINF:-1,Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/5
+#EXTINF:-1,WandaVision
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46523
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20232
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/4
+#EXTINF:-1,Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/3
+#EXTINF:-1,Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/207
+#EXTINF:-1,Woohoo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/206
+#EXTINF:-1,X-Men Evolution (2000)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49769
+#EXTINF:-1,X-Men Evolution 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1483
+#EXTINF:-1,ZooMoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/2
+#EXTINF:-1,ZooMoo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1
+#EXTINF:-1,[24H] [+18] Brazzers
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46498
+#EXTINF:-1,[24H] [+18] Fake Taxi
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46499
+#EXTINF:-1,[24H] [+18] OnlyFans
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46500
+#EXTINF:-1,[24H] [+18] PornHub Premium - PornHub Agent
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46501
+#EXTINF:-1,[24H] [+18] Real Wife Stories
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46502
+#EXTINF:-1,[24H] [+18] Teste de Fudelidade
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46503
+#EXTINF:-1,[24H] [+18] WTFPass
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46504
+#EXTINF:-1,TV Tem Sorocaba (ST)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51598
+#EXTINF:-1,TV Tribuna Santos (ST)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51599
+#EXTINF:-1,TV Centro América Cuiabá (ST)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51600
+#EXTINF:-1,Globo - Inter TV Cabugi (ST)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51601
