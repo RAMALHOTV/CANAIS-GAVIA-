@@ -1,1156 +1,383 @@
 
 
+
 #EXTM3U
 
 #PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
 
 ################################################################################# Informações da Lista
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
-https://www.youtube.com/channel/UCojJlqr-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",(44)991045772 
+https://www.youtube.com/channel/UCojJlq
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr 
-https://www.youtube.com/channel/UCojJlqr
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",RamalhoTV 
+https://www.youtube.com/channel/UCojJlqr-L
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 304/2022 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:08/05/2022 
+https://www.youtube.com/channel/UCojJlqr-L
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
-https://www.youtube.com/channel/UCojJlqr
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
 https://www.youtube.com/channel/UCojJlqr-
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)991045772
-https://www.youtube.com/channel/UCojJ
-
-#EXTINF:-1,24H CAVERNA DO DRAGÃO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/28136
-#EXTINF:-1,24h I Timão & Pumba
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46522
-#EXTINF:-1,89 FM A Rádio Rock
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23663
-#EXTINF:-1,A Mansão Foster para Amigos Imaginários
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46505
-#EXTINF:-1,A Pantera Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46506
-#EXTINF:-1,A Pequena Sereia (1992)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49724
-#EXTINF:-1,A Vaca e o Frango
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46507
-#EXTINF:-1,A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20253
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/236
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/235
-#EXTINF:-1,AgroMais HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48331
-#EXTINF:-1,AgroMais SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48332
-#EXTINF:-1,Aladdin (1994)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42939
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/512
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/233
-#EXTINF:-1,Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20257
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/232
-#EXTINF:-1,Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/231
-#EXTINF:-1,As Aventuras de Jackie Chan (2000)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49715
-#EXTINF:-1,As Meninas Superpoderosas (1998)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42941
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20234
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/535
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/227
-#EXTINF:-1,BabyTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/226
-#EXTINF:-1,BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/225
-#EXTINF:-1,Band Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/242
-#EXTINF:-1,Band Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/241
-#EXTINF:-1,Band News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/224
-#EXTINF:-1,Band News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/223
-#EXTINF:-1,Band SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/130
-#EXTINF:-1,Band SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/129
-#EXTINF:-1,Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/221
-#EXTINF:-1,Band Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/220
-#EXTINF:-1,Ben 10: Omniverse
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46508
-#EXTINF:-1,Ben 10: Supremacia Alienígena
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46509
-#EXTINF:-1,BestRadio Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23673
-#EXTINF:-1,Bis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/219
-#EXTINF:-1,BIs SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/218
-#EXTINF:-1,Black Kamen Rider 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/537
-#EXTINF:-1,Bloomberg HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49127
-#EXTINF:-1,Bloomberg SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49128
-#EXTINF:-1,Boa Vontade TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49115
-#EXTINF:-1,Boa Vontade TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49116
-#EXTINF:-1,Bob Esponja 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40793
-#EXTINF:-1,BoJack Horseman
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46510
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/217
-#EXTINF:-1,Boomerang SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/216
-#EXTINF:-1,Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20227
-#EXTINF:-1,Canal CSI 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/538
-#EXTINF:-1,Canal do Boi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20467
-#EXTINF:-1,Canal do Boi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49046
-#EXTINF:-1,Canal do Carro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48327
-#EXTINF:-1,Canal do Carro SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48328
-#EXTINF:-1,Canal I Tv Igreja Mundial do Poder de Deus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23207
-#EXTINF:-1,Canal Rural HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49121
-#EXTINF:-1,Canal Rural SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49122
-#EXTINF:-1,Canção Nova HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47755
-#EXTINF:-1,Canção Nova SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47756
-#EXTINF:-1,Capitão Planeta (1990)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49779
-#EXTINF:-1,Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20267
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/524
-#EXTINF:-1,Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/204
-#EXTINF:-1,Cartoonito HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49052
-#EXTINF:-1,Cartoonito SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49053
-#EXTINF:-1,CatDog
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46511
-#EXTINF:-1,Caverna do Dragão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46512
-#EXTINF:-1,CDZ  Saga de Poseidon 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40787
-#EXTINF:-1,CDZ Saga de Asgard 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40788
-#EXTINF:-1,CDZ Saga de Hades 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40789
-#EXTINF:-1,CDZ Saga do Santuario  24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40790
-#EXTINF:-1,Chapolin 2 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19541
-#EXTINF:-1,Chaves
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46513
-#EXTINF:-1,Chaves 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40791
-#EXTINF:-1,Chaves Desenho 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40798
-#EXTINF:-1,Chris Country
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23664
-#EXTINF:-1,Cine Action 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/548
-#EXTINF:-1,Cine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/28657
-#EXTINF:-1,Cine Drama 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/550
-#EXTINF:-1,Cine Family 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/551
-#EXTINF:-1,Cine Fiction 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/536
-#EXTINF:-1,Cine Fun 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/552
-#EXTINF:-1,Cine Guerra 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1477
-#EXTINF:-1,Cine Horror 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/553
-#EXTINF:-1,CINE KIDS 24H ULTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/554
-#EXTINF:-1,CINE Nacionais 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/555
-#EXTINF:-1,CINE SKY 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26714
-#EXTINF:-1,CINE SKY 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26715
-#EXTINF:-1,CINE SKY 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26716
-#EXTINF:-1,CINE SKY 04 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26717
-#EXTINF:-1,CINE SKY 05 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26718
-#EXTINF:-1,CINE SKY 06 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26719
-#EXTINF:-1,CINE SKY 07 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26720
-#EXTINF:-1,CINE SKY 08 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26721
-#EXTINF:-1,CINE SKY 09 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26722
-#EXTINF:-1,CINE SKY 10 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26723
-#EXTINF:-1,Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/36589
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/203
-#EXTINF:-1,Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/202
-#EXTINF:-1,Clube da Criança
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23652
-#EXTINF:-1,Cnn Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/8890
-#EXTINF:-1,Cnn Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/8891
-#EXTINF:-1,CNN International HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49125
-#EXTINF:-1,CNN International SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49126
-#EXTINF:-1,Cold Case
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46497
-#EXTINF:-1,Comando Dolbuck (1983)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49771
-#EXTINF:-1,Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19526
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/201
-#EXTINF:-1,Combate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/200
-#EXTINF:-1,Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20263
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/199
-#EXTINF:-1,Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/198
-#EXTINF:-1,Como eu Conheci a Sua Mae  24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/567
-#EXTINF:-1,Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18835
-#EXTINF:-1,Conmebol TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19039
-#EXTINF:-1,Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18836
-#EXTINF:-1,Conmebol TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19040
-#EXTINF:-1,Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18837
-#EXTINF:-1,Conmebol TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19041
-#EXTINF:-1,Conmebol TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18838
-#EXTINF:-1,Conmebol TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19042
-#EXTINF:-1,Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/197
-#EXTINF:-1,Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/196
-#EXTINF:-1,Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/213
-#EXTINF:-1,Curta! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/212
-#EXTINF:-1,Cybercop, os Policiais do Futuro 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1479
-#EXTINF:-1,Dick Vigarista
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46514
-#EXTINF:-1,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20225
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/195
-#EXTINF:-1,Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/194
-#EXTINF:-1,Discovery Home & Health FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20265
-#EXTINF:-1,Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/191
-#EXTINF:-1,Discovery Home & Health SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/190
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/189
-#EXTINF:-1,Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/188
-#EXTINF:-1,Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20258
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/187
-#EXTINF:-1,Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/186
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/185
-#EXTINF:-1,Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/184
-#EXTINF:-1,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20266
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/183
-#EXTINF:-1,Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/182
-#EXTINF:-1,Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20259
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/181
-#EXTINF:-1,Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/180
-#EXTINF:-1,Disney Channel  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/179
-#EXTINF:-1,Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20226
-#EXTINF:-1,Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/178
-#EXTINF:-1,DogTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46139
-#EXTINF:-1,DogTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22987
-#EXTINF:-1,DogTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22988
-#EXTINF:-1,DR. House 1 24HR 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/568
-#EXTINF:-1,Dr. House 2 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20461
-#EXTINF:-1,Dr. House S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46590
-#EXTINF:-1,Dr. House S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46591
-#EXTINF:-1,Dr. House S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46592
-#EXTINF:-1,Dr. House S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46593
-#EXTINF:-1,Dr. House S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46594
-#EXTINF:-1,Dr. House S06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46595
-#EXTINF:-1,Dr. House S07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46596
-#EXTINF:-1,Dr. House S08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46597
-#EXTINF:-1,Dragoes  24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1480
-#EXTINF:-1,Dragon Ball GT 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40781
-#EXTINF:-1,Dragon Ball Super 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40776
-#EXTINF:-1,Dragon Ball Super: Deus da Destruição Bills e Golden Freeza
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46515
-#EXTINF:-1,Dragon Ball Super: Sobrevivência do Universo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46516
-#EXTINF:-1,Dragon Ball Super: Universo 6 e Trunks do "Futuro"
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46517
-#EXTINF:-1,Dragon Ball X Freeza 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40777
-#EXTINF:-1,Dragon Ball Z Androides 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40778
-#EXTINF:-1,Dragon Ball Z Cell 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40779
-#EXTINF:-1,Dragon Ball Z Sayajins 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40780
-#EXTINF:-1,Duck Tales
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46518
-#EXTINF:-1,Ducktales 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40783
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/516
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/172
-#EXTINF:-1,EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/34094
-#EXTINF:-1,EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/238
-#EXTINF:-1,EPTV Campinas HD 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/246
-#EXTINF:-1,EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/237
-#EXTINF:-1,ESPN  2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/167
-#EXTINF:-1,ESPN  2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/166
-#EXTINF:-1,ESPN  3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/171
-#EXTINF:-1,ESPN  3 SD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/170
-#EXTINF:-1,ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20310
-#EXTINF:-1,ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/147
-#EXTINF:-1,ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/146
-#EXTINF:-1,Espn Extra  SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/164
-#EXTINF:-1,Espn Extra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/165
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27272
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27273
-#EXTINF:-1,Eurochannel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48340
-#EXTINF:-1,Eurochannel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48341
-#EXTINF:-1,Familia da Pesada 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1481
-#EXTINF:-1,Familia Dinossauro  24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/569
-#EXTINF:-1,Fashion TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48333
-#EXTINF:-1,Fashion TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48334
-#EXTINF:-1,FFH The 80's
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23536
-#EXTINF:-1,Film&Arts HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/163
-#EXTINF:-1,Film&Arts SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/162
-#EXTINF:-1,Fish TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20256
-#EXTINF:-1,Fish TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/525
-#EXTINF:-1,Fish TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/161
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/158
-#EXTINF:-1,Food Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/159
-#EXTINF:-1,FOX Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20311
-#EXTINF:-1,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/529
-#EXTINF:-1,Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/148
-#EXTINF:-1,France 24 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48347
-#EXTINF:-1,France 24 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48348
-#EXTINF:-1,Friends 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40795
-#EXTINF:-1,Friends S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46540
-#EXTINF:-1,Friends S01-04 (LEG)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46541
-#EXTINF:-1,Friends S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46542
-#EXTINF:-1,Friends S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46543
-#EXTINF:-1,Friends S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46544
-#EXTINF:-1,Friends S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46545
-#EXTINF:-1,Friends S05-08 (LEG)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46546
-#EXTINF:-1,Friends S06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46547
-#EXTINF:-1,Friends S07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46548
-#EXTINF:-1,Friends S08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46549
-#EXTINF:-1,Friends S09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46550
-#EXTINF:-1,Friends S10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46551
-#EXTINF:-1,Funk - Americano
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23540
-#EXTINF:-1,Futura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/211
-#EXTINF:-1,Futura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/210
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20275
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/145
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/144
-#EXTINF:-1,Galinha Pintadinha 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1476
-#EXTINF:-1,Game of Thrones S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46552
-#EXTINF:-1,Game of Thrones S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46553
-#EXTINF:-1,Game of Thrones S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46554
-#EXTINF:-1,Game of Thrones S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46555
-#EXTINF:-1,Game of Thrones S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46556
-#EXTINF:-1,Game of Thrones S06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46557
-#EXTINF:-1,Game of Thrones S07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46558
-#EXTINF:-1,Game of Thrones S08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46559
-#EXTINF:-1,GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50256
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50272
-#EXTINF:-1,GLOBO EPTV SUL MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50258
-#EXTINF:-1,GLOBO GRANDE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50259
-#EXTINF:-1,GLOBO INTEGRAÇÃO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50260
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50261
-#EXTINF:-1,GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50263
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50264
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50265
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50282
-#EXTINF:-1,GLOBO REDE AMAZONICA RONDONIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50286
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50266
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50287
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50267
-#EXTINF:-1,GLOBO TV ANHANGUERA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50292
-#EXTINF:-1,GLOBO TV BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50293
-#EXTINF:-1,GLOBO TV BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50268
-#EXTINF:-1,GLOBO TV TEM S.J.R.PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50269
-#EXTINF:-1,GLOBO TV VANG. S.J. CAMPOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50307
-#EXTINF:-1,GLOBO TV VANG. TAUBATE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50308
-#EXTINF:-1,GLOBO TV VITORIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50309
-#EXTINF:-1,GloboNews HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/143
-#EXTINF:-1,GloboNews SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/142
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/530
-#EXTINF:-1,Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/140
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/139
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/138
-#EXTINF:-1,Greatest Hits of Hip Hop
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23541
-#EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20260
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/137
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/523
-#EXTINF:-1,HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19528
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/135
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/134
-#EXTINF:-1,HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19530
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/133
-#EXTINF:-1,HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/132
-#EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19527
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/131
-#EXTINF:-1,HBO MAX STAR+ 01 - Real Madrid x Manchester City
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47759
-#EXTINF:-1,HBO MAX STAR+ 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47761
-#EXTINF:-1,HBO MAX STAR+ 03 - Real Madrid x Manchester City
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47760
-#EXTINF:-1,HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20316
-#EXTINF:-1,HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/521
-#EXTINF:-1,HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/112
-#EXTINF:-1,HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19529
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/128
-#EXTINF:-1,HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/127
-#EXTINF:-1,HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19532
-#EXTINF:-1,HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/111
-#EXTINF:-1,HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/110
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/126
-#EXTINF:-1,HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19531
-#EXTINF:-1,HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/531
-#EXTINF:-1,HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/124
-#EXTINF:-1,HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20317
-#EXTINF:-1,HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/520
-#EXTINF:-1,HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/113
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/193
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/192
-#EXTINF:-1,History Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20231
-#EXTINF:-1,History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/532
-#EXTINF:-1,History Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/122
-#EXTINF:-1,Hits 90's
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23534
-#EXTINF:-1,Homem-Aranha 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/566
-#EXTINF:-1,Hora do Recreio (1997)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49725
-#EXTINF:-1,ID FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20254
-#EXTINF:-1,ID HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/121
-#EXTINF:-1,ID SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/120
-#EXTINF:-1,Jackson Five (1971)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49765
-#EXTINF:-1,Jaspion 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/570
-#EXTINF:-1,JIBAN 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40784
-#EXTINF:-1,Johnny Bravo (1997)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42938
-#EXTINF:-1,Jovem Pan Anos 2000
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23670
-#EXTINF:-1,Jovem Pan Anos 80
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23668
-#EXTINF:-1,Jovem Pan Anos 90
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23669
-#EXTINF:-1,Jovem Pan FM Piracicaba
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23662
-#EXTINF:-1,Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47532
-#EXTINF:-1,Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47533
-#EXTINF:-1,Jovem Pan Pagode
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23655
-#EXTINF:-1,Jovem Pan Sertanejo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23667
-#EXTINF:-1,Kids 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49783
-#EXTINF:-1,Kids 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49786
-#EXTINF:-1,Kids 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49787
-#EXTINF:-1,Kids 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49789
-#EXTINF:-1,Kids 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49791
-#EXTINF:-1,Kim Possible (2002)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42935
-#EXTINF:-1,Kimba, o Leao Branco (1966)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42934
-#EXTINF:-1,KND - A Turma do Bairro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46519
-#EXTINF:-1,Larva 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1474
-#EXTINF:-1,Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20252
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/522
-#EXTINF:-1,Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/118
-#EXTINF:-1,Lion Man 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1473
-#EXTINF:-1,LOADING HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48350
-#EXTINF:-1,LOADING SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48351
-#EXTINF:-1,Looney Tunnes 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/565
-#EXTINF:-1,MAIS NA TELA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48377
-#EXTINF:-1,MAIS NA TELA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48378
-#EXTINF:-1,Masha e o Urso (2009)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49778
-#EXTINF:-1,Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/109
-#EXTINF:-1,Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/108
-#EXTINF:-1,Modo Viagem HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/117
-#EXTINF:-1,Modo Viagem SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/116
-#EXTINF:-1,MR. Bean 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/546
-#EXTINF:-1,MTV 00s FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20262
-#EXTINF:-1,MTV 00s HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/8
-#EXTINF:-1,MTV 00s SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/7
-#EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20261
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/519
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/106
-#EXTINF:-1,MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20465
-#EXTINF:-1,MTV LIVE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48337
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/105
-#EXTINF:-1,Multishow SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/104
-#EXTINF:-1,Mundo de Gunball 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40785
-#EXTINF:-1,Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48342
-#EXTINF:-1,Music Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48343
-#EXTINF:-1,Mutante Rex (2010)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49749
-#EXTINF:-1,Naruto 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/564
-#EXTINF:-1,National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20272
-#EXTINF:-1,National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/99
-#EXTINF:-1,National Geographic SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/98
-#EXTINF:-1,NHK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/97
-#EXTINF:-1,NHK SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/96
-#EXTINF:-1,Nick Jr. FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20314
-#EXTINF:-1,Nick Jr. HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/95
-#EXTINF:-1,Nick Jr. SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/94
-#EXTINF:-1,Nickelodeon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20313
-#EXTINF:-1,Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/93
-#EXTINF:-1,Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/92
-#EXTINF:-1,O Chefinho De Volta aos Negocios (2018)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49799
-#EXTINF:-1,O Laboratório de Dexter (1996)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49781
-#EXTINF:-1,O Pequeno Urso (1995)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49773
-#EXTINF:-1,O Show da Luna (2014)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49801
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/209
-#EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/208
-#EXTINF:-1,Os 3 patetas 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/19540
-#EXTINF:-1,Os Jetsons
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46520
-#EXTINF:-1,Os Padrinhos Magicos (2001)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49720
-#EXTINF:-1,Os Simpsons 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/563
-#EXTINF:-1,Os Vingadores 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1482
-#EXTINF:-1,Pai Eterno HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23850
-#EXTINF:-1,Paramount Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20264
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/91
-#EXTINF:-1,Paramount Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/90
-#EXTINF:-1,Patrulha Canina (2013)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49743
-#EXTINF:-1,Peppa Pig 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/562
-#EXTINF:-1,Premiere 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/86
-#EXTINF:-1,Premiere 1 HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/247
-#EXTINF:-1,Premiere 1 HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46681
-#EXTINF:-1,Premiere 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/85
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/13216
-#EXTINF:-1,Premiere 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1462
-#EXTINF:-1,Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/83
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/82
-#EXTINF:-1,Premiere 3 HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1463
-#EXTINF:-1,Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/81
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/80
-#EXTINF:-1,Premiere 4 HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1464
-#EXTINF:-1,Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/79
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/78
-#EXTINF:-1,Premiere 5 HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1465
-#EXTINF:-1,Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/77
-#EXTINF:-1,Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/76
-#EXTINF:-1,Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/75
-#EXTINF:-1,Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/74
-#EXTINF:-1,Premiere 7 HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1467
-#EXTINF:-1,Prime Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48344
-#EXTINF:-1,Prime Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48345
-#EXTINF:-1,RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50368
-#EXTINF:-1,Record BH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50369
-#EXTINF:-1,RECORD DF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50370
-#EXTINF:-1,RECORD DF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50371
-#EXTINF:-1,Record Campinas  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/240
-#EXTINF:-1,Record Campinas  HD 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/68
-#EXTINF:-1,RECORD MG HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50372
-#EXTINF:-1,Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/67
-#EXTINF:-1,Record News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/66
-#EXTINF:-1,RECORD PA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50373
-#EXTINF:-1,RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50374
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50375
-#EXTINF:-1,Record Campinas  SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/239
-#EXTINF:-1,Record SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/65
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50376
-#EXTINF:-1,Record SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/64
-#EXTINF:-1,Rede Família SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48346
-#EXTINF:-1,Rede Família SHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/31823
-#EXTINF:-1,Rede Vida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/62
-#EXTINF:-1,Rede Vida SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/63
-#EXTINF:-1,RedeTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/61
-#EXTINF:-1,RedeTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/60
-#EXTINF:-1,Retro Baladas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23675
-#EXTINF:-1,Rá -Tim Bum- HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/70
-#EXTINF:-1,Rá- Tim- Bum SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/69
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/59
-#EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/58
-#EXTINF:-1,Sony Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20233
-#EXTINF:-1,Sony Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/53
-#EXTINF:-1,Sony Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/52
-#EXTINF:-1,Space FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20271
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51
-#EXTINF:-1,Space SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/50
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47
-#EXTINF:-1,SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/45
-#EXTINF:-1,SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/44
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49
-#EXTINF:-1,SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48
-#EXTINF:-1,Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20274
-#EXTINF:-1,Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/157
-#EXTINF:-1,Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/150
-#EXTINF:-1,Cinecanal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20245
-#EXTINF:-1,Cinecanal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/156
-#EXTINF:-1,Cinecanal SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/155
-#EXTINF:-1,Star Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46598
-#EXTINF:-1,Star Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46599
-#EXTINF:-1,Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/43
-#EXTINF:-1,Studio Universal SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/42
-#EXTINF:-1,Super Amigos (1973)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49739
-#EXTINF:-1,Superman A Série Animada (1996)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49763
-#EXTINF:-1,Supernatural S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46575
-#EXTINF:-1,Supernatural S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46576
-#EXTINF:-1,Syfy FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20255
-#EXTINF:-1,Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/41
-#EXTINF:-1,Syfy SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40
-#EXTINF:-1,Sítio do Pica Pau Amarelo 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40796
-#EXTINF:-1,Taz-Mania (1991)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49751
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20268
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/39
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/38
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/37
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/36
-#EXTINF:-1,Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20247
-#EXTINF:-1,Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/35
-#EXTINF:-1,Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/34
-#EXTINF:-1,Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20246
-#EXTINF:-1,Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/33
-#EXTINF:-1,Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/32
-#EXTINF:-1,Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20248
-#EXTINF:-1,Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/31
-#EXTINF:-1,Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/30
-#EXTINF:-1,Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20230
-#EXTINF:-1,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/29
-#EXTINF:-1,Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/28
-#EXTINF:-1,Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20228
-#EXTINF:-1,Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27
-#EXTINF:-1,Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/26
-#EXTINF:-1,Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20229
-#EXTINF:-1,Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/25
-#EXTINF:-1,Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/24
-#EXTINF:-1,Terra Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49048
-#EXTINF:-1,Terra Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49049
-#EXTINF:-1,The Backyardigans 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40786
-#EXTINF:-1,The Big Bang Theory 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/543
-#EXTINF:-1,ThunderCats (1983)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49741
-#EXTINF:-1,ThunderCats 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/40794
-#EXTINF:-1,Tico e Teco e os Defensores da Lei
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46521
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22
-#EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20270
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/21
-#EXTINF:-1,TNT HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/13873
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20
-#EXTINF:-1,TNT Séries FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20269
-#EXTINF:-1,TNT Séries HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/517
-#EXTINF:-1,TNT Séries SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/18
-#EXTINF:-1,Todo Mundo Odeia o Cris
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/317
-#EXTINF:-1,Tom & Jerry  24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/557
-#EXTINF:-1,Tom e Jerry (1975)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49768
-#EXTINF:-1,Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/17
-#EXTINF:-1,Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/16
-#EXTINF:-1,Trace Brazuca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20468
-#EXTINF:-1,Trace Brazuca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20469
-#EXTINF:-1,Travel Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48335
-#EXTINF:-1,Travel Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48336
-#EXTINF:-1,TV Aparecida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/15
-#EXTINF:-1,TV Aparecida SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/14
-#EXTINF:-1,TV Brasil  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47534
-#EXTINF:-1,TV Brasil 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49111
-#EXTINF:-1,TV Brasil 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49112
-#EXTINF:-1,TV Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20308
-#EXTINF:-1,TV Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/47535
-#EXTINF:-1,TV Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49239
-#EXTINF:-1,TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/27160
-#EXTINF:-1,Tv Gazeta SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/22948
-#EXTINF:-1,Tv Globinho  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/215
-#EXTINF:-1,Tv Globinho SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/214
-#EXTINF:-1,Tv Justiça
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23531
-#EXTINF:-1,TV Novo Tempo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20464
-#EXTINF:-1,TV NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48339
-#EXTINF:-1,TV NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/48338
-#EXTINF:-1,Tv Senado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/23532
-#EXTINF:-1,TV WA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49120
-#EXTINF:-1,TV WA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49119
-#EXTINF:-1,TV5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49129
-#EXTINF:-1,TV5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49130
-#EXTINF:-1,Two And a Half Man 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/542
-#EXTINF:-1,Um Maluco No Pedaco  24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/541
-#EXTINF:-1,Universal Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20249
-#EXTINF:-1,Universal Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/13215
-#EXTINF:-1,Universal Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/11
-#EXTINF:-1,Vampirina (2017)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49775
-#EXTINF:-1,Venus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/10
-#EXTINF:-1,Venus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/9
-#EXTINF:-1,Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/6
-#EXTINF:-1,Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/5
-#EXTINF:-1,WandaVision
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46523
-#EXTINF:-1,Warner Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/20232
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/4
-#EXTINF:-1,Warner Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/3
-#EXTINF:-1,Woohoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/207
-#EXTINF:-1,Woohoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/206
-#EXTINF:-1,X-Men Evolution (2000)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/49769
-#EXTINF:-1,X-Men Evolution 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1483
-#EXTINF:-1,ZooMoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/2
-#EXTINF:-1,ZooMoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/1
-#EXTINF:-1,[24H] [+18] Brazzers
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46498
-#EXTINF:-1,[24H] [+18] Fake Taxi
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46499
-#EXTINF:-1,[24H] [+18] OnlyFans
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46500
-#EXTINF:-1,[24H] [+18] PornHub Premium - PornHub Agent
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46501
-#EXTINF:-1,[24H] [+18] Real Wife Stories
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46502
-#EXTINF:-1,[24H] [+18] Teste de Fudelidade
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46503
-#EXTINF:-1,[24H] [+18] WTFPass
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/46504
-#EXTINF:-1,TV Tem Sorocaba (ST)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51598
-#EXTINF:-1,TV Tribuna Santos (ST)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51599
-#EXTINF:-1,TV Centro América Cuiabá (ST)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51600
-#EXTINF:-1,Globo - Inter TV Cabugi (ST)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://51.89.98.62:8080/japones/japones/51601
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14353
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="UFC 4K" tvg-logo="https://kanawat.com.br/icons/ufc.png" group-title="ESPORTES",UFC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/58093
+#EXTINF:-1 tvg-id="" tvg-name="WWE 4K" tvg-logo="http://kanawat.com.br/icons/wwes.png" group-title="ESPORTES",WWE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/58117
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="NBA 4K" tvg-logo="http://kanawat.com.br/icons/nbaz.png" group-title="ESPORTES",NBA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/57776
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14356
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14354
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14355
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="Espn 4 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",Espn 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14358
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN EXTRA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14357
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORT 2 4K" tvg-logo="http://kanawat.com.br/icons/foxsportss.png" group-title="ESPORTES",FOX SPORT 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14359
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14360
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14361
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14362
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF 4K" tvg-logo="http://kanawat.com.br/icons/off.png" group-title="ESPORTES",OFF 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14363
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORT 4K" tvg-logo="http://kanawat.com.br/icons/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14364
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIER CLUB 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14365
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER 2 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14366
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER 3 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14367
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14368
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 5 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14369
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 6 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14370
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIER 7 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 7 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14371
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48569
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",Dazn 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15064
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 4K" tvg-logo="http://kanawat.com.br/icons/dazn3.png" group-title="ESPORTES",DAZN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48570
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48571
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4K [ PREMIERELEAGUE ]" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4K [ PREMIERELEAGUE ]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48572
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15102
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15122
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15123
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 4K" tvg-logo="http://painelgerenciador.com.br/icons/spain/beinsportslaliga1.png" group-title="ESPORTES",M. Liga de Campeones 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/63939
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/56336
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/56337
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/56338
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 1 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/56339
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 2 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/56340
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 3 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/56341
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 1 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15234
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 3 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15233
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 4 4k
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/46405
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network 4K" tvg-logo="http://kanawat.com.br/icons/fightnetwork.png" group-title="ESPORTES",Fight Network 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/57845
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports HD" tvg-logo="http://kanawat.com.br/icons/fightsports.png" group-title="ESPORTES",Fight Sports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/58118
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box HD" tvg-logo="http://kanawat.com.br/icons/fightbox.png" group-title="ESPORTES",Fight Box HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/58119
+#EXTINF:-1 tvg-id="" tvg-name="Fight KLUB HD" tvg-logo="http://kanawat.com.br/icons/nighklub.png" group-title="ESPORTES",Fight KLUB HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/58120
+#EXTINF:-1 tvg-id="band" tvg-name=" Band PR (TV Tarobá)" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS", Band PR (TV Tarobá)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14967
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND  SP 4K" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND  SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15231
+#EXTINF:-1 tvg-id="band" tvg-name="BAND SP FHD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15232
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV!
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48553
+#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title="ABERTOS",REDE SUPER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48554
+#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48555
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14983
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15008
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redevida.png" group-title="RELIGIOSOS",REDE VIDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15120
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15024
+#EXTINF:-1 tvg-id="" tvg-name="TBO REDE BRASIL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tboredebrasil.png" group-title="ABERTOS",TBO REDE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15028
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="http://painelgerenciador.com.br/icons/gazeta.png" group-title="ABERTOS",TV GAZETA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48556
+#EXTINF:-1 tvg-id="isat.br" tvg-name="ISAT HD" tvg-logo="http://painelgerenciador.com.br/icons/isat.png" group-title="ABERTOS",ISAT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48557
+#EXTINF:-1 tvg-id="tvdiáriohd.br" tvg-name="TV DIARIO HD" tvg-logo="http://painelgerenciador.com.br/icons/tvdiario.png" group-title="ABERTOS",TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48558
+#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title="ABERTOS",Rede Cnt
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15020
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD TV" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48568
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48552
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SCC " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SCC 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15004
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="http://www.kanawat.com.br/icons/globonewss.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14562
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS 4K" tvg-logo="https://kanawat.com.br/icons/bandnew.png" group-title="NOTÍCIAS",BAND NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14563
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS 4K" tvg-logo="https://kanawat.com.br/icons/recordnew.png" group-title="NOTÍCIAS",RECORD NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48559
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan HD" tvg-logo="https://www.kanawat.com.br/icons/jpnews.png" group-title="NOTÍCIAS",Jovem Pan HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/63938
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K" tvg-logo="http://kanawat.com.br/icons/cnnbr.png" group-title="NOTÍCIAS",CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48560
+#EXTINF:-1 tvg-id="cnnplus1.br" tvg-name="CNN ESPANOL HD" tvg-logo="http://kanawat.com.br/icons/cnnesp.png" group-title="NOTÍCIAS",CNN ESPANOL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48561
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48562
+#EXTINF:-1 tvg-id="fox-news-channel" tvg-name="FOX NEWS 4K" tvg-logo="http://kanawat.com.br/icons/foxnews.png" group-title="NOTÍCIAS",FOX NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48563
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg 4K" tvg-logo="http://painelgerenciador.com.br/icons/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14564
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! 4K" tvg-logo="http://painelgerenciador.com.br/icons/curta.png" group-title="ABERTOS",Curta! 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14561
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura 4K" tvg-logo="http://painelgerenciador.com.br/icons/futura.png" group-title="ABERTOS",Futura 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14560
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte1 4K" tvg-logo="http://painelgerenciador.com.br/icons/arte1.png" group-title="ABERTOS",Arte1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14559
+#EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/catve.png" group-title="ABERTOS",CATVE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14968
+#EXTINF:-1 tvg-id="" tvg-name="CATVE 2 HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/catve2.png" group-title="ABERTOS",CATVE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14969
+#EXTINF:-1 tvg-id="" tvg-name="CATVE FM HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/catvefm.png" group-title="ABERTOS",CATVE FM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14970
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/mastertv.png" group-title="ABERTOS",MASTER TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14971
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/15065
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48530
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48531
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GLOBO EPTV CAMPINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48532
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RCP CURITIBA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RCP CURITIBA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48533
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC TV FLORIANOPOIS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOIS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48534
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BRASILIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BRASILIA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48535
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48536
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48537
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48538
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NORDESTE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48539
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48540
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BELEM" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BELEM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48541
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CENTRO AMERICA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48542
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV DOS VALES HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48544
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE HD 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48545
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48546
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDESMARES" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDESMARES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48547
+#EXTINF:-1 tvg-id="alarabiyaalhadath.ae" tvg-name="NSC TV BLUMENAU HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",NSC TV BLUMENAU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48548
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",TV GAZETA ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48549
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV SANTA CRUZ HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",TV SANTA CRUZ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48550
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV SERGIPE HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",TV SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48551
+#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais Globo 4K" tvg-logo="http://painelgerenciador.com.br/icons/maisglobo.png" group-title="REDE GLOBO",Mais Globo 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14557
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK 4K" tvg-logo="http://kanawat.com.br/icons/nick.png" group-title="INFANTIS",NICK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14411
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR 4K" tvg-logo="http://kanawat.com.br/icons/nickjr.png" group-title="INFANTIS",NICK JR 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14412
+#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://kanawat.com.br/icons/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14413
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD 4K" tvg-logo="http://painelgerenciador.com.br/icons/disneyxd.png" group-title="INFANTIS",DISNEY XD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48567
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JR 4K" tvg-logo="http://painelgerenciador.com.br/icons/disneyjr.png" group-title="INFANTIS",DISNEY JR 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14414
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14415
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NAT GEO KIDS 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeokids.png" group-title="INFANTIS",NAT GEO KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14416
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO 4K" tvg-logo="http://painelgerenciador.com.br/icons/cartoonnetwork.png" group-title="INFANTIS",CARTOONITO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14417
+#EXTINF:-1 tvg-id="boomerang" tvg-name="BOOMERANG 4K" tvg-logo="http://painelgerenciador.com.br/icons/boomerang.png" group-title="INFANTIS",BOOMERANG 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14418
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/babytv.png" group-title="INFANTIS",BABY TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14419
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB 4K" tvg-logo="http://painelgerenciador.com.br/icons/gloob.png" group-title="INFANTIS",GLOOB 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14420
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO 4K" tvg-logo="http://painelgerenciador.com.br/icons/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14421
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST 4K" tvg-logo="http://painelgerenciador.com.br/icons/tooncast.png" group-title="INFANTIS",TOONCAST 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14422
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tnt.png" group-title="FILMES E SERIES",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14374
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES 4K" tvg-logo="http://painelgerenciador.com.br/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14375
+#EXTINF:-1 tvg-id="starhits.br" tvg-name="STAR HITS 4K" tvg-logo="http://www.kanawat.com.br/icons/starhits.png" group-title="FILMES E SERIES",STAR HITS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14377
+#EXTINF:-1 tvg-id="starhits2.br" tvg-name="STAR HITS 2 4K" tvg-logo="http://www.kanawat.com.br/icons/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14378
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL 4K" tvg-logo="http://www.kanawat.com.br/icons/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14379
+#EXTINF:-1 tvg-id="starlife.br" tvg-name="STAR LIFE 4K" tvg-logo="http://www.kanawat.com.br/icons/starlife.png" group-title="FILMES E SERIES",STAR LIFE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14380
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX 4K" tvg-logo="http://painelgerenciador.com.br/icons/fx.png" group-title="FILMES E SERIES",FX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14381
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo.png" group-title="FILMES E SERIES",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14388
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO2 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14389
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14390
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14391
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14392
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14393
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14394
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14395
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX 4K" tvg-logo="http://painelgerenciador.com.br/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14396
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K" tvg-logo="http://painelgerenciador.com.br/icons/space.png" group-title="FILMES E SERIES",SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14376
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC ACTION 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14382
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC PREMIUM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14383
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC PIPOCA 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14384
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC TOUCH 4K" tvg-logo="http://painelgerenciador.com.br/icons/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14385
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC FUN 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14386
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC CULT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14387
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/canalbrasil.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14397
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="http://painelgerenciador.com.br/icons/axn.png" group-title="FILMES E SERIES",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14398
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E 4K" tvg-logo="http://painelgerenciador.com.br/icons/a&e.png" group-title="FILMES E SERIES",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14408
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY 4K" tvg-logo="http://painelgerenciador.com.br/icons/sony.png" group-title="FILMES E SERIES",SONY 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14399
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY 4K" tvg-logo="http://painelgerenciador.com.br/icons/syfy.png" group-title="FILMES E SERIES",SYFY 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14400
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://painelgerenciador.com.br/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14401
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14402
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14403
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14404
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14405
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14406
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="PRIME BOXBRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/primebox.png" group-title="FILMES E SERIES",PRIME BOXBRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14407
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="PLAY TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/playtv.png" group-title="FILMES E SERIES",PLAY TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14410
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcm.png" group-title="FILMES E SERIES",TCM 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14409
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NAT GEO 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14427
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeowild.png" group-title="DOCUMENTARIOS",NAT GEO WILD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14429
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://painelgerenciador.com.br/icons/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14428
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 4K" tvg-logo="http://painelgerenciador.com.br/icons/h2.png" group-title="DOCUMENTARIOS",H2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14430
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY 4K" tvg-logo="http://painelgerenciador.com.br/icons/history.png" group-title="DOCUMENTARIOS",HISTORY 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14431
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverychannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14432
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverytheater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14433
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14434
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14435
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverysience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14436
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="DISCOVERY CIVILIZATION 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverycivi.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14437
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY HOME&HEALTH 4K" tvg-logo="http://painelgerenciador.com.br/icons/homehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME&HEALTH 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14438
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY ID 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveryid.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14439
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://painelgerenciador.com.br/icons/fishtv.png" group-title="DOCUMENTARIOS",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14440
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! 4K" tvg-logo="http://painelgerenciador.com.br/icons/e!.png" group-title="VARIEDADES",E! 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14441
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC 4K" tvg-logo="http://painelgerenciador.com.br/icons/tlc.png" group-title="VARIEDADES",TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14442
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/gnt.png" group-title="VARIEDADES",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14443
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K" tvg-logo="http://painelgerenciador.com.br/icons/viva.png" group-title="VARIEDADES",VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14444
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUE TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/truetv.png" group-title="VARIEDADES",TRUE TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14445
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFE TIME 4K" tvg-logo="http://painelgerenciador.com.br/icons/lifetime.png" group-title="VARIEDADES",LIFE TIME 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14446
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="CHEFTV 4K" tvg-logo="http://painelgerenciador.com.br/icons/cheftv.png" group-title="VARIEDADES",CHEFTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14447
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://painelgerenciador.com.br/icons/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14448
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS 4K" tvg-logo="http://painelgerenciador.com.br/icons/tbs.png" group-title="VARIEDADES",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14449
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS 4K" tvg-logo="http://painelgerenciador.com.br/icons/bis.png" group-title="MUSICA&ENTR",BIS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14423
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 4K" tvg-logo="http://painelgerenciador.com.br/icons/vh1.png" group-title="MUSICA&ENTR",VH1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14426
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 4K" tvg-logo="http://painelgerenciador.com.br/icons/mtv.png" group-title="MUSICA&ENTR",MTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14425
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://painelgerenciador.com.br/icons/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14424
+#EXTINF:-1 tvg-id="shopbuy.br" tvg-name="SHOPTIME HD" tvg-logo="http://painelgerenciador.com.br/icons/shoptime.png" group-title="VARIEDADES",SHOPTIME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48564
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSICBOX BRASIL HD" tvg-logo="http://painelgerenciador.com.br/icons/musicboxbrasil.png" group-title="MUSICA&ENTR",MUSICBOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48565
+#EXTINF:-1 tvg-id="TVNOVOTEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="http://painelgerenciador.com.br/icons/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/48566
