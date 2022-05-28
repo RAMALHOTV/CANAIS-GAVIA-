@@ -1475,6 +1475,110 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Bra
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/141492.ts
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",NHK SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91990.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Canais | Variedades",Cinecanal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71939.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Canais | Variedades",Cinecanal FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71940.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Canais | Variedades",Cinecanal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71941.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Canais | Variedades",Cinecanal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71942.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/01375ac11a3195fb2fdef0f451d0943e.png" group-title="Canais | 4K [FHDR]",Cinecanal 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103468.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71895.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71896.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71897.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71898.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71899.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/04288a1c380c0d1bbeeaa0a29ae85c0f.png" group-title="Canais | Filmes e Séries",Star Hits FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71944.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71947.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71948.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71949.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | Filmes e Séries",Star Hits 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71950.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72188.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72189.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72190.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/86318d9ce0bb3d308633a2623066a59d.png" group-title="Canais | Infantis",Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72191.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72192.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72193.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72194.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/86318d9ce0bb3d308633a2623066a59d.png" group-title="Canais | Documentários",Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72195.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | 4K [FHDR]",Nat Geo Wild 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90242.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | Legendados",Star Hits 2 SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90699.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | Legendados",Star Hits 2 HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90700.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | Legendados",Star Hits 2 FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90701.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/04288a1c380c0d1bbeeaa0a29ae85c0f.png" group-title="Canais | Legendados",Star Hits SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90702.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/04288a1c380c0d1bbeeaa0a29ae85c0f.png" group-title="Canais | Legendados",Star Hits HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90703.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/04288a1c380c0d1bbeeaa0a29ae85c0f.png" group-title="Canais | Legendados",Star Hits FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90704.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Costa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93581.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Costa Branca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93585.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Planicie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93586.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Planicie SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93587.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Macapa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93590.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Macapa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93591.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberlandia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93598.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberlandia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93599.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Cocais HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93600.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Cocais SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93601.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Imperatriz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93602.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Imperatriz SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93603.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96518.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/04288a1c380c0d1bbeeaa0a29ae85c0f.png" group-title="Canais | 4K [FHDR]",Star Hits 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103469.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/82fdf98cf40173f3f98d8c97c018daca.png" group-title="Canais | 4K [FHDR]",Star Hits 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103470.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | 4K [FHDR]",Nat Geo Kids 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103486.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | 4K [FHDR]",Disney Junior 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103507.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | 4K [FHDR]",Campeonato Carioca 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103519.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/XSGqDUb" group-title="Canais | PPV",Ilha Record FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/105100.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131136.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nacional SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131145.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nacional FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131217.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72201.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr FHD [H265]
