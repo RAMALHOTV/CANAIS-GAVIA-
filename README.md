@@ -10,1146 +10,1621 @@
 
 
 
-#EXTM3U
-#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 01[/B][/COLOR]
-http://canais.servidor
-
-
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - SD" tvg-logo="http://dgbr.io:80/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="- Filmes e Series",A&E - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24802
-#EXTINF:-1 tvg-id="AgroBrasilTV.br(m3u4u)" tvg-name="AGRO BRASIL" tvg-logo="http://dgbr.io:80/images/f4f8efb6d2dea59095b0d5f4715b94ee.png" group-title="- Abertos [Cortesia]",AGRO BRASIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59587
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - SD" tvg-logo="http://dgbr.io:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="- Filmes e Series",AMC - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24809
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - SD" tvg-logo="http://dgbr.io:80/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="- Documentários",Animal Planet - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24959
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1  - HD" tvg-logo="http://dgbr.io:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="- Variedades",Arte 1  - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25159
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 - SD" tvg-logo="http://dgbr.io:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="- Variedades",Arte 1 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25160
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - SD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24815
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV - SD" tvg-logo="http://dgbr.io:80/images/45914664eafc286fb139a5036f142106.png" group-title="- Infantil",Baby TV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25094
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - SD" tvg-logo="http://dgbr.io:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="- News",Band News - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24554
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports - SD" tvg-logo="http://dgbr.io:80/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="- Esportes",Band Sports - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24635
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24548
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24545
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24544
-#EXTINF:-1 tvg-id="BandRJ.br(m3u4u)" tvg-name="Band RJ - Rio de Janeiro" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band RJ - Rio de Janeiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/84865
-#EXTINF:-1 tvg-id="BandBrasilia.br(m3u4u)" tvg-name="Band DF - Brasília" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band DF - Brasília
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/84864
-#EXTINF:-1 tvg-id="BandRioGrandedoSul.br(m3u4u)" tvg-name="Band RS - Porto Alegre" tvg-logo="http://dgbr.io:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="- Band [Cortesia]",Band RS - Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/99398
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - SD" tvg-logo="http://dgbr.io:80/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="- Variedades",Bis - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25121
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - SD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25089
-#EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="http://cdnbr.me/logos/img/canal29.png" group-title="- [24 Horas] Diversos",Canal 29
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97413
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - HD" tvg-logo="http://cdnbr.me/logos/img/canalbrasil.png" group-title="- Abertos [Cortesia]",Canal Brasil - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24562
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - SD" tvg-logo="http://dgbr.io:80/images/6e9236ab3e71fd6f578d57db5855f7aa.png" group-title="- Abertos [Cortesia]",Canal Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24564
-#EXTINF:-1 tvg-id="CanaldoBoi.br(m3u4u)" tvg-name="CANAL DO BOI" tvg-logo="http://dgbr.io:80/images/62cb19c8de3b1ae6482f3e8bacdf9a59.png" group-title="- Abertos [Cortesia]",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33563
-#EXTINF:-1 tvg-id="CanalRural.br(m3u4u)" tvg-name="CANAL RURAL" tvg-logo="http://dgbr.io:80/images/bf1cb768332244e3a68070bd82bd2540.png" group-title="- Abertos [Cortesia]",CANAL RURAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/35033
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - SD" tvg-logo="http://dgbr.io:80/images/33561003f44d374c719506bef4faeba4.png" group-title="- Filmes e Series",Canal Sony - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24822
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - SD" tvg-logo="http://xsrv.me/logos/img/cancaonova.png" group-title="- Religiosos",Canção Nova - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25201
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - SD" tvg-logo="http://dgbr.io:80/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="- Infantil",Cartoon Network - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25069
-#EXTINF:-1 tvg-id="" tvg-name="Cine Action" tvg-logo="http://cdnbr.me/logos/img/cineaction.png" group-title="- Cine Sky",Cine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94423
-#EXTINF:-1 tvg-id="" tvg-name="Cine Animação" tvg-logo="http://cdnbr.me/logos/img/cineanimacao.png" group-title="- Cine Sky",Cine Animação
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94424
-#EXTINF:-1 tvg-id="" tvg-name="Cine Ação - Digital" tvg-logo="http://cdnbr.me/logos/pluto/digitalacao.png" group-title="- Digital TV",Cine Ação - Digital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120215
-#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia" tvg-logo="http://cdnbr.me/logos/img/cinecomedia.png" group-title="- Cine Sky",Cine Comédia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94113
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 01" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86130
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 02" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86131
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 03" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86132
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 04" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86133
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 05" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86134
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 06" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86135
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 07" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86136
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 08" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86137
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 09" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86138
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 10" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86139
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 11" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86140
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 12" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86141
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 13" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86142
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-name="Cine Pipoca - 14" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86143
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 01" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59512
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 02" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59513
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 03" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59514
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 04" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59515
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 05" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59516
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - SD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24828
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - SD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30277
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - SD" tvg-logo="http://dgbr.io:80/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="- Esportes",Combate - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24603
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - SD" tvg-logo="http://dgbr.io:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="- Variedades",Comedy Central - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25127
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - SD" tvg-logo="http://dgbr.io:80/images/c5a8d9f69131ab90d35f659348bafd6a.png" group-title="- Variedades",Canal Curta - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25166
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 01 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 01 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24578
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - SD" tvg-logo="http://dgbr.io:80/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="- Discovery",Discovery Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24968
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - SD" tvg-logo="http://dgbr.io:80/images/2e70bc7037125933a803b1dd4c3853b9.png" group-title="- Discovery",Discovery H&H - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24977
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - SD" tvg-logo="http://dgbr.io:80/images/585c4d2eec6882f5f38e151afee72a82.png" group-title="- Discovery",Discovery HGTV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29391
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - SD" tvg-logo="http://dgbr.io:80/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="- Infantil",Discovery Kids - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25038
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - SD" tvg-logo="http://dgbr.io:80/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="- Discovery",Discovery Science - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24982
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - SD" tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png" group-title="- Discovery",Discovery Theater - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24985
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - SD" tvg-logo="http://dgbr.io:80/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="- Discovery",Discovery TLC - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29902
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - SD" tvg-logo="http://dgbr.io:80/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="- Discovery",Discovery Turbo - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24991
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - SD" tvg-logo="http://dgbr.io:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="- Discovery",Discovery World - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24994
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - SD" tvg-logo="http://dgbr.io:80/images/6bee7677af2813c27e06499b0ac63cce.png" group-title="- Infantil",Disney Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25046
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - SD" tvg-logo="http://dgbr.io:80/images/e1671797c52e15f763380b45e841ec32.png" group-title="- Variedades",E! Entertainment - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25169
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 01" tvg-logo="http://dgbr.io:80/images/0cbd0fda3d38d0726600f71fc27a579e.png" group-title="- Eleven Sports",Eleven Sports 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121797
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 02" tvg-logo="http://dgbr.io:80/images/0cbd0fda3d38d0726600f71fc27a579e.png" group-title="- Eleven Sports",Eleven Sports 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121799
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 03" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121800
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 04" tvg-logo="http://dgbr.io:80/images/0cbd0fda3d38d0726600f71fc27a579e.png" group-title="- Eleven Sports",Eleven Sports 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121801
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 05" tvg-logo="http://dgbr.io:80/images/0cbd0fda3d38d0726600f71fc27a579e.png" group-title="- Eleven Sports",Eleven Sports 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121802
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 06" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121803
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 07" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121804
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 08" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121805
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 09" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121806
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10" tvg-logo="http://dgbr.io:80/images/0cbd0fda3d38d0726600f71fc27a579e.png" group-title="- Eleven Sports",Eleven Sports 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121798
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 - SD" tvg-logo="http://dgbr.io:80/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="- Espn",ESPN 3 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24658
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN - SD" tvg-logo="http://dgbr.io:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="- Espn",ESPN - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24649
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra - SD" tvg-logo="http://dgbr.io:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="- Espn",ESPN Extra - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24666
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 - SD" tvg-logo="http://dgbr.io:80/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="- Espn",ESPN 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24642
-#EXTINF:-1 tvg-id="" tvg-name="F1 Cobras" tvg-logo="http://dgbr.io:80/images/930530a79d6467ad84cd6a37101baab7.png" group-title="- Esportes",F1 Cobras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103490
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film & Arts - SD" tvg-logo="http://xsrv.me/logos/img/film&arts.png" group-title="- Variedades",Film & Arts - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25197
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - SD" tvg-logo="http://dgbr.io:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="- Variedades",Fish TV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25173
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - SD" tvg-logo="http://dgbr.io:80/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="- Esportes",Fox Sports 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24595
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 - HD¹" tvg-logo="http://dgbr.io:80/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="- Espn",ESPN 4 - HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24588
-#EXTINF:-1 tvg-id="" tvg-name="Furacão Live 01" tvg-logo="http://dgbr.io:80/images/71a458267ca59a91f607b9a7e703f880.png" group-title="- Campeonatos",Furacão Live 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103766
-#EXTINF:-1 tvg-id="" tvg-name="Furacão Live 02" tvg-logo="http://dgbr.io:80/images/71a458267ca59a91f607b9a7e703f880.png" group-title="- Campeonatos",Furacão Live 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103768
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA - HD" tvg-logo="http://cdnbr.me/logos/img/futura.png" group-title="- Abertos [Cortesia]",FUTURA - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24568
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - SD" tvg-logo="http://dgbr.io:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24860
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - SD" tvg-logo="http://xsrv.me/logos/img/globonews.png" group-title="- News",Globo News - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24488
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30673
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo HD" tvg-logo="http://dgbr.io:80/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30674
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/globosp.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30675
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Araraquara HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Araraquara HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34641
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Bauru - HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Bauru - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24452
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Campinas SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/32986
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Campinas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/32987
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Mogi (Tv Diario) HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Mogi (Tv Diario) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34643
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Santos HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Santos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24459
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Sococaba HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Sococaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24455
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São José Dos Campos HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - São José Dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/126105
-#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro SD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30676
-#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro HD" tvg-logo="http://dgbr.io:80/images/57600acf19ae6801c42d74244e846091.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30677
-#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro FHD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30678
-#EXTINF:-1 tvg-id="InterTVAltoLiteral.br(m3u4u)" tvg-name="Globo RJ - Cabo Frio HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RJ - Cabo Frio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/35048
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RJ - Resende HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RJ - Resende HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33504
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte SD" tvg-logo="http://dgbr.io:80/images/75b511c187030c20313e2f121f23f479.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30679
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte HD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30680
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte FHD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30681
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo MG - InterTV dos Vales HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MG - InterTV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24465
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Sul de Minas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MG - Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91821
-#EXTINF:-1 tvg-id="TVBahia.br(m3u4u)" tvg-name="Globo BA - Salvador SD" tvg-logo="http://dgbr.io:80/images/0a6066b5227cfa7b1c35929d493f5ba9.png" group-title="- Globo [Cortesia]",Globo BA - Salvador SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/90709
-#EXTINF:-1 tvg-id="TVBahia.br(m3u4u)" tvg-name="Globo BA - Salvador HD" tvg-logo="http://dgbr.io:80/images/0a6066b5227cfa7b1c35929d493f5ba9.png" group-title="- Globo [Cortesia]",Globo BA - Salvador HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29628
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo AL - Alagoas HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo AL - Alagoas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24571
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo AM - Boa Vista SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo AM - Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29626
-#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br(m3u4u)" tvg-name="Globo AM - Manaus HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo AM - Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33506
-#EXTINF:-1 tvg-id="TVVerdesMares.br(m3u4u)" tvg-name="Globo CE - Fortaleza HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo CE - Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24456
-#EXTINF:-1 tvg-id="GloboBrasilia.br(m3u4u)" tvg-name="Globo DF - Brasília SD" tvg-logo="http://dgbr.io:80/images/0f126e6a5cd84261e5e7a82314424b44.png" group-title="- Globo [Cortesia]",Globo DF - Brasília SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30682
-#EXTINF:-1 tvg-id="GloboBrasilia.br(m3u4u)" tvg-name="Globo DF - Brasília HD" tvg-logo="http://dgbr.io:80/images/0f126e6a5cd84261e5e7a82314424b44.png" group-title="- Globo [Cortesia]",Globo DF - Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30684
-#EXTINF:-1 tvg-id="TVGazeta.br(m3u4u)" tvg-name="Globo ES - Itapemirim HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo ES - Itapemirim HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24572
-#EXTINF:-1 tvg-id="TVGazeta.br(m3u4u)" tvg-name="Globo ES - Vitória HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo ES - Vitória HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/95942
-#EXTINF:-1 tvg-id="TVAnhanguera.br(m3u4u)" tvg-name="Globo GO - Goiânia HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38471
-#EXTINF:-1 tvg-id="TVAnhanguera.br(m3u4u)" tvg-name="Globo GO - Goiânia SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38470
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MA - São Luís - Mirante" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MA - São Luís - Mirante
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33505
-#EXTINF:-1 tvg-id="TVMorena.br(m3u4u)" tvg-name="Globo MS - Tv Morena HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MS - Tv Morena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/114812
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Globo MT - Cuiabá SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30683
-#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br(m3u4u)" tvg-name="Globo MT - Cuiabá SD²" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24462
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo PA - Belém HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PA - Belém HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24481
-#EXTINF:-1 tvg-id="TVCaboBranco.br(m3u4u)" tvg-name="Globo PB - Cabo Branco HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PB - Cabo Branco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120135
-#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste FHD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30687
-#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste HD" tvg-logo="http://dgbr.io:80/images/dc86f438edb3590affeb0158d490328b.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30686
-#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste SD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30685
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo PI - Teresina HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PI - Teresina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97439
-#EXTINF:-1 tvg-id="RPCCuritiba.br(m3u4u)" tvg-name="Globo PR - Curitiba HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33415
-#EXTINF:-1 tvg-id="RPCCuritiba.br(m3u4u)" tvg-name="Globo PR - Curitiba SD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33414
-#EXTINF:-1 tvg-id="RPCFozdoIguacu.br(m3u4u)" tvg-name="Globo PR - Foz do Iguaçu HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Foz do Iguaçu HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/130990
-#EXTINF:-1 tvg-id="RPCMaringa.br(m3u4u)" tvg-name="Globo PR - Maringá HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PR - Maringá HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94879
-#EXTINF:-1 tvg-id="RPCParanavai.br(m3u4u)" tvg-name="Globo PR - Paranavaí HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PR - Paranavaí HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34642
-#EXTINF:-1 tvg-id="RPCPontaGrossa.br(m3u4u)" tvg-name="Globo PR - Ponta Grossa HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Ponta Grossa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/130991
-#EXTINF:-1 tvg-id="InterTVCabugi.br(m3u4u)" tvg-name="Globo RN - Cabugí HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RN - Cabugí HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30441
-#EXTINF:-1 tvg-id="RBSTVRioGrande.br(m3u4u)" tvg-name="Globo RS - Caxias do Sul HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Caxias do Sul HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91342
-#EXTINF:-1 tvg-id="RBSTVRioGrande.br(m3u4u)" tvg-name="Globo RS - Pelotas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Pelotas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91344
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br(m3u4u)" tvg-name="Globo RS - Porto Alegre HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38473
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br(m3u4u)" tvg-name="Globo RS - Porto Alegre SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38472
-#EXTINF:-1 tvg-id="RBSTVSantaMaria.br(m3u4u)" tvg-name="Globo RS - Santa Maria HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Santa Maria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/130992
-#EXTINF:-1 tvg-id="NSCTVBlumenau.br(m3u4u)" tvg-name="Globo SC - Bluemenau HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Bluemenau HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33503
-#EXTINF:-1 tvg-id="NSCTVCriciuma.br(m3u4u)" tvg-name="Globo SC - Criciuma HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Criciuma HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/130993
-#EXTINF:-1 tvg-id="NSCTVChapeco.br(m3u4u)" tvg-name="Globo SC - Chapecó HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Chapecó HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/130994
-#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br(m3u4u)" tvg-name="Globo SC - Florianópolis HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Florianópolis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33502
-#EXTINF:-1 tvg-id="NSCTVJoinville.br(m3u4u)" tvg-name="Globo SC - Joinville HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Joinville HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/114911
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo SE - Sergipe HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94878
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo SE - Sergipe FHD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34646
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - SD" tvg-logo="http://dgbr.io:80/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="- Infantil",Gloob - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25076
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - SD" tvg-logo="http://dgbr.io:80/images/50e9728503a9bffabe5e07c912b38f89.png" group-title="- Infantil",Gloobinho - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25103
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - SD" tvg-logo="http://dgbr.io:80/images/a5e669e9a3073f1384994f3b02576748.png" group-title="- Variedades",GNT - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25145
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="http://cdnbr.me/logos/img/gospelcartoon.png" group-title="- [24 Horas] Desenhos",Gospel Cartoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97410
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Filmes" tvg-logo="http://cdnbr.me/logos/img/gospelmovies.png" group-title="- [24 Horas] Diversos",Gospel Filmes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97411
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - SD" tvg-logo="http://dgbr.io:80/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="- HBO",HBO 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24739
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - SD" tvg-logo="http://dgbr.io:80/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="- HBO",HBO Family - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24745
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - SD" tvg-logo="http://dgbr.io:80/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="- HBO",HBO Plus - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24751
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - SD" tvg-logo="http://dgbr.io:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="- HBO",HBO - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24732
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - SD" tvg-logo="http://dgbr.io:80/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="- HBO",HBO Signature - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24758
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 03 - HD" tvg-logo="http://dgbr.io:80/images/d4c537d4f1354a487f2d38855822d482.png" group-title="- PPV",HBO Max 03 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120122
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 04 - HD" tvg-logo="http://dgbr.io:80/images/d4c537d4f1354a487f2d38855822d482.png" group-title="- PPV",HBO Max 04 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120123
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 05 - HD" tvg-logo="http://dgbr.io:80/images/d4c537d4f1354a487f2d38855822d482.png" group-title="- PPV",HBO Max 05 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120124
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 06 - HD" tvg-logo="http://dgbr.io:80/images/d4c537d4f1354a487f2d38855822d482.png" group-title="- PPV",HBO Max 06 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/125952
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - SD" tvg-logo="http://dgbr.io:80/images/b5035b385b4983d6acc8ef1e3f497ad9.png" group-title="- Documentários",History 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25008
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - SD" tvg-logo="http://dgbr.io:80/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="- Documentários",History Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25002
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - SD" tvg-logo="http://dgbr.io:80/images/5a6898640e865b337ed19248dd0cafde.png" group-title="- Discovery",Investigação Discovery - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24996
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News - HD" tvg-logo="http://dgbr.io:80/images/e88aebcccd5b7da5f14618397ed93e23.png" group-title="- News",Jovem Pan News - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/121351
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="- Infantil",Kuriakos Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59588
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - SD" tvg-logo="http://dgbr.io:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="- Filmes e Series",Lifetime - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24867
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature - FHD" tvg-logo="" group-title="- Documentários",Love Nature - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94872
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat - SD" tvg-logo="http://dgbr.io:80/images/345a207ebc8e683898c0ff52a5f4837c.png" group-title="- Variedades",Mais GloboSat - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25138
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - SD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24893
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - SD" tvg-logo="http://dgbr.io:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="- Variedades",MTV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25152
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - SD" tvg-logo="http://dgbr.io:80/images/d86c2455f7248a0bd12945187439ec01.png" group-title="- Variedades",Multishow - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25179
-#EXTINF:-1 tvg-id="" tvg-name="Mundo TV" tvg-logo="http://cdnbr.me/logos/img/mundotv.png" group-title="- [24 Horas] Diversos",Mundo TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97416
-#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil - SD" tvg-logo="http://103.195.103.33:80/images/a80277cecc0a4ecdb0c72dc05ac6ecb3.png" group-title="- Variedades",Music Box Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25190
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - SD" tvg-logo="http://dgbr.io:80/images/757a717ee2ade661c665276734c83b16.png" group-title="- Documentários",NatGeo Wild - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25013
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - SD" tvg-logo="http://dgbr.io:80/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="- Documentários",National Geographic - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25020
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - SD" tvg-logo="http://dgbr.io:80/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="- Infantil",Nick Jr. - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25026
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - SD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25032
-#EXTINF:-1 tvg-id="" tvg-name="Nova Era TV" tvg-logo="http://xsrv.me/logos/img/novaera.png" group-title="- Religiosos",Nova Era TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25203
-#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - SD" tvg-logo="http://dgbr.io:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="- Variedades",Canal Off - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25116
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - SD" tvg-logo="http://dgbr.io:80/images/db84fd722b09a6787fd09b7eb55ff6ab.png" group-title="- Filmes e Series",Paramount Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24899
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="- [24 Horas] Diversos",Pluto TV Cine Sucessos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103506
-#EXTINF:-1 tvg-id="Polishop.br(m3u4u)" tvg-name="PolishopTV" tvg-logo="http://xsrv.me/logos/img/polishop.png" group-title="- Abertos [Cortesia]",PolishopTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91798
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24677
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24682
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24692
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24700
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24708
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24715
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24721
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere - 8 - SD *" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 8 - SD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24724
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Record News - SD" tvg-logo="http://xsrv.me/logos/img/recordnews.png" group-title="- News",Record News - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29805
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24499
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo HD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24498
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo FHD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/84950
-#EXTINF:-1 tvg-id="RecordTVRio.br(m3u4u)" tvg-name="Record RJ - Rio de Janeiro SD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24511
-#EXTINF:-1 tvg-id="RecordTVRio.br(m3u4u)" tvg-name="Record RJ - Rio de Janeiro HD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24513
-#EXTINF:-1 tvg-id="RecordTVMinas.br(m3u4u)" tvg-name="Record MG - Belo Horizonte" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record MG - Belo Horizonte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94871
-#EXTINF:-1 tvg-id="RecordTV.br(m3u4u)" tvg-name="Record AM - Manaus" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record AM - Manaus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24510
-#EXTINF:-1 tvg-id="RecordTVItapoan.br(m3u4u)" tvg-name="Record BA - Salvador" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record BA - Salvador
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24502
-#EXTINF:-1 tvg-id="RecordTVBrasilia.br(m3u4u)" tvg-name="Record DF - Brasília" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record DF - Brasília
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24509
-#EXTINF:-1 tvg-id="TVVitoria.br(m3u4u)" tvg-name="Record ES - TV Vitória" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record ES - TV Vitória
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103369
-#EXTINF:-1 tvg-id="RecordTVGoias.br(m3u4u)" tvg-name="Record GO - Goiânia" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record GO - Goiânia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/117222
-#EXTINF:-1 tvg-id="RICRecordTVCuritiba.br(m3u4u)" tvg-name="Record PR - Curitiba" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record PR - Curitiba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94875
-#EXTINF:-1 tvg-id="TVTropical.br(m3u4u)" tvg-name="Record RN - Natal" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RN - Natal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97420
-#EXTINF:-1 tvg-id="RecordTVRS.br(m3u4u)" tvg-name="Record RS - Porto Alegre" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RS - Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24500
-#EXTINF:-1 tvg-id="NDTV.br(m3u4u)" tvg-name="Record SC - Florianópolis" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SC - Florianópolis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94874
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - Santos" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - Santos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94873
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="- Esportes",RedBull TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/62196
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="http://cdnbr.me/logos/img/tvbrasil.png" group-title="- Religiosos",Rede Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97452
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-logo="http://xsrv.me/logos/img/redegospel.png" group-title="- Religiosos",Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25204
-#EXTINF:-1 tvg-id="RedeSuper.br(m3u4u)" tvg-name="Rede Super" tvg-logo="http://dgbr.io:80/images/e5f8d22cd35c01d5f1febb62f4ae512c.png" group-title="- Abertos [Cortesia]",Rede Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/83925
-#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://xsrv.me/logos/img/seculo21.png" group-title="- Religiosos",Rede Século 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25207
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - SD" tvg-logo="http://xsrv.me/logos/img/redevida.png" group-title="- Religiosos",Rede Vida - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33613
-#EXTINF:-1 tvg-id="RedeTVManaus.br(m3u4u)" tvg-name="RedeTV AM - Manaus HD" tvg-logo="http://dgbr.io:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="- Abertos [Cortesia]",RedeTV AM - Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/115035
-#EXTINF:-1 tvg-id="TVPampa.br(m3u4u)" tvg-name="RedeTV RS - Porto Alegre HD" tvg-logo="http://dgbr.io:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="- Abertos [Cortesia]",RedeTV RS - Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97418
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24559
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24558
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24557
-#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="http://cdnbr.me/logos/img/retrocartoon.png" group-title="- [24 Horas] Desenhos",Retrô Cartoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97415
-#EXTINF:-1 tvg-id="" tvg-name="Rit TV" tvg-logo="http://xsrv.me/logos/img/ritgospel.png" group-title="- Religiosos",Rit TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25208
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/28183
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/28180
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/28179
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ - Rio de Janeiro" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT RJ - Rio de Janeiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/85762
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ - Rio de Janeiro²" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT RJ - Rio de Janeiro²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/130996
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BA - TV Aratu Bahia" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT BA - TV Aratu Bahia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33513
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT GO - Goiânia" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT GO - Goiânia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29551
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CE - Jangadeiro" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT CE - Jangadeiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86434
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MG - Belo Horizonte" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT MG - Belo Horizonte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/84863
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PA - Tailândia" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT PA - Tailândia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97421
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PE - Recife HD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT PE - Recife HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29552
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RS - Rio Grande do Sul" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT RS - Rio Grande do Sul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29553
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - SD" tvg-logo="http://dgbr.io:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="- Filmes e Series",Space - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24906
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - SD" tvg-logo="http://dgbr.io:80/images/43c36900b0aa86ded24077870df74926.png" group-title="- SporTV",SporTv - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24613
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - SD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24620
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv  3 - SD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv  3 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24628
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - SD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24842
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star - SD" tvg-logo="http://dgbr.io:80/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="- Filmes e Series",Star - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24835
-#EXTINF:-1 tvg-id="" tvg-name="Star+  01 - HD" tvg-logo="http://dgbr.io/logos/star.png" group-title="- PPV",Star+  01 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/119647
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - SD" tvg-logo="http://dgbr.io:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="- Filmes e Series",Studio Universal - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24910
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - SD" tvg-logo="http://dgbr.io:80/images/14831b3a087423067dd5af937a12204b.png" group-title="- Filmes e Series",Syfy - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24917
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - SD" tvg-logo="http://dgbr.io:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="- Filmes e Series",TBS - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24923
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - SD" tvg-logo="http://dgbr.io:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="- Telecine",TC - Action - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24765
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - SD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24770
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  SD" tvg-logo="http://dgbr.io:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="- Telecine",TC - Fun -  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24777
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - SD" tvg-logo="http://dgbr.io:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="- Telecine",TC - Pipoca - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24784
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - SD" tvg-logo="http://dgbr.io:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="- Telecine",TC - Premium - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24790
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - SD" tvg-logo="http://dgbr.io:80/images/fb59e5b4ee8c51a84af3de3ef833a6bb.png" group-title="- Telecine",TC - Touch - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24796
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - SD" tvg-logo="http://dgbr.io:80/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="- Filmes e Series",TCM - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25162
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - SD" tvg-logo="http://dgbr.io:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="- Filmes e Series",TNT - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24931
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - SD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24939
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 02 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29704
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 03 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29705
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports - 01 HD [Alter]" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 01 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103757
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports - 02 HD [Alter]" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 02 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103758
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports - 03 HD [Alter]" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 03 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103759
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports - 04 HD [Alter]" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 04 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103760
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports - 05 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103761
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - SD" tvg-logo="http://dgbr.io:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="- Infantil",ToonCast - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25183
-#EXTINF:-1 tvg-id="" tvg-name="TV  Manchete" tvg-logo="http://dgbr.io:80/images/1fe5cce2d7676bed4fcfa6653d2d04a0.png" group-title="- [24 Horas] Diversos",TV  Manchete
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97409
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida - SD" tvg-logo="http://103.195.103.33:80/images/ddd1e2ef454b515b6c47f6fb8ed106e9.png" group-title="- Religiosos",TV Aparecida - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25199
-#EXTINF:-1 tvg-id="TV Assembleia PR" tvg-name="TV Assembleia" tvg-logo="https://4.bp.blogspot.com/-IBw75oJvHK8/XpYdS3OMZgI/AAAAAAAACxY/KL2KzKA8cwsY09k22eN702DDLEWrwkRNgCK4BGAYYCw/s400/TV%2BASEMBLEIA.png" group-title="- Religiosos",TV Assembleia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33959
-#EXTINF:-1 tvg-id="" tvg-name="TV Boa Vontade" tvg-logo="http://xsrv.me/logos/img/boavontade.png" group-title="- Religiosos",TV Boa Vontade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25205
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/107524
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/107525
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/107526
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/107527
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - FHD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34634
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - HD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34633
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - SD" tvg-logo="http://dgbr.io:80/images/e6da8e51b4510f9c253957d20dfd3090.png" group-title="- Abertos [Cortesia]",TV CULTURA - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34632
-#EXTINF:-1 tvg-id="" tvg-name="TV Destak" tvg-logo="http://cdnbr.me/logos/img/tvdestak.png" group-title="- [24 Horas] Desenhos",TV Destak
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/97417
-#EXTINF:-1 tvg-id="TVEscola.br(m3u4u)" tvg-name="Tv Escola - HD" tvg-logo="http://dgbr.io:80/images/2f68a825387da082c9c3dfe081b3529e.png" group-title="- Abertos [Cortesia]",Tv Escola - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/114809
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://1.bp.blogspot.com/-U4SJ0QX3lts/XpYaGWWXXRI/AAAAAAAACxA/NZM1vivsHpM4tvgvlqrw8lfUWydFBkdlgCK4BGAYYCw/s400/tv%2Bevangeliz.png" group-title="- Religiosos",TV Evangelizar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33958
-#EXTINF:-1 tvg-id="Gazeta.br(m3u4u)" tvg-name="TV Gazeta - HD" tvg-logo="http://dgbr.io:80/images/ab81a01d70dfed850894655b5903e732.png" group-title="- Abertos [Cortesia]",TV Gazeta - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/84949
-#EXTINF:-1 tvg-id="TVJUSTICA.br(m3u4u)" tvg-name="TV JUSTIÇA - HD" tvg-logo="http://dgbr.io:80/images/66d1529c54974f2615ef37366717c913.png" group-title="- Abertos [Cortesia]",TV JUSTIÇA - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33884
-#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25206
-#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" tvg-logo="http://mytv.tv.br/canais/tvpaieterno.png" group-title="- Religiosos",TV Pai Eterno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33957
-#EXTINF:-1 tvg-id="TVPantanal.br(m3u4u)" tvg-name="TV Pantanal MS" tvg-logo="http://dgbr.io:80/images/396dd3331d83877a593465aa2ca12b69.png" group-title="- Abertos [Cortesia]",TV Pantanal MS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103602
-#EXTINF:-1 tvg-id="" tvg-name="TV Pantano" tvg-logo="http://cdnbr.me/logos/img/tvpantano.png" group-title="- Abertos [Cortesia]",TV Pantano
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103588
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - SD" tvg-logo="http://dgbr.io:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="- Infantil",TV Rá-Tim-Bum - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25099
-#EXTINF:-1 tvg-id="TVSenado.br(m3u4u)" tvg-name="TV Senado" tvg-logo="http://dgbr.io:80/images/58bc5201444a7a7dc2f084c94ac631c4.png" group-title="- Abertos [Cortesia]",TV Senado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/125878
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - SD" tvg-logo="http://dgbr.io:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="- Filmes e Series",Universal Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24945
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits - SD" tvg-logo="http://dgbr.io:80/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="- Variedades",VH1 Mega Hits - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25195
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - SD" tvg-logo="http://dgbr.io:80/images/6cabf345f46690846b7f20b7c8a83f93.png" group-title="- Variedades",Canal Viva - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25157
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - SD" tvg-logo="http://dgbr.io:80/images/2a6d61f2db2620999ceeb10ef97ab0e8.png" group-title="- Filmes e Series",Warner Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24952
-#EXTINF:-1 tvg-id="" tvg-name="BR: Brasileirão - C Dazn | TVNsports 01" tvg-logo="" group-title="- Campeonatos",BR: Brasileirão - C Dazn | TVNsports 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/153082
-#EXTINF:-1 tvg-id="" tvg-name="BR: Brasileirão - C Dazn | TVNsports 02" tvg-logo="" group-title="- Campeonatos",BR: Brasileirão - C Dazn | TVNsports 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/153083
-#EXTINF:-1 tvg-id="" tvg-name="BR: Brasileirão - C Dazn | TVNsports 03" tvg-logo="" group-title="- Campeonatos",BR: Brasileirão - C Dazn | TVNsports 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/153084
-#EXTINF:-1 tvg-id="" tvg-name="BR: Brasileirão - C Dazn | TVNsports 04" tvg-logo="" group-title="- Campeonatos",BR: Brasileirão - C Dazn | TVNsports 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/153085
-#EXTINF:-1 tvg-id="BigBrotherBrasil.br(m3u4u)" tvg-name="Power Couple Brasil - 01" tvg-logo="" group-title="- Power Couple",Power Couple Brasil - 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94812
-#EXTINF:-1 tvg-id="BigBrotherBrasil.br(m3u4u)" tvg-name="Power Couple Brasil - 02" tvg-logo="" group-title="- Power Couple",Power Couple Brasil - 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/94858
-#EXTINF:-1 tvg-id="" tvg-name="Globo - TV Rio Sul" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo - TV Rio Sul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/158623
-#EXTINF:-1 tvg-id="" tvg-name="Cine Terror 01 - HD" tvg-logo="http://cdnbr.me/logos/img/cineterror.png" group-title="- Cine Sky",Cine Terror 01 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/93434
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - HD" tvg-logo="http://dgbr.io:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="- News",Globo News - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24485
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News - HD" tvg-logo="http://dgbr.io:80/images/f79701acef6cbb6ee6a0cb89c090f3bb.png" group-title="- News",Record News - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24517
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 02 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 02 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24577
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 01 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24579
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 - HD²" tvg-logo="http://dgbr.io:80/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="- Espn",ESPN 4 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24586
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - HD" tvg-logo="http://cdnbr.me/logos/img/foxsports2.png" group-title="- Esportes",Fox Sports 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24593
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - HD" tvg-logo="http://dgbr.io:80/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="- Esportes",Combate - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24600
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - HD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24610
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - HD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24617
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - HD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24625
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports -  HD" tvg-logo="http://cdnbr.me/logos/img/bandsports.png" group-title="- Esportes",Band Sports -  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24633
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 - HD" tvg-logo="http://dgbr.io:80/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="- Espn",ESPN 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24640
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN - HD" tvg-logo="http://dgbr.io:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="- Espn",ESPN - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24646
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 - HD" tvg-logo="http://dgbr.io:80/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="- Espn",ESPN 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24655
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra - HD" tvg-logo="http://dgbr.io:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="- Espn",ESPN Extra - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24663
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24674
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/95729
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24679
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24689
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24697
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24706
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24713
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24720
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - HD" tvg-logo="http://dgbr.io:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="- HBO",HBO - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24730
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - HD" tvg-logo="http://dgbr.io:80/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="- HBO",HBO 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24737
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - HD" tvg-logo="http://dgbr.io:80/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="- HBO",HBO Family - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24744
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - HD" tvg-logo="http://dgbr.io:80/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="- HBO",HBO Plus - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24749
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - HD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24756
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - HD" tvg-logo="http://dgbr.io:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="- Telecine",TC - Action - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24763
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - HD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24769
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  HD" tvg-logo="http://dgbr.io:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="- Telecine",TC - Fun -  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24775
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - HD" tvg-logo="http://dgbr.io:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="- Telecine",TC - Pipoca - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24782
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - HD" tvg-logo="http://dgbr.io:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="- Telecine",TC - Premium - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24788
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - HD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24794
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - HD" tvg-logo="http://dgbr.io:80/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="- Filmes e Series",A&E - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24800
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - HD" tvg-logo="http://dgbr.io:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="- Filmes e Series",AMC - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24807
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - HD" tvg-logo="http://dgbr.io:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="- Filmes e Series",AXN - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24813
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - HD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24820
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - HD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24826
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star - HD" tvg-logo="http://dgbr.io:80/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="- Filmes e Series",Star - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24834
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - HD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24840
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - HD" tvg-logo="http://dgbr.io:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24859
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - HD" tvg-logo="http://dgbr.io:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="- Filmes e Series",Lifetime - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24865
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - HD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24892
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - HD" tvg-logo="http://dgbr.io:80/images/db84fd722b09a6787fd09b7eb55ff6ab.png" group-title="- Filmes e Series",Paramount Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24898
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - HD" tvg-logo="http://dgbr.io:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="- Filmes e Series",Space - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24905
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - HD" tvg-logo="http://dgbr.io:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="- Filmes e Series",Studio Universal - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24909
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - HD" tvg-logo="http://dgbr.io:80/images/14831b3a087423067dd5af937a12204b.png" group-title="- Filmes e Series",Syfy - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24915
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - HD" tvg-logo="http://dgbr.io:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="- Filmes e Series",TBS - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24921
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - HD" tvg-logo="http://dgbr.io:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="- Filmes e Series",TNT - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24929
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - HD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24937
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel - HD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24944
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - HD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24950
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - HD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24957
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - HD" tvg-logo="http://dgbr.io:80/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="- Discovery",Discovery Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24966
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24975
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - HD" tvg-logo="http://dgbr.io:80/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="- Discovery",Discovery Science - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24980
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - HD" tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png" group-title="- Discovery",Discovery Theater - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24983
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24989
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - HD" tvg-logo="http://dgbr.io:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="- Discovery",Discovery World - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24992
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - HD" tvg-logo="http://dgbr.io:80/images/5a6898640e865b337ed19248dd0cafde.png" group-title="- Discovery",Investigação Discovery - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24995
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - HD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25000
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - HD" tvg-logo="http://cdnbr.me/logos/img/history2.png" group-title="- Documentários",History 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25007
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - HD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25012
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - HD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25019
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - HD" tvg-logo="http://dgbr.io:80/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="- Infantil",Nick Jr. - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25024
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - HD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25031
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - HD" tvg-logo="http://dgbr.io:80/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="- Infantil",Discovery Kids - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25036
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - HD" tvg-logo="http://dgbr.io:80/images/6bee7677af2813c27e06499b0ac63cce.png" group-title="- Infantil",Disney Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25044
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - HD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25068
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - HD" tvg-logo="http://dgbr.io:80/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="- Infantil",Gloob - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25073
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - HD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25088
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - HD" tvg-logo="http://dgbr.io:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="- Infantil",TV Rá-Tim-Bum - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25097
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - HD" tvg-logo="http://dgbr.io:80/images/50e9728503a9bffabe5e07c912b38f89.png" group-title="- Infantil",Gloobinho - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25102
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo - HD" tvg-logo="http://dgbr.io:80/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="- Infantil",Zoomoo - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25104
-#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - HD" tvg-logo="http://dgbr.io:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="- Variedades",Canal Off - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25114
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - HD" tvg-logo="http://dgbr.io:80/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="- Variedades",Bis - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25119
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - HD" tvg-logo="http://dgbr.io:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="- Variedades",Comedy Central - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25126
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - HD" tvg-logo="http://dgbr.io:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="- Variedades",Food Network - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25131
-#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais GloboSat - HD" tvg-logo="http://dgbr.io:80/images/345a207ebc8e683898c0ff52a5f4837c.png" group-title="- Variedades",Mais GloboSat - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25136
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - HD" tvg-logo="http://dgbr.io:80/images/a5e669e9a3073f1384994f3b02576748.png" group-title="- Variedades",GNT - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25143
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - HD" tvg-logo="http://dgbr.io:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="- Variedades",MTV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25148
-#EXTINF:-1 tvg-id="aande.br" tvg-name="MTV - LIVE HD" tvg-logo="http://xsrv.me/logos/img/mtv.png" group-title="- Variedades",MTV - LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25150
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - HD" tvg-logo="http://103.195.103.33:80/images/6cabf345f46690846b7f20b7c8a83f93.png" group-title="- Variedades",Canal Viva - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25155
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - HD" tvg-logo="http://dgbr.io:80/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="- Filmes e Series",TCM - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25161
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - HD" tvg-logo="http://dgbr.io:80/images/e1671797c52e15f763380b45e841ec32.png" group-title="- Variedades",E! Entertainment - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25168
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - HD" tvg-logo="http://dgbr.io:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="- Variedades",Fish TV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25171
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - HD" tvg-logo="http://103.195.103.33:80/images/d86c2455f7248a0bd12945187439ec01.png" group-title="- Variedades",Multishow - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25176
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - HD" tvg-logo="http://dgbr.io:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="- Infantil",ToonCast - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25182
-#EXTINF:-1 tvg-id="TVAparecida.br(m3u4u)" tvg-name="TV Aparecida - HD" tvg-logo="http://dgbr.io:80/images/ddd1e2ef454b515b6c47f6fb8ed106e9.png" group-title="- Religiosos",TV Aparecida - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25198
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - HD" tvg-logo="http://dgbr.io:80/images/b1e41da6725a105391a0159d25f4ff30.png" group-title="- Religiosos",Canção Nova - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25200
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - HD" tvg-logo="http://dgbr.io:80/images/585c4d2eec6882f5f38e151afee72a82.png" group-title="- Discovery",Discovery HGTV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29390
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - HD " tvg-logo="http://dgbr.io:80/images/c5a8d9f69131ab90d35f659348bafd6a.png" group-title="- Variedades",Canal Curta - HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25165
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - HD" tvg-logo="http://dgbr.io:80/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="- Discovery",Discovery TLC - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29903
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - HD" tvg-logo="http://103.195.103.33:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.png" group-title="- News",CNN Brasil - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30278
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi -  HD" tvg-logo="http://dgbr.io:80/images/e71a5a4ebc1215861f316cdb11241e9b.png" group-title="- HBO",HBO Mundi -  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33510
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme - HD" tvg-logo="http://dgbr.io:80/images/bd10dac6ef63bf5209ac397b222b5ab5.png" group-title="- HBO",HBO Xtreme - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33511
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - HD" tvg-logo="http://dgbr.io:80/images/bc1b7a80d163878a56648878626e9a49.png" group-title="- HBO",HBO Pop - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33512
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - HD" tvg-logo="http://dgbr.io:80/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="- Religiosos",Rede Vida - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33614
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional*" tvg-logo="http://dgbr.io:80/images/6dbb369ffc1366d269fdd4d95f3f80e2.png" group-title="- News",CNN Internacional*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59511
-#EXTINF:-1 tvg-id="" tvg-name="ALL Sports" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="- Esportes",ALL Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/59589
-#EXTINF:-1 tvg-id="" tvg-name="RAI Internacional - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/260px-Rai_1_-_Logo_2016.svg.png" group-title="- Esportes",RAI Internacional - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/71930
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 01 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81499
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 02 HD" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/abu-dhabi-sports-2.png" group-title="- Esportes",Abu Dabi Sports - 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81500
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 03 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81501
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 06" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81504
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 07" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81505
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 08" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81506
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 09" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81507
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 10" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/81508
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="http://dgbr.io:80/images/1a1edeb459447f3ea216409405d996b0.png" group-title="- Religiosos",Universal TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/83924
-#EXTINF:-1 tvg-id="" tvg-name="TV Rede Super" tvg-logo="http://xsrv.me/logos/img/redesuper.png" group-title="- Religiosos",TV Rede Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/83926
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 03 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 03 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/85984
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Dazn 04 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 04 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/85986
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis o Pimentinha" tvg-logo="http://dgbr.io:80/images/5ced9e555fd8ad68effb1c6fc5fa99e9.png" group-title="- [24 Horas] Desenhos",[24H] Denis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38367
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="http://dgbr.io:80/images/5ced9e555fd8ad68effb1c6fc5fa99e9.png" group-title="- [24 Horas] Desenhos",[24H] Liga da Justica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38447
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica-Pau" tvg-logo="http://dgbr.io:80/images/5ced9e555fd8ad68effb1c6fc5fa99e9.png" group-title="- [24 Horas] Desenhos",[24H] Pica-Pau
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38410
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink e Cérebro" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Pink e Cérebro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38411
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon" tvg-logo="http://dgbr.io:80/images/5ced9e555fd8ad68effb1c6fc5fa99e9.png" group-title="- [24 Horas] Desenhos",[24H] Pokemon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/38412
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports - 04 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91924
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 01 - HD (A)" tvg-logo="http://dgbr.io:80/images/70174c0a783eae8342f989252f0c82e8.png" group-title="- Dazn",Dazn 01 - HD (A)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91927
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 02 - HD (A)" tvg-logo="http://dgbr.io:80/images/70174c0a783eae8342f989252f0c82e8.png" group-title="- Dazn",Dazn 02 - HD (A)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91928
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 03 - HD (A)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 03 - HD (A)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91929
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 04 - HD (A)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 04 - HD (A)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91930
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 1 - HD" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 1 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86077
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103840
-#EXTINF:-1 tvg-id="ConmebolTV2.br(m3u4u)" tvg-name="TV Conmebol 2 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86078
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103841
-#EXTINF:-1 tvg-id="ConmebolTV3.br(m3u4u)" tvg-name="TV Conmebol 3 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86079
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103842
-#EXTINF:-1 tvg-id="ConmebolTV4.br(m3u4u)" tvg-name="TV Conmebol 4 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 4 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/86080
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/103843
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig²" tvg-logo="http://dgbr.io:80/images/5ced9e555fd8ad68effb1c6fc5fa99e9.png" group-title="- [24 Horas] Desenhos",[24H] Peppa Pig²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/116447
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 01 - HD" tvg-logo="http://dgbr.io:80/images/d4c537d4f1354a487f2d38855822d482.png" group-title="- PPV",HBO Max 01 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/119675
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 02 - HD" tvg-logo="http://dgbr.io:80/images/d4c537d4f1354a487f2d38855822d482.png" group-title="- PPV",HBO Max 02 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/119676
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 02 - HD" tvg-logo="http://dgbr.io/logos/star.png" group-title="- PPV",Star+ 02 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/119885
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 03 - HD" tvg-logo="http://dgbr.io/logos/star.png" group-title="- PPV",Star+ 03 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/119886
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 04 - HD" tvg-logo="http://dgbr.io/logos/star.png" group-title="- PPV",Star+ 04 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/119887
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Silvio e As Gagas" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H] Silvio e As Gagas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/119955
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120127
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 02 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120128
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 02 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120129
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 03 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120130
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 03 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120131
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 04 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120132
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 04 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/120133
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 - FHD" tvg-logo="http://xsrv.me/logos/img/espn4.png" group-title="- Espn",ESPN 4 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24583
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News - HD [Alter]" tvg-logo="http://cdnbr.me/logos/img/jovempan.png" group-title="- News",Jovem Pan News - HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134441
-#EXTINF:-1 tvg-id="Shoptime.br(m3u4u)" tvg-name="Shoptime - HD" tvg-logo="http://dgbr.io:80/images/7ecb9bce8af0f9d9a410d7cf6711f93f.png" group-title="- Abertos [Cortesia]",Shoptime - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/91799
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo HD²" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134454
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Tru TV - HD" tvg-logo="http://dgbr.io:80/images/fdbb17cf13c759253764469048ffb71c.png" group-title="- Documentários",Tru TV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134623
-#EXTINF:-1 tvg-id="Agromais.br(m3u4u)" tvg-name="AgroMais - HD" tvg-logo="http://dgbr.io:80/images/16400a592567db70428a6a23bd87ba74.png" group-title="- Abertos [Cortesia]",AgroMais - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134911
-#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network Brazil - HD" tvg-logo="http://dgbr.io:80/images/3aba1a8a9e82767ac86fa9cdc4b32339.png" group-title="- Filmes e Series",MyTime Movie Network Brazil - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/137436
-#EXTINF:-1 tvg-id="" tvg-name="Dark Matter TV Brazil - HD" tvg-logo="http://dgbr.io:80/images/01399e2d1003b9cc6dc6d7213ace5ab5.png" group-title="- Filmes e Series",Dark Matter TV Brazil - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/137437
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Brasil - HD" tvg-logo="http://dgbr.io:80/images/bc366f2d0ba3d681e7a3899917c5d3de.png" group-title="- Filmes e Series",Runtime Brasil - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/137438
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Português - HD" tvg-logo="http://dgbr.io:80/images/0184e252b5a7e44bd0340e93665c47c7.png" group-title="- News",Euronews Português - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/137439
-#EXTINF:-1 tvg-id="" tvg-name="Euronews en Español - HD" tvg-logo="http://dgbr.io:80/images/0184e252b5a7e44bd0340e93665c47c7.png" group-title="- News",Euronews en Español - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/137440
-#EXTINF:-1 tvg-id="Terraviva.br(m3u4u)" tvg-name="Canal Terra Viva - HD" tvg-logo="http://104.238.220.202:80/images/5f857a1741ed8d0a3df5d0227cec7e52.png" group-title="- Abertos [Cortesia]",Canal Terra Viva - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/138605
-#EXTINF:-1 tvg-id="Loading.br(m3u4u)" tvg-name="Loading - HD" tvg-logo="http://dgbr.io:80/images/a14fa2166ed698f3d04061f57e5ab9b9.png" group-title="- Infantil",Loading - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/138801
-#EXTINF:-1 tvg-id="RedeMinas.br(m3u4u)" tvg-name="Rede Minas - HD" tvg-logo="http://dgbr.io:80/images/b2e330421cb45b0e4e9c5cf6c14fe4ef.png" group-title="- Abertos [Cortesia]",Rede Minas - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/138802
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video - 01 HD" tvg-logo="http://dgbr.io/logos/primevideo.png" group-title="- PPV",Prime Video - 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/138807
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video - 02 HD" tvg-logo="http://dgbr.io:80/images/1ddba79403dab128f95c36a715ecb29d.png" group-title="- PPV",Prime Video - 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/138808
-#EXTINF:-1 tvg-id="" tvg-name="[24H] She-Ra e as Princesas do Poder" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] She-Ra e as Princesas do Poder
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/139184
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 01 - HD²" tvg-logo="http://dgbr.io:80/images/8ff953dd97c4405234a04291dee39e0b.png" group-title="- PPV",Star+ 01 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/139822
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 02 - HD²" tvg-logo="http://dgbr.io:80/images/8ff953dd97c4405234a04291dee39e0b.png" group-title="- PPV",Star+ 02 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/139823
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 03 - HD²" tvg-logo="http://dgbr.io:80/images/8ff953dd97c4405234a04291dee39e0b.png" group-title="- PPV",Star+ 03 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/139824
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 04 - HD²" tvg-logo="http://dgbr.io:80/images/8ff953dd97c4405234a04291dee39e0b.png" group-title="- PPV",Star+ 04 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/139825
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 05 - HD²" tvg-logo="http://dgbr.io:80/images/8ff953dd97c4405234a04291dee39e0b.png" group-title="- PPV",Star+ 05 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/139826
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 06 - HD2" tvg-logo="http://dgbr.io:80/images/8ff953dd97c4405234a04291dee39e0b.png" group-title="- PPV",Star+ 06 - HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/139827
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 1 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140171
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 2 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140172
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 3 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140173
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 4 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140174
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 5 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140175
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 6 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140176
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 7 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140177
-#EXTINF:-1 tvg-id="" tvg-name="BR: NBA 8 FHD" tvg-logo="http://dgbr.io:80/images/f40dbb751c162660cfc1513d891bbbc4.png" group-title="- NBA ",BR: NBA 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/140178
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 12" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141094
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 13" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141095
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 14" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141096
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 15" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141097
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 16" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141098
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 17" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141099
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 18" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141100
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 19" tvg-logo="http://cdnbr.me/logos/img/eleven1.png" group-title="- Eleven Sports",Eleven Sports HD 19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/141101
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - HD" tvg-logo="http://dgbr.io:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="- News",Band News - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24552
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - FHD" tvg-logo="http://cdnbr.me/logos/img/foxsports2.png" group-title="- Esportes",Fox Sports 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24591
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - FHD" tvg-logo="http://cdnbr.me/logos/img/combate.png" group-title="- Esportes",Combate - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24598
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - FHD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24607
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - FHD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24615
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - FHD" tvg-logo="http://xsrv.me/logos/img/sportv3.png" group-title="- SporTV",SporTv 3 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24623
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports - FHD" tvg-logo="http://cdnbr.me/logos/img/bandsports.png" group-title="- Esportes",Band Sports - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24631
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 - FHD" tvg-logo="http://xsrv.me/logos/img/espn2.png" group-title="- Espn",ESPN 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24639
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN - FHD" tvg-logo="http://xsrv.me/logos/img/espn.png" group-title="- Espn",ESPN - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24643
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 - FHD" tvg-logo="http://xsrv.me/logos/img/espn3.png" group-title="- Espn",ESPN 3 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24652
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra - FHD" tvg-logo="http://xsrv.me/logos/img/espnextra.png" group-title="- Espn",ESPN Extra - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24660
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24671
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24686
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24694
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - FHD" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24728
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="http://xsrv.me/logos/img/hbo2.png" group-title="- HBO",HBO 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24735
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - FHD" tvg-logo="http://xsrv.me/logos/img/hbofamily.png" group-title="- HBO",HBO Family - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24742
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - FHD" tvg-logo="http://xsrv.me/logos/img/hboplus.png" group-title="- HBO",HBO Plus - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24747
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - FHD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24754
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - FHD" tvg-logo="http://xsrv.me/logos/img/tcaction.png" group-title="- Telecine",TC - Action - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24760
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  FHD" tvg-logo="http://xsrv.me/logos/img/tcfun.png" group-title="- Telecine",TC - Fun -  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24773
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - FHD" tvg-logo="http://xsrv.me/logos/img/tcpipoca.png" group-title="- Telecine",TC - Pipoca - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24780
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - FHD" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24786
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - FHD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24792
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - FHD" tvg-logo="http://xsrv.me/logos/img/ae.png" group-title="- Filmes e Series",A&E - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24798
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - FHD" tvg-logo="http://xsrv.me/logos/img/amc.png" group-title="- Filmes e Series",AMC - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24805
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - FHD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24812
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - FHD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24818
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - FHD" tvg-logo="http://xsrv.me/logos/img/cinemax.png" group-title="- Filmes e Series",Cinemax - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24824
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star - FHD" tvg-logo="http://xsrv.me/logos/img/starchannel.png" group-title="- Filmes e Series",Star - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24831
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - FHD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24838
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - FHD" tvg-logo="http://103.195.103.33:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24857
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - FHD" tvg-logo="http://xsrv.me/logos/img/lifetime.png" group-title="- Filmes e Series",Lifetime - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24863
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - FHD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24890
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - FHD" tvg-logo="http://xsrv.me/logos/img/paramountchannel.png" group-title="- Filmes e Series",Paramount Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24896
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - FHD" tvg-logo="http://xsrv.me/logos/img/space.png" group-title="- Filmes e Series",Space - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24903
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - FHD" tvg-logo="http://xsrv.me/logos/img/studiouniversal.png" group-title="- Filmes e Series",Studio Universal - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24908
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - FHD" tvg-logo="http://xsrv.me/logos/img/syfy.png" group-title="- Filmes e Series",Syfy - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24913
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - FHD" tvg-logo="http://xsrv.me/logos/img/tbs.png" group-title="- Filmes e Series",TBS - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24919
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - FHD" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24927
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - FHD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24934
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - FHD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24941
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - FHD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24947
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - FHD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24955
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/24998
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25010
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25017
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - FHD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25029
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - FHD" tvg-logo="http://xsrv.me/logos/img/disneychannel.png" group-title="- Infantil",Disney Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25041
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - FHD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25065
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - FHD" tvg-logo="http://xsrv.me/logos/img/gnt.png" group-title="- Variedades",GNT - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/25141
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World -FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryworld.png" group-title="- Discovery",Discovery World -FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29889
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29890
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - FHD" tvg-logo="http://cdnbr.me/logos/img/tlc.png" group-title="- Discovery",Discovery TLC - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29891
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverytheater.png" group-title="- Discovery",Discovery Theater - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29892
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryscience.png" group-title="- Discovery",Discovery Science - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29893
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - FHD" tvg-logo="http://xsrv.me/logos/img/discoverykids.png" group-title="- Infantil",Discovery Kids - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29894
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29896
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29897
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - FHD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29898
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - FHD" tvg-logo="http://xsrv.me/logos/img/gloob.png" group-title="- Infantil",Gloob - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29899
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryid.png" group-title="- Discovery",Investigação Discovery - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29900
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - FHD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/29901
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - FHD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/30373
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryhgtv.png" group-title="- Discovery",Discovery HGTV - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33515
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - FHD" tvg-logo="http://xsrv.me/logos/img/comedycentral.png" group-title="- Variedades",Comedy Central - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33616
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - FHD " tvg-logo="http://xsrv.me/logos/img/e.png" group-title="- Variedades",E! Entertainment - FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33617
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - FHD" tvg-logo="http://xsrv.me/logos/img/fishtv.png" group-title="- Variedades",Fish TV - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33618
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - FHD" tvg-logo="http://xsrv.me/logos/img/foodnetwork.png" group-title="- Variedades",Food Network - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33619
-#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Xtreme - FHD" tvg-logo="http://xsrv.me/logos/img/hbo_xtreme.png" group-title="- HBO",HBO Xtreme - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33864
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - FHD" tvg-logo="http://dgbr.io:80/images/bc1b7a80d163878a56648878626e9a49.png" group-title="- HBO",HBO Pop - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33865
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi - FHD" tvg-logo="http://dgbr.io:80/images/e71a5a4ebc1215861f316cdb11241e9b.png" group-title="- HBO",HBO Mundi - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33866
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida - FHD" tvg-logo="http://xsrv.me/logos/img/tvaparecida.png" group-title="- Religiosos",TV Aparecida - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33882
-#EXTINF:-1 tvg-id="" tvg-name="TV Mundial - HD" tvg-logo="http://xsrv.me/logos/img/tvmundial.png" group-title="- Religiosos",TV Mundial - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33885
-#EXTINF:-1 tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo - FHD" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33886
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - FHD" tvg-logo="http://xsrv.me/logos/img/fashiontv.png" group-title="- Variedades",Fashion TV - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33888
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - HD" tvg-logo="http://dgbr.io:80/images/96c644d5b2c6070213e3b722e7966e8f.png" group-title="- Variedades",Fashion TV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33889
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34645
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - FHD" tvg-logo="http://xsrv.me/logos/img/tcm.png" group-title="- Filmes e Series",TCM - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/34647
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes 4K" tvg-logo="http://xsrv.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/33811
-#EXTINF:-1 tvg-id="" tvg-name="Tru TV - FHD" tvg-logo="http://dgbr.io/logos/trutv.png" group-title="- Documentários",Tru TV - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134624
-#EXTINF:-1 tvg-id="" tvg-name="Canal Viva - FHD" tvg-logo="http://xsrv.me/logos/img/canalviva.png" group-title="- Variedades",Canal Viva - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134901
-#EXTINF:-1 tvg-id="" tvg-name="Globo News - FHD" tvg-logo="http://xsrv.me/logos/img/globonews.png" group-title="- News",Globo News - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134903
-#EXTINF:-1 tvg-id="Agromais.br(m3u4u)" tvg-name="AgroMais - FHD" tvg-logo="http://dgbr.io:80/images/16400a592567db70428a6a23bd87ba74.png" group-title="- Abertos [Cortesia]",AgroMais - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/134912
-#EXTINF:-1 tvg-id="Terraviva.br(m3u4u)" tvg-name="Canal Terra Viva - FHD" tvg-logo="http://dgbr.io:80/images/78f99dc588e613d7f19fec4b511e6d9d.png" group-title="- Abertos [Cortesia]",Canal Terra Viva - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://pfsrv.com:80/Jefersomesmeralda/J127393840/138604
+#EXTM3U #EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] [B][COLOR lime] -SERVIDOR 01[/B][/COLOR] http://canais.servidor
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90647.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71760.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71761.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71762.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71763.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | 4K [FHDR]",AgroMais 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103532.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71764.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71765.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71766.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71767.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | 4K [FHDR]",AMC 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90646.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71768.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71769.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71770.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71771.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71774.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71772.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71773.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71775.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71776.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | 4K [FHDR]",Arte 1 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103531.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71777.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71778.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71779.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71780.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | 4K [FHDR]",AXN 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90645.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71781.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71782.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90716.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71783.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90715.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71784.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90714.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/3e5cbbd49e8dad2d9537969a29346afd.png" group-title="Canais | Infantis",Baby TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/130198.ts
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band BA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72620.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71785.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71786.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71787.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71788.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | 4K [FHDR]",Band News 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103526.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71789.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71790.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71791.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Notícias",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71792.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/79311.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104943.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72597.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/79312.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | 4K [FHDR]",Band Sports 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103525.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71801.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71802.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71803.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71804.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",BBC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71805.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | 4K [FHDR]",BIS 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103527.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71806.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71807.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71808.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71809.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Bloomberg SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71810.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Canais | Religiosos",Boa Vontade TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71811.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96513.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96515.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96516.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96517.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96519.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96520.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/bdd64e8228f6dc5a3ab9aa96a3ace700.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/111408.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/bdd64e8228f6dc5a3ab9aa96a3ace700.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/111409.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/bdd64e8228f6dc5a3ab9aa96a3ace700.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/111410.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | 4K [FHDR]",Canal Brasil 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103518.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71816.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71817.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71818.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71819.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | 4K [FHDR]",Canal do Boi 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103516.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71820.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71821.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71822.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71823.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | 4K [FHDR]",Canal Sony 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103517.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71824.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71825.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90713.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71826.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90712.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71827.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90711.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71830.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71828.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71829.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71831.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71832.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | 4K [FHDR]",Cartoonito 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90644.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71812.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71813.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71814.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71815.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72994.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/73003.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72995.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72996.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72997.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72998.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72999.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/73000.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/73001.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/73002.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | 4K [FHDR]",Cinemax 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90643.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71833.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71834.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71835.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71836.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | 4K [FHDR]",CNN Brasil 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71798.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71837.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71838.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71839.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71840.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN International SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71841.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71844.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71842.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71843.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71845.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71846.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | 4K [FHDR]",Comedy Central 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90642.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71847.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71848.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71849.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71850.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 1 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103524.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72977.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72978.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72979.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72980.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103523.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72981.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72982.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72983.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72984.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 3 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103522.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72985.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72986.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72987.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72988.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 4 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103521.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72989.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72990.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72991.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72992.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96011.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96012.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96013.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/147527.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/150498.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/150499.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/150500.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/150501.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/150502.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/150503.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 1 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103515.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96505.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96506.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96507.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96508.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103514.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96509.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96510.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96511.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96512.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/101617.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/101618.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/101619.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/101620.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/101621.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | 4K [FHDR]",Cultura 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103513.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71851.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71852.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71853.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Abertos",Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71854.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71855.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71856.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71857.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71858.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | 4K [FHDR]",Curta! 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103512.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71860.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72630.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71861.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71859.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71864.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71862.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71863.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71865.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71866.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90251.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71867.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71868.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71869.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71870.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | 4K [FHDR]",Discovery Kids 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90250.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71871.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71872.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71873.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71874.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | 4K [FHDR]",Discovery Science 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103511.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71875.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71876.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71877.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71878.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | 4K [FHDR]",Discovery Theater 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103510.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71879.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71880.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71881.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71882.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | 4K [FHDR]",Discovery Turbo 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90641.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71883.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71884.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71885.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71886.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | 4K [FHDR]",Discovery World 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103509.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71887.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71888.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71889.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71890.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | 4K [FHDR]",Disney Channel 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103508.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71891.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71892.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71893.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71894.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/76922.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",DOG TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104909.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/76923.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104908.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",DW (Deutsch+) SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104940.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | 4K [FHDR]",E! 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103506.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71900.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71901.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71902.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71903.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | 4K [FHDR]",ESPN 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71921.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71919.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71920.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71922.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71923.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 3 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103504.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71907.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71908.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71909.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71910.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",ESPN 4 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71959.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71957.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71958.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71960.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71961.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90640.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | 4K [FHDR]",ESPN Extra 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103505.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71915.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71916.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71917.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71918.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71911.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71912.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71913.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71914.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/76671.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/76672.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104910.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104913.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104911.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104912.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/73005.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/79316.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/79317.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | 4K [FHDR]",Fashion TV 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103503.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71924.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71925.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71926.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71927.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104914.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104920.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104915.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104916.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | 4K [FHDR]",Fish TV 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103502.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71928.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71929.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71930.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71931.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | 4K [FHDR]",Food Network 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103501.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71932.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71933.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71934.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71935.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Formula 1 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/98395.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71954.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71952.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71953.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71955.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71956.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | 4K [FHDR]",France 24 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103500.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104906.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104942.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104907.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104941.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Furacao Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/142040.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Furacao Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/105789.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Furacao Live SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/142041.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | 4K [FHDR]",Futura 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103499.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71962.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71963.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71964.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71965.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | 4K [FHDR]",FX 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90639.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71966.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71967.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90710.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71968.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90709.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71969.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90708.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131151.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131164.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131116.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131150.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71977.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131210.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131172.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131178.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131202.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131141.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131129.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72592.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71979.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71980.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131201.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71982.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71983.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131131.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71985.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71986.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131186.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131143.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71989.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71990.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71991.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131115.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131114.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71994.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71995.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71996.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131200.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131159.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131209.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | 4K [FHDR]",Globo News 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90248.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71997.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71998.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71999.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131112.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72001.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131157.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72003.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72004.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72005.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131192.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135432.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135433.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135434.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131174.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72008.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131190.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135426.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135427.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135428.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72010.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131183.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131144.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91034.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131167.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91032.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131160.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72014.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131130.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133064.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133065.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133066.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72617.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131121.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131207.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131102.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72017.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131198.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135423.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135424.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135425.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Amapa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133055.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Amapa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133056.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Amapa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133057.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131185.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93588.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93589.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72019.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72020.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72021.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/108684.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93592.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131184.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131148.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131162.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131111.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131213.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131123.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72024.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72025.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131163.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131182.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133058.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133059.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133060.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133061.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133062.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133063.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72028.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131170.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131197.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131199.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72626.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131127.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131149.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72033.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131206.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131101.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/96888.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131125.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131133.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72037.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131189.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72040.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131215.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131212.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72042.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72043.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131166.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131124.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/102554.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/102555.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131180.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131146.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131110.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131179.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72049.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72050.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72051.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131105.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72053.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131196.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131100.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/97596.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/97597.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/97587.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/97588.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131177.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131158.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131214.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131142.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131099.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72059.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72060.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72061.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131154.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131175.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131203.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131126.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131140.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72067.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72068.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131106.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberaba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133052.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133053.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133054.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberlandia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133051.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131152.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72071.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72072.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Cocais FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133050.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131103.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72074.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131195.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72076.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131169.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131122.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72079.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131128.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72082.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135420.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135421.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/135422.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131156.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131181.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131139.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133068.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133067.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/133069.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72092.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72093.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72094.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Bauru FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91431.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91432.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131120.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Itapetininga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91435.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Itapetininga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91436.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Itapetininga SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131119.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131155.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91434.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131205.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sorocaba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131191.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91439.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131194.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131135.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131165.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131109.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131211.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/144027.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72624.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/100375.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/93605.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131187.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]",Globo TV Verdes Mares 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72080.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91440.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91441.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91442.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131161.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72096.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131137.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | 4K [FHDR]",Gloob 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103498.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131153.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72099.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72100.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131117.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | 4K [FHDR]",Gloobinho 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103497.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90631.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90630.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90629.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131173.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | 4K [FHDR]",GNT 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90638.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72102.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72103.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72104.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | 4K [FHDR]",H2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90245.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72106.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72107.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72108.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72109.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | 4K [FHDR]",HBO 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90246.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72110.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72111.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72112.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72113.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | 4K [FHDR]",HBO 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90247.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | 4K [FHDR]",HBO Family 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90637.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72114.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72115.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72116.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72117.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72118.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72119.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90698.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72120.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90697.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140504.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71904.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140510.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140505.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71905.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140511.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140506.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71906.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140512.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140507.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/76673.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140513.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140508.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/130196.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140514.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140509.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/130197.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140515.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | 4K [FHDR]",HBO MUNDI 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103496.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72121.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72122.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90695.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72123.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90694.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72124.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90693.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | 4K [FHDR]",HBO Plus 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90635.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72125.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72126.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90692.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72127.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90691.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72128.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90690.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | 4K [FHDR]",HBO POP 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103495.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72129.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72130.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90689.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72131.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90688.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72132.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90687.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72133.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90696.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | 4K [FHDR]",HBO Signature 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103494.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72134.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72135.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90686.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72136.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90685.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72137.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90684.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | 4K [FHDR]",HBO Xtreme 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90636.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72138.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72139.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90683.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72140.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90682.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72141.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90681.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | 4K [FHDR]",HGTV 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103493.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72142.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72143.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72144.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72145.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | 4K [FHDR]",History 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90244.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72146.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72147.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72148.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72149.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | 4K [FHDR]",ID 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90243.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72150.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72151.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72152.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72153.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais | 4K [FHDR]",Jovem Pan News 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/134021.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/134023.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais | Notícias",Jovem Pan News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/134022.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/134024.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/134025.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | 4K [FHDR]",Lifetime 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103492.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72154.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72155.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72156.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72157.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | PPV",Liga Futsal 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/109225.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | PPV",Liga Futsal 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/73006.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | 4K [FHDR]",Like 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103491.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72158.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72159.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72160.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72161.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104923.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104921.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104922.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/89700.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Love Nature FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/73004.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | 4K [FHDR]",Mais na Tela 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103488.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72162.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72163.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72164.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72165.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104924.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104933.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104925.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104926.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | 4K [FHDR]",Megapix 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131104.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72166.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72167.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90680.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72169.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131118.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131204.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131171.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | 4K [FHDR]",MTV 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103490.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72171.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72172.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72173.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | 4K [FHDR]",MTV LIVE 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103489.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72174.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72175.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72176.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV Live SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72177.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72178.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | 4K [FHDR]",MTVs 00 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103451.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72423.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72424.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72425.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72426.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | 4K [FHDR]",Multishow 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131138.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131193.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131107.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72182.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/131134.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | 4K [FHDR]",Music Box Brazil 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103487.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72184.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72185.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72186.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72187.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/75026.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/77583.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/77584.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | 4K [FHDR]",National Geographic 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72198.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72196.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72197.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72199.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72200.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140516.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140517.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140518.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140519.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140520.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140521.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140522.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140523.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140524.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140525.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140526.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/140527.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/141487.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/141488.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/141489.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/141490.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/141491.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/141492.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",NHK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/91990.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72201.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72202.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72203.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72204.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | 4K [FHDR]",Nick Jr. 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103485.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | 4K [FHDR]",Nickelodeon 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90241.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72205.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72206.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72207.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72208.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/a/Egct9qz" group-title="Canais | Campeonatos Estaduais",O Tempo Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/147524.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/a/Egct9qz" group-title="Canais | Campeonatos Estaduais",O Tempo Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/147525.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/a/Egct9qz" group-title="Canais | Campeonatos Estaduais",O Tempo Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/147526.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | 4K [FHDR]",OFF 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90240.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72209.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72210.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72211.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72212.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | 4K [FHDR]",Pai Eterno 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103484.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72213.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72216.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72214.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72215.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | 4K [FHDR]",Paramount Channel 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/90634.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72217.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72218.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72219.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72220.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/147528.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/147529.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/147530.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 2  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71943.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71945.ts
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/71946.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Polishop TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/104927.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 2 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103482.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72237.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72238.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72239.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72240.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 3 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103481.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72241.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72242.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72243.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72244.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 4 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103480.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72245.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72246.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72247.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72248.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 5 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103479.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72249.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72250.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72251.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72252.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 6 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103478.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72253.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72254.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72255.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72256.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 7 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103477.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72257.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72258.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72259.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72260.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72261.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72264.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72262.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72263.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72265.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72266.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | 4K [FHDR]",Prime Box Brazil 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/103476.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72267.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72268.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72269.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://ccdn.ai:80/coutinho/102030/72270.ts
