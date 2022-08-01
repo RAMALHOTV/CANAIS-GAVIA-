@@ -14,7 +14,7 @@ https://www.youtube.com/channel/U
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:30/07/2022 
 https://www.youtube.com/channel/UCoj
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",ByRamalhoIPTV 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",RamalhoIPTV 
 https://www.youtube.com/channel/UCojJl
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
