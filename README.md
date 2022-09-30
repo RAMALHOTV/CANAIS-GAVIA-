@@ -1,1459 +1,749 @@
-#EXTM3U
+<item>
+<title>[B][COLOR turquoise]RamalhoIPTV [/COLOR][/B]</title>
+<link>http</link>
+<thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
+<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<info>RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=, Confira várias listas IPTV com CANAIS funcionando e 100% testadas e funcionando, confira agora mesmo todas essas listas, e divirta-se! </info>
+</item>
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/42cc15903a5db267142b1464e1b7116e.jpg" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1619
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/42cc15903a5db267142b1464e1b7116e.jpg" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339230
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/42cc15903a5db267142b1464e1b7116e.jpg" group-title="CANAIS | FILMES E SÉRIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1506
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/42cc15903a5db267142b1464e1b7116e.jpg" group-title="CANAIS | FILMES E SÉRIES",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1360
-#EXTINF:-1 tvg-id="" tvg-name="AGENDA ESPORTIVA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8fee9c555df7b1da27a319bc95e30222.jpeg" group-title="CANAIS | ESPORTES",AGENDA ESPORTIVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/408184
-#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/756bbaf8bdb064a417af050b4a9091b9.jpg" group-title="CANAIS | VARIEDADES",AGRO MAIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393955
-#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/756bbaf8bdb064a417af050b4a9091b9.jpg" group-title="CANAIS | VARIEDADES",AGRO MAIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393956
-#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/756bbaf8bdb064a417af050b4a9091b9.jpg" group-title="CANAIS | VARIEDADES",AGRO MAIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393957
-#EXTINF:-1 tvg-id="" tvg-name="Alpha FM 101.7 SP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb1f145afe17acf2866664fdc0f9644.png" group-title="CANAIS | RÁDIOS",Alpha FM 101.7 SP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413525
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/579342dec1b26d91970df5b918127de3.jpg" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1620
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/579342dec1b26d91970df5b918127de3.jpg" group-title="CANAIS | FILMES E SÉRIES",AMC FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339231
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/579342dec1b26d91970df5b918127de3.jpg" group-title="CANAIS | FILMES E SÉRIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1507
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/579342dec1b26d91970df5b918127de3.jpg" group-title="CANAIS | FILMES E SÉRIES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1361
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff05d18110b237600baca77850d3d109.jpg" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1621
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff05d18110b237600baca77850d3d109.jpg" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339308
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff05d18110b237600baca77850d3d109.jpg" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1508
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff05d18110b237600baca77850d3d109.jpg" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1362
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/5720
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339320
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1509
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1363
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/fcff95b1ce340fdf36120cadebc36478.jpg" group-title="CANAIS | FILMES E SÉRIES",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1623
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/fcff95b1ce340fdf36120cadebc36478.jpg" group-title="CANAIS | FILMES E SÉRIES",AXN FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339232
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/fcff95b1ce340fdf36120cadebc36478.jpg" group-title="CANAIS | FILMES E SÉRIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1510
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/fcff95b1ce340fdf36120cadebc36478.jpg" group-title="CANAIS | FILMES E SÉRIES",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1364
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="BABY TV FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/758b6abdcad88dc9708d311ee30f9f2b.jpg" group-title="CANAIS | INFANTIS",BABY TV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339373
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/758b6abdcad88dc9708d311ee30f9f2b.jpg" group-title="CANAIS | INFANTIS",BABY TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1511
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/758b6abdcad88dc9708d311ee30f9f2b.jpg" group-title="CANAIS | INFANTIS",BABY TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1365
-#EXTINF:-1 tvg-id="band.belem.br" tvg-name="BAND BELEM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6ae5cf5f18536688e3eb50a6360e4926.jpg" group-title="CANAIS | ABERTOS",BAND BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339435
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1366
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/82874354f28173c7b1c76b9f2a0ee546.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1624
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/82874354f28173c7b1c76b9f2a0ee546.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339386
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/82874354f28173c7b1c76b9f2a0ee546.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1512
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/82874354f28173c7b1c76b9f2a0ee546.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1367
-#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND PARANA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND PARANA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/26048
-#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1959
-#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6ae5cf5f18536688e3eb50a6360e4926.jpg" group-title="CANAIS | ABERTOS",Band RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339437
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SANTOS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND SANTOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/370893
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SANTOS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND SANTOS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/370894
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1625
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1513
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bde5d3c310375ce6578449a10ad9db6.jpg" group-title="CANAIS | ABERTOS",BAND SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1369
-#EXTINF:-1 tvg-id="band.sports.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/53071d59dca02449e37bb356ce7f4b32.jpg" group-title="CANAIS | ESPORTES",BAND SPORTS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339250
-#EXTINF:-1 tvg-id="band.sports.br" tvg-name="BAND SPORTS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/53071d59dca02449e37bb356ce7f4b32.jpg" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1514
-#EXTINF:-1 tvg-id="band.sports.br" tvg-name="BAND SPORTS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/53071d59dca02449e37bb356ce7f4b32.jpg" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1370
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/00dce750bf809d590747c1f2bb615223.jpg" group-title="CANAIS | MÚSICAS",BIS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339399
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/00dce750bf809d590747c1f2bb615223.jpg" group-title="CANAIS | MÚSICAS",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1515
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/00dce750bf809d590747c1f2bb615223.jpg" group-title="CANAIS | MÚSICAS",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1371
-#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71c5ef52b6e423931241f92dfe4ccc09.jpg" group-title="CANAIS | NOTÍCIAS",BLOOMBERG HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388518
-#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71c5ef52b6e423931241f92dfe4ccc09.jpg" group-title="CANAIS | NOTÍCIAS",BLOOMBERG SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388519
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/3f843ae49a10dc9a86a601d9bd8f40b0.jpg" group-title="CANAIS | VARIEDADES",CANAL BRASIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339321
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/3f843ae49a10dc9a86a601d9bd8f40b0.jpg" group-title="CANAIS | VARIEDADES",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1373
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Canal_do_Boi-logo-8A3EB44F47-seeklogo_com.gif/revision/latest?cb=20110118011513" group-title="CANAIS | ABERTOS",Canal do Boi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/22871
-#EXTINF:-1 tvg-id="" tvg-name="CANAL EMPREENDER FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9c5322830b00b21d1ea66b401629a172.jpg" group-title="CANAIS | VARIEDADES",CANAL EMPREENDER FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413936
-#EXTINF:-1 tvg-id="" tvg-name="CANAL EMPREENDER HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9c5322830b00b21d1ea66b401629a172.jpg" group-title="CANAIS | VARIEDADES",CANAL EMPREENDER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413937
-#EXTINF:-1 tvg-id="" tvg-name="CANAL EMPREENDER SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9c5322830b00b21d1ea66b401629a172.jpg" group-title="CANAIS | VARIEDADES",CANAL EMPREENDER SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413938
-#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" group-title="CANAIS | ABERTOS",CANAL FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339440
-#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" group-title="CANAIS | ABERTOS",CANAL FUTURA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339439
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="CANAIS | ABERTOS",CANAL RURAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/338098
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/588599f48683408874f36f4546980eff.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/8454
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/7c8ff58cd5373037151698d712511607.jpg" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1627
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/7c8ff58cd5373037151698d712511607.jpg" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339375
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/7c8ff58cd5373037151698d712511607.jpg" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1517
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/7c8ff58cd5373037151698d712511607.jpg" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1374
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/59968746fc5a81b76462c0525a82c5cc.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1626
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/59968746fc5a81b76462c0525a82c5cc.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339374
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/59968746fc5a81b76462c0525a82c5cc.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1516
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/59968746fc5a81b76462c0525a82c5cc.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1372
-#EXTINF:-1 tvg-id="" tvg-name="CINE DC HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/750e321ecf535fd88eae37e30edb819f.png" group-title="CANAIS | FILMES E SÉRIES",CINE DC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/386536
-#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b758633fc798121dd11a473f53bca0b1.png" group-title="CANAIS | FILMES E SÉRIES",CINE DISNEY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/379885
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f7c52deade9a5b8514da81a2f9ae7e87.png" group-title="CANAIS | FILMES E SÉRIES",CINE MARVEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/328552
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89ad85fe129a495ac31a66e40a068d57.jpg" group-title="CANAIS | CINE SKY",CINE SKY 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/30476
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89ad85fe129a495ac31a66e40a068d57.jpg" group-title="CANAIS | CINE SKY",CINE SKY 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/30477
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89ad85fe129a495ac31a66e40a068d57.jpg" group-title="CANAIS | CINE SKY",CINE SKY 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/30478
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89ad85fe129a495ac31a66e40a068d57.jpg" group-title="CANAIS | CINE SKY",CINE SKY 04 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/30479
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89ad85fe129a495ac31a66e40a068d57.jpg" group-title="CANAIS | CINE SKY",CINE SKY 05 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/30480
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89ad85fe129a495ac31a66e40a068d57.jpg" group-title="CANAIS | CINE SKY",CINE SKY 06 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/30481
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89ad85fe129a495ac31a66e40a068d57.jpg" group-title="CANAIS | CINE SKY",CINE SKY 07 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/30482
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c0392659156e4b5ad6d0bd5445de6667.png" group-title="CANAIS | FILMES E SÉRIES",CINECANAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409570
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c0392659156e4b5ad6d0bd5445de6667.png" group-title="CANAIS | FILMES E SÉRIES",CINECANAL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409571
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c0392659156e4b5ad6d0bd5445de6667.png" group-title="CANAIS | FILMES E SÉRIES",CINECANAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409569
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c0392659156e4b5ad6d0bd5445de6667.png" group-title="CANAIS | FILMES E SÉRIES",CINECANAL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409568
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a66dcfd61a8a0453f6ff170cb345fd40.jpg" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1628
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a66dcfd61a8a0453f6ff170cb345fd40.jpg" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339234
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a66dcfd61a8a0453f6ff170cb345fd40.jpg" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1518
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a66dcfd61a8a0453f6ff170cb345fd40.jpg" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1375
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/538f369b8db931da4ba7cc971d38920d.jpg" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/16344
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/538f369b8db931da4ba7cc971d38920d.jpg" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339384
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/538f369b8db931da4ba7cc971d38920d.jpg" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/16341
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/538f369b8db931da4ba7cc971d38920d.jpg" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/16343
-#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/545d8fe6d8702fa8f8a590491d440f31.jpg" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/352919
-#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/545d8fe6d8702fa8f8a590491d440f31.jpg" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/352920
-#EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/43f021ccdcf51493e716ef83fbeda3f9.png" group-title="CANAIS | ABERTOS",CNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339441
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c82dd884794f8aff45c183b6a7be5861.jpg" group-title="CANAIS | ESPORTES",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1629
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c82dd884794f8aff45c183b6a7be5861.jpg" group-title="CANAIS | ESPORTES",COMBATE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339251
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c82dd884794f8aff45c183b6a7be5861.jpg" group-title="CANAIS | ESPORTES",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1519
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c82dd884794f8aff45c183b6a7be5861.jpg" group-title="CANAIS | ESPORTES",COMBATE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1377
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1447e2689ef16d13daebf586cc91e362.jpg" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1630
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1447e2689ef16d13daebf586cc91e362.jpg" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1520
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1447e2689ef16d13daebf586cc91e362.jpg" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1378
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9af40e9ff801b85b9ff816fbf672253e.jpg" group-title="CANAIS | ESPORTES",CONMEBOL TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/28442
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL TV 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9af40e9ff801b85b9ff816fbf672253e.jpg" group-title="CANAIS | ESPORTES",CONMEBOL TV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/28441
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL TV 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9af40e9ff801b85b9ff816fbf672253e.jpg" group-title="CANAIS | ESPORTES",CONMEBOL TV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/28443
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL TV 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9af40e9ff801b85b9ff816fbf672253e.jpg" group-title="CANAIS | ESPORTES",CONMEBOL TV 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/28444
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e30b624b7722e22c388d6c1e0675549d.jpg" group-title="CANAIS | ABERTOS",CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1521
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83990bc8a418050e258149c73b4cc14c.jpg" group-title="CANAIS | VARIEDADES",CURTA! FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339323
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83990bc8a418050e258149c73b4cc14c.jpg" group-title="CANAIS | VARIEDADES",CURTA! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1522
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83990bc8a418050e258149c73b4cc14c.jpg" group-title="CANAIS | VARIEDADES",CURTA! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1380
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/70e129606a21318a4735f7d9bac076c0.jpg" group-title="CANAIS | ESPORTES ESPECIAIS",DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1523
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/70e129606a21318a4735f7d9bac076c0.jpg" group-title="CANAIS | ESPORTES ESPECIAIS",DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/12255
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/70e129606a21318a4735f7d9bac076c0.jpg" group-title="CANAIS | ESPORTES ESPECIAIS",DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/374239
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/70e129606a21318a4735f7d9bac076c0.jpg" group-title="CANAIS | ESPORTES ESPECIAIS",DAZN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/374240
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/401d81d7bb81b41d7edd8b8dafe251fb.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1632
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/401d81d7bb81b41d7edd8b8dafe251fb.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339309
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/401d81d7bb81b41d7edd8b8dafe251fb.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1524
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/401d81d7bb81b41d7edd8b8dafe251fb.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1381
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1634
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339324
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1526
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1383
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a0bae09115842011202db85915738517.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1635
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a0bae09115842011202db85915738517.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339376
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a0bae09115842011202db85915738517.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1527
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a0bae09115842011202db85915738517.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1384
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73fe8333a8fd5432d195700487c75a3b.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1636
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73fe8333a8fd5432d195700487c75a3b.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339310
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73fe8333a8fd5432d195700487c75a3b.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1528
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73fe8333a8fd5432d195700487c75a3b.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1385
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/56ffad0878bb2832e7c0dc8d0180f34d.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1637
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/56ffad0878bb2832e7c0dc8d0180f34d.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339311
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/56ffad0878bb2832e7c0dc8d0180f34d.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1529
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/56ffad0878bb2832e7c0dc8d0180f34d.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1386
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9adf45e4d5a9a05b42363b774d00c824.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339331
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9adf45e4d5a9a05b42363b774d00c824.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1530
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9adf45e4d5a9a05b42363b774d00c824.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1387
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e6071f936bc41b0ca246641ac7ffa3f4.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1638
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e6071f936bc41b0ca246641ac7ffa3f4.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339312
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e6071f936bc41b0ca246641ac7ffa3f4.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1531
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e6071f936bc41b0ca246641ac7ffa3f4.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1388
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f659cf44bf25fb79dd7fc37b572cee36.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1639
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f659cf44bf25fb79dd7fc37b572cee36.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339313
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f659cf44bf25fb79dd7fc37b572cee36.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1532
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f659cf44bf25fb79dd7fc37b572cee36.jpg" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1389
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ac4ab7d1886c2c19c43d82790f042627.jpg" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1640
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ac4ab7d1886c2c19c43d82790f042627.jpg" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339377
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ac4ab7d1886c2c19c43d82790f042627.jpg" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1533
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ac4ab7d1886c2c19c43d82790f042627.jpg" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1390
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/39bb6e63d16c03c361542e5047574804.jpg" group-title="CANAIS | VARIEDADES",E! FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339325
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/39bb6e63d16c03c361542e5047574804.jpg" group-title="CANAIS | VARIEDADES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1536
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/39bb6e63d16c03c361542e5047574804.jpg" group-title="CANAIS | VARIEDADES",E! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1393
-#EXTINF:-1 tvg-id="" tvg-name="Educadora 91.7 FM" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb1f145afe17acf2866664fdc0f9644.png" group-title="CANAIS | RÁDIOS",Educadora 91.7 FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413521
-#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="EPTV Central HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329590
-#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="EPTV Central SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329591
-#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329584
-#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329585
-#EXTINF:-1 tvg-id="" tvg-name="ESPECIAL EVENTOS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8d3079c817f848455f197ba04fd6658f.jpg" group-title="CANAIS | PAY PER VIEW",ESPECIAL EVENTOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388202
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73a025b9537037873deffa91b3b932f1.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1645
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73a025b9537037873deffa91b3b932f1.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339255
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73a025b9537037873deffa91b3b932f1.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1538
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/73a025b9537037873deffa91b3b932f1.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1396
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN 3 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8b43c7bec7fd3923651be1a476383319.jpg" group-title="CANAIS | ESPORTES",ESPN 3 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339252
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8b43c7bec7fd3923651be1a476383319.jpg" group-title="CANAIS | ESPORTES",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1539
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83f4b8453f02a11264c65d9098a4b570.png" group-title="CANAIS | ESPORTES",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1651
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83f4b8453f02a11264c65d9098a4b570.png" group-title="CANAIS | ESPORTES",ESPN 4 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339257
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83f4b8453f02a11264c65d9098a4b570.png" group-title="CANAIS | ESPORTES",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1547
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83f4b8453f02a11264c65d9098a4b570.png" group-title="CANAIS | ESPORTES",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1405
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a43778be73d146874919277342860e85.jpeg" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339254
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a43778be73d146874919277342860e85.jpeg" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/9047
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a43778be73d146874919277342860e85.jpeg" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/9046
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/27afb6306cd73f5f69eada9a9e18f8b6.jpg" group-title="CANAIS | ESPORTES",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1643
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/27afb6306cd73f5f69eada9a9e18f8b6.jpg" group-title="CANAIS | ESPORTES",ESPN FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339253
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/27afb6306cd73f5f69eada9a9e18f8b6.jpg" group-title="CANAIS | ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/318362
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/27afb6306cd73f5f69eada9a9e18f8b6.jpg" group-title="CANAIS | ESPORTES",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1395
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS | ESPORTES",Estadio TNT Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/328658
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS | ESPORTES",Estadio TNT Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/328659
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS | ESPORTES",Estadio TNT Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/328660
-#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="CANAIS | ESPORTES",Estadio TNT Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/328661
-#EXTINF:-1 tvg-id="eurochannel.br" tvg-name="EUROCHANEL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/3477f0985393529996f9128dc16afe3f.png" group-title="CANAIS | FILMES E SÉRIES",EUROCHANEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388521
-#EXTINF:-1 tvg-id="eurochannel.br" tvg-name="EUROCHANEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/3477f0985393529996f9128dc16afe3f.png" group-title="CANAIS | FILMES E SÉRIES",EUROCHANEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388522
-#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/21bc0e6ef037c0cc9b275ccb82244fd2.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/317668
-#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/21bc0e6ef037c0cc9b275ccb82244fd2.png" group-title="CANAIS | VARIEDADES",FASHION TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/317669
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/90340bc79c7e2971db93d0405083f638.png" group-title="CANAIS | VARIEDADES",Film & Arts SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/22869
-#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/210cbf997465dcc1a73f2d3f7f2516d9.jpg" group-title="CANAIS | ESPORTES",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1540
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/210cbf997465dcc1a73f2d3f7f2516d9.jpg" group-title="CANAIS | ESPORTES",FISH TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1398
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1646
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339326
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1541
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1399
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9038c5cbe886a3a64c1b8b4fac7fa226.jpg" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1650
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9038c5cbe886a3a64c1b8b4fac7fa226.jpg" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339256
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9038c5cbe886a3a64c1b8b4fac7fa226.jpg" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1546
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9038c5cbe886a3a64c1b8b4fac7fa226.jpg" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1404
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24H HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f907528f3934adc434a9385d93c5cfea.png" group-title="CANAIS | NOTÍCIAS",FRANCE 24H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388516
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24H SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f907528f3934adc434a9385d93c5cfea.png" group-title="CANAIS | NOTÍCIAS",FRANCE 24H SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388517
-#EXTINF:-1 tvg-id="" tvg-name="FUNK" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7717e3167582d815b04dbdce52ffd70.png" group-title="CANAIS | MÚSICAS",FUNK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/387687
-#EXTINF:-1 tvg-id="" tvg-name="FURACAO PLAY FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e22b8c16d04fbe6e678656d68811faba.jpg" group-title="CANAIS | PAY PER VIEW",FURACAO PLAY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/383675
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/238742ec17fb0d9c868196988421f921.jpg" group-title="CANAIS | FILMES E SÉRIES",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1652
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/238742ec17fb0d9c868196988421f921.jpg" group-title="CANAIS | FILMES E SÉRIES",FX FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339235
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/238742ec17fb0d9c868196988421f921.jpg" group-title="CANAIS | FILMES E SÉRIES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1549
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/d0cc3a30cddd81a9d2392307f0e1061d.png" group-title="CANAIS | FILMES E SÉRIES",FX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1407
-#EXTINF:-1 tvg-id="tv.amapa.br" tvg-name="GLOBO AMAPÁ FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406787
-#EXTINF:-1 tvg-id="tv.amapa.br" tvg-name="GLOBO AMAPÁ HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406788
-#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388194
-#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388195
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388193
-#EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="GLOBO CENTRO AMERICA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388192
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388191
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV Campinas HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329467
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV Campinas SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329468
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388190
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329470
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329471
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV SAO CARLOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/401527
-#EXTINF:-1 tvg-id="intertv.costa.branca.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388189
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388188
-#EXTINF:-1 tvg-id="intertv.costa.branca.br" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV DOS VALES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388187
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/de5d676e1a06077012809c2eedbc3955.jpg" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1655
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="http://main.upservers.co:80/Maicon/axxN0YxjWL/375" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339385
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/de5d676e1a06077012809c2eedbc3955.jpg" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1552
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/de5d676e1a06077012809c2eedbc3955.jpg" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1417
-#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="GLOBO PERNAMBUCO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PERNAMBUCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406779
-#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="GLOBO PERNAMBUCO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PERNAMBUCO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406780
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388183
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388184
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388185
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388186
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388182
-#EXTINF:-1 tvg-id="tv.rondonia.br" tvg-name="GLOBO RONDONIA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RONDONIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406781
-#EXTINF:-1 tvg-id="tv.rondonia.br" tvg-name="GLOBO RONDONIA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RONDONIA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406782
-#EXTINF:-1 tvg-id="tv.roraima.br" tvg-name="GLOBO RORAIMA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RORAIMA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406783
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RORAIMA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RORAIMA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/406784
-#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUACU FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388180
-#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC MARINGA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388179
-#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAVAI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388178
-#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTA GROSSA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388176
-#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTA GROSSA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388177
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SJRP FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SJRP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388159
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SJRP HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SJRP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388160
-#EXTINF:-1 tvg-id="tv.mar.alagoas.br" tvg-name="GLOBO TV ALAGOAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ALAGOAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388175
-#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388174
-#EXTINF:-1 tvg-id="tv.asa.branca.br" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ASA BRANCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/396162
-#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/371084
-#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/371085
-#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="GLOBO TV CLUBE PIAUI HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CLUBE PIAUI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/333936
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="GLOBO TV DIARIO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388172
-#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="GLOBO TV DIARIO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388173
-#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="GLOBO TV FRONTEIRA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV FRONTEIRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388171
-#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA SUL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388170
-#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA VITORIA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA VITORIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388169
-#EXTINF:-1 tvg-id="tv.integracao.araxa.br" tvg-name="GLOBO TV INTEG. ARAXA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. ARAXA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388168
-#EXTINF:-1 tvg-id="tv.integracao.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. JUIZ DE FORA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388166
-#EXTINF:-1 tvg-id="tv.integracao.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. JUIZ DE FORA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388167
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO TV NORDESTE  FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV NORDESTE  FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388165
-#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388164
-#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329597
-#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329596
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393691
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393692
-#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/333935
-#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="GLOBO TV SERRA MAR FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SERRA MAR FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388163
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV SUBAE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SUBAE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/381134
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388162
-#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV VANG. S.J. CAMPOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388161
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b2a09176897000d5870e92bcb4ee0.jpg" group-title="CANAIS | INFANTIS",GLOOB FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1659
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b2a09176897000d5870e92bcb4ee0.jpg" group-title="CANAIS | INFANTIS",GLOOB FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339380
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b2a09176897000d5870e92bcb4ee0.jpg" group-title="CANAIS | INFANTIS",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1558
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b2a09176897000d5870e92bcb4ee0.jpg" group-title="CANAIS | INFANTIS",GLOOB SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1434
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/918911a351d5b29b741b68282ba16536.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339381
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/918911a351d5b29b741b68282ba16536.png" group-title="CANAIS | INFANTIS",GLOOBINHO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/15461
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/639a1e41dec7be1b6898e13605fc0066.jpg" group-title="CANAIS | VARIEDADES",GNT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339327
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/639a1e41dec7be1b6898e13605fc0066.jpg" group-title="CANAIS | VARIEDADES",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1559
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/639a1e41dec7be1b6898e13605fc0066.jpg" group-title="CANAIS | VARIEDADES",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1435
-#EXTINF:-1 tvg-id="" tvg-name="Gold 94.7 FM" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb1f145afe17acf2866664fdc0f9644.png" group-title="CANAIS | RÁDIOS",Gold 94.7 FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413522
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7717e3167582d815b04dbdce52ffd70.png" group-title="CANAIS | MÚSICAS",GOSPEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/387688
-#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f06dfb474fea05458f41ce55d963fbf4.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1660
-#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f06dfb474fea05458f41ce55d963fbf4.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339315
-#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f06dfb474fea05458f41ce55d963fbf4.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1560
-#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f06dfb474fea05458f41ce55d963fbf4.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1436
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1661
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339394
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1561
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1437
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/982b73dcb1e440d8519445dd870ff96d.jpg" group-title="CANAIS | HBO",HBO FAMILY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339387
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/982b73dcb1e440d8519445dd870ff96d.jpg" group-title="CANAIS | HBO",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1562
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/982b73dcb1e440d8519445dd870ff96d.jpg" group-title="CANAIS | HBO",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1438
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1662
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339388
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1563
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 01 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a6aa974569594f7c6f543fa1718174a7.jpg" group-title="CANAIS | PAY PER VIEW",HBO Max 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/345808
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO Max 02 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a6aa974569594f7c6f543fa1718174a7.jpg" group-title="CANAIS | PAY PER VIEW",HBO Max 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/345809
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a6aa974569594f7c6f543fa1718174a7.jpg" group-title="CANAIS | PAY PER VIEW",HBO MAX 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/351568
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a6aa974569594f7c6f543fa1718174a7.jpg" group-title="CANAIS | PAY PER VIEW",HBO MAX 04 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/351570
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a6aa974569594f7c6f543fa1718174a7.jpg" group-title="CANAIS | PAY PER VIEW",HBO MAX 05 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/383900
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/15582
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339389
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1569
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1446
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1663
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339393
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1564
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1439
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/15583
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD H265" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339390
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1571
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1447
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1440
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1664
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339391
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1565
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1441
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1667
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD H265" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339392
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1570
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1445
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6c46117eb4ad1fc42bb025b702fadce2.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1633
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6c46117eb4ad1fc42bb025b702fadce2.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339314
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6c46117eb4ad1fc42bb025b702fadce2.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1525
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6c46117eb4ad1fc42bb025b702fadce2.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1382
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/434ede578081f99df811b27da77b37ca.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1665
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/434ede578081f99df811b27da77b37ca.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339316
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/434ede578081f99df811b27da77b37ca.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1566
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/434ede578081f99df811b27da77b37ca.jpg" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1442
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/38add9c2fc7b1ba2dfae0659fe141664.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1666
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/38add9c2fc7b1ba2dfae0659fe141664.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1567
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/38add9c2fc7b1ba2dfae0659fe141664.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1443
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/38add9c2fc7b1ba2dfae0659fe141664.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - INVESTIGAÇÃO DISCOVERY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339317
-#EXTINF:-1 tvg-id="ideal.br" tvg-name="IDEAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/1200px-Ideal_TV_logo.svg.png" group-title="CANAIS | ABERTOS",IDEAL TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413943
-#EXTINF:-1 tvg-id="ideal.br" tvg-name="IDEAL TV FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/1200px-Ideal_TV_logo.svg.png" group-title="CANAIS | ABERTOS",IDEAL TV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413942
-#EXTINF:-1 tvg-id="ideal.br" tvg-name="IDEAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/1200px-Ideal_TV_logo.svg.png" group-title="CANAIS | ABERTOS",IDEAL TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413944
-#EXTINF:-1 tvg-id="ideal.br" tvg-name="IDEAL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/1200px-Ideal_TV_logo.svg.png" group-title="CANAIS | ABERTOS",IDEAL TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413945
-#EXTINF:-1 tvg-id="inter.alto.litoral.br" tvg-name="Inter TV Alto Litoral HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329473
-#EXTINF:-1 tvg-id="inter.alto.litoral.br" tvg-name="Inter TV Alto Litoral SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Alto Litoral SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329474
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Inter TV Cabugi HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329476
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Inter TV Cabugi SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329477
-#EXTINF:-1 tvg-id="intertv.planicie.br" tvg-name="Inter TV dos Vales HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329479
-#EXTINF:-1 tvg-id="intertv.planicie.br" tvg-name="Inter TV dos Vales SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV dos Vales SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329480
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Inter TV Grande Minas HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329482
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Inter TV Grande Minas SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329483
-#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Inter TV Serra Mar HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329485
-#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Inter TV Serra Mar SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329486
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan 100.9 FM" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb1f145afe17acf2866664fdc0f9644.png" group-title="CANAIS | RÁDIOS",Jovem Pan 100.9 FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413519
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/bd4e8ad103e471496d1a83f119993a11.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/352366
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/bd4e8ad103e471496d1a83f119993a11.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/352367
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/bd4e8ad103e471496d1a83f119993a11.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/352368
-#EXTINF:-1 tvg-id="" tvg-name="Laser 93.3 FM" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb1f145afe17acf2866664fdc0f9644.png" group-title="CANAIS | RÁDIOS",Laser 93.3 FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413520
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a256178810da1874ce7f84f9715e7246.jpg" group-title="CANAIS | VARIEDADES",LIFETIME FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339329
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a256178810da1874ce7f84f9715e7246.jpg" group-title="CANAIS | VARIEDADES",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1568
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a256178810da1874ce7f84f9715e7246.jpg" group-title="CANAIS | VARIEDADES",LIFETIME SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1444
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6075f31438fa642ec6a1956939873da5.png" group-title="CANAIS | ESPORTES ESPECIAIS",LIGA FUTSAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/347440
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6075f31438fa642ec6a1956939873da5.png" group-title="CANAIS | ESPORTES ESPECIAIS",LIGA FUTSAL HD 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/379887
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature FHD" tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/4/LoveNature_TypeMask_FINAL_webready.jpg" group-title="CANAIS | DOCUMENTÁRIOS",Love Nature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/364407
-#EXTINF:-1 tvg-id="" tvg-name="M20 MUSIC" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/cd58b0e49199a7deec13b53b909c1ba4.jpg" group-title="CANAIS | MÚSICAS",M20 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/3765
-#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6eb9f8b4742181a5646cf8b5cdf9b39b.jpg" group-title="CANAIS | VARIEDADES",MAIS NA TELA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339330
-#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6eb9f8b4742181a5646cf8b5cdf9b39b.jpg" group-title="CANAIS | VARIEDADES",MAIS NA TELA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1557
-#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6eb9f8b4742181a5646cf8b5cdf9b39b.jpg" group-title="CANAIS | VARIEDADES",MAIS NA TELA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1433
-#EXTINF:-1 tvg-id="" tvg-name="MARKKET FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1993693daa80c25ce5de77a1db086b41.png" group-title="CANAIS | VARIEDADES",MARKKET FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413941
-#EXTINF:-1 tvg-id="" tvg-name="MARKKET HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1993693daa80c25ce5de77a1db086b41.png" group-title="CANAIS | VARIEDADES",MARKKET HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413940
-#EXTINF:-1 tvg-id="" tvg-name="MARKKET SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1993693daa80c25ce5de77a1db086b41.png" group-title="CANAIS | VARIEDADES",MARKKET SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413939
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/771c39b3af0033ef0bc65394bffcaee8.jpg" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1668
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/771c39b3af0033ef0bc65394bffcaee8.jpg" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339236
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/771c39b3af0033ef0bc65394bffcaee8.jpg" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1572
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/771c39b3af0033ef0bc65394bffcaee8.jpg" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1448
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409902
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409903
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409904
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/409905
-#EXTINF:-1 tvg-id="" tvg-name="MTV '00 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/535c8f0c924c827f81c26f6e2cdf8721.png" group-title="CANAIS | MÚSICAS",MTV '00 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393968
-#EXTINF:-1 tvg-id="" tvg-name="MTV '00 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/535c8f0c924c827f81c26f6e2cdf8721.png" group-title="CANAIS | MÚSICAS",MTV '00 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393969
-#EXTINF:-1 tvg-id="" tvg-name="MTV '00 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/535c8f0c924c827f81c26f6e2cdf8721.png" group-title="CANAIS | MÚSICAS",MTV '00 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393970
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1356ad5591ba7cf6b4e3dd9524b973a1.jpg" group-title="CANAIS | MÚSICAS",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1669
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1356ad5591ba7cf6b4e3dd9524b973a1.jpg" group-title="CANAIS | MÚSICAS",MTV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339398
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1356ad5591ba7cf6b4e3dd9524b973a1.jpg" group-title="CANAIS | MÚSICAS",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1573
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/0cde4373abc1058402b3a07835fe09a8.png" group-title="CANAIS | MÚSICAS",MTV LIVE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393981
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/0cde4373abc1058402b3a07835fe09a8.png" group-title="CANAIS | MÚSICAS",MTV LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393982
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/0cde4373abc1058402b3a07835fe09a8.png" group-title="CANAIS | MÚSICAS",MTV LIVE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393983
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1356ad5591ba7cf6b4e3dd9524b973a1.jpg" group-title="CANAIS | MÚSICAS",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1449
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/98e1e95e50e4fb11f451f7ce77d850b6.jpg" group-title="CANAIS | MÚSICAS",MULTISHOW FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1671
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/98e1e95e50e4fb11f451f7ce77d850b6.jpg" group-title="CANAIS | MÚSICAS",MULTISHOW FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339397
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/98e1e95e50e4fb11f451f7ce77d850b6.jpg" group-title="CANAIS | MÚSICAS",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1575
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/98e1e95e50e4fb11f451f7ce77d850b6.jpg" group-title="CANAIS | MÚSICAS",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1450
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/41c0b63d77bec2d0406c55e91d6efe18.jpg" group-title="CANAIS | MÚSICAS",MUSIC BOX BRAZIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339395
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/41c0b63d77bec2d0406c55e91d6efe18.jpg" group-title="CANAIS | MÚSICAS",MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1451
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b82373cdb434f1f4710a69197b183660.jpg" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1674
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b82373cdb434f1f4710a69197b183660.jpg" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339318
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b82373cdb434f1f4710a69197b183660.jpg" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1578
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b82373cdb434f1f4710a69197b183660.jpg" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1454
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8785609824f9bbe1d49296bbe71f3722.jpg" group-title="CANAIS | PAY PER VIEW",NBA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/383522
-#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ee0c75ffe26cc51619b9897f624071ca.jpg" group-title="CANAIS | PAY PER VIEW",NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/417415
-#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThnRoXnEGogeldkT2AT_TT06gLry8j_gbb7Q&usqp=CAU" group-title="CANAIS | VARIEDADES",NHK JAPAN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339729
-#EXTINF:-1 tvg-id="nhk.world.premium.br" tvg-name="NHK WORLD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThnRoXnEGogeldkT2AT_TT06gLry8j_gbb7Q&usqp=CAU" group-title="CANAIS | VARIEDADES",NHK WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/28924
-#EXTINF:-1 tvg-id="" tvg-name="NHL NETWORK HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="CANAIS | PAY PER VIEW",NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/417416
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2528e6398f244ec24bb33fe25880e627.jpg" group-title="CANAIS | INFANTIS",NICK JR FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1675
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2528e6398f244ec24bb33fe25880e627.jpg" group-title="CANAIS | INFANTIS",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1579
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2528e6398f244ec24bb33fe25880e627.jpg" group-title="CANAIS | INFANTIS",NICK JR SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1455
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71d6accd8e71015efc142bd937c81549.jpg" group-title="CANAIS | INFANTIS",NICKELODEON FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339382
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71d6accd8e71015efc142bd937c81549.jpg" group-title="CANAIS | INFANTIS",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1580
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71d6accd8e71015efc142bd937c81549.jpg" group-title="CANAIS | INFANTIS",NICKELODEON SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1456
-#EXTINF:-1 tvg-id="" tvg-name="Notícia 88.9 FM" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb1f145afe17acf2866664fdc0f9644.png" group-title="CANAIS | RÁDIOS",Notícia 88.9 FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413524
-#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="NSC TV BLUMENAU FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV BLUMENAU FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353338
-#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="NSC TV BLUMENAU HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV BLUMENAU HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353339
-#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="NSC TV CHAPECO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353340
-#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="NSC TV CHAPECO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353341
-#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="NSC TV CRICIUMA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CRICIUMA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353342
-#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="NSC TV CRICIUMA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CRICIUMA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353343
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC TV FLORIANOPOLIS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV FLORIANOPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353344
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC TV Florianópolis HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV Florianópolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329488
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC TV Florianópolis SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV Florianópolis SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329489
-#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="NSC TV JOINVILLE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV JOINVILLE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353345
-#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="NSC TV JOINVILLE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV JOINVILLE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/353346
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" group-title="CANAIS | ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1581
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" group-title="CANAIS | ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1458
-#EXTINF:-1 tvg-id="" tvg-name="PAGODE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7717e3167582d815b04dbdce52ffd70.png" group-title="CANAIS | MÚSICAS",PAGODE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/387689
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff78eb35303093750d63d3eaf219e3b0.jpg" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/317664
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff78eb35303093750d63d3eaf219e3b0.jpg" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339237
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff78eb35303093750d63d3eaf219e3b0.jpg" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1582
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ff78eb35303093750d63d3eaf219e3b0.jpg" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1459
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/475cd94d86be0a21f4c300cd1a6af182.png" group-title="CANAIS | ABERTOS",POLISHOP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/396163
-#EXTINF:-1 tvg-id="" tvg-name="POP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7717e3167582d815b04dbdce52ffd70.png" group-title="CANAIS | MÚSICAS",POP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/387690
-#EXTINF:-1 tvg-id="" tvg-name="POP NACIONAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7717e3167582d815b04dbdce52ffd70.png" group-title="CANAIS | MÚSICAS",POP NACIONAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/387691
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327393
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339262
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327394
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327395
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327397
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339263
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327398
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327399
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327401
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339264
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327402
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327403
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327405
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339265
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327406
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327407
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327409
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339266
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327410
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327411
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327413
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339267
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327414
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRervSmNAwr3SJgIfdqo8Xa6wXr9IAmQpwoQNfP11ub6JeP1ndovXR0QGhIvdPOEZIAcqs&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327415
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIyyC_ylPRTCr-c2VTv86gLtIbN_toeenmQJ6aXnUMicQ7_ipqc0ZE-0K4drkBQTIuB0&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327389
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIyyC_ylPRTCr-c2VTv86gLtIbN_toeenmQJ6aXnUMicQ7_ipqc0ZE-0K4drkBQTIuB0&usqp=CAU" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339268
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIyyC_ylPRTCr-c2VTv86gLtIbN_toeenmQJ6aXnUMicQ7_ipqc0ZE-0K4drkBQTIuB0&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327390
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIyyC_ylPRTCr-c2VTv86gLtIbN_toeenmQJ6aXnUMicQ7_ipqc0ZE-0K4drkBQTIuB0&usqp=CAU" group-title="CANAIS | PREMIERE",Premiere Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/327391
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6dcae72710a1d492379d7520e28fae64.jpg" group-title="CANAIS | MÚSICAS",PRIME BOX BRASIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339396
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6dcae72710a1d492379d7520e28fae64.jpg" group-title="CANAIS | MÚSICAS",PRIME BOX BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/15312
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/0417fdd51e74e3060687130edaa04693.jpg" group-title="CANAIS | PAY PER VIEW",PRIME VIDEO 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388201
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/0417fdd51e74e3060687130edaa04693.jpg" group-title="CANAIS | PAY PER VIEW",PRIME VIDEO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/393306
-#EXTINF:-1 tvg-id="rai.br" tvg-name="Rai Internacional HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/62bc58e59744e4dde7f3d18e6d8395c8.png" group-title="CANAIS | NOTÍCIAS",Rai Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/367428
-#EXTINF:-1 tvg-id="" tvg-name="RAP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7717e3167582d815b04dbdce52ffd70.png" group-title="CANAIS | MÚSICAS",RAP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/387692
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="RBS TV Porto Alegre HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329491
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="RBS TV Porto Alegre SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329492
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD BAHIA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD BAHIA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339444
-#EXTINF:-1 tvg-id="record.belem.br" tvg-name="RECORD BELEM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339446
-#EXTINF:-1 tvg-id="record.belem.br" tvg-name="RECORD BELEM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD BELEM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339445
-#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/19063
-#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD BRASILIA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1472
-#EXTINF:-1 tvg-id="record.campinas.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1588
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD GOIAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339448
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD GOIAS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339447
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD INTERIOR SP FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD INTERIOR SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388489
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD INTERIOR SP HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD INTERIOR SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388490
-#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="RECORD ITAPOAN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD ITAPOAN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388491
-#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="Record Itapoan HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",Record Itapoan HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339449
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD LITORAL VALE DO PARNAIBA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD LITORAL VALE DO PARNAIBA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388492
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD LITORAL VALE DO PARNAIBA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD LITORAL VALE DO PARNAIBA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388493
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD MANAUS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339450
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b861e506709dc70303bd13395e995778.jpg" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1684
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b861e506709dc70303bd13395e995778.jpg" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1589
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b861e506709dc70303bd13395e995778.jpg" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1475
-#EXTINF:-1 tvg-id="record.joao.pessoa.br" tvg-name="RECORD NORDESTE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1590
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANAIBA UBERLANDIA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD PARANAIBA UBERLANDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388494
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANAIBA UBERLANDIA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD PARANAIBA UBERLANDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388495
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD PAULISTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD PAULISTA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388496
-#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD PAULISTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD PAULISTA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388497
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RIO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD RIO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/396161
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RIO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD RIO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1736
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RIO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD RIO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1737
-#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/5811
-#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD RS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339452
-#EXTINF:-1 tvg-id="record.santos.br" tvg-name="RECORD SANTOS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD SANTOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/370648
-#EXTINF:-1 tvg-id="record.santos.br" tvg-name="RECORD SANTOS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD SANTOS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/370649
-#EXTINF:-1 tvg-id="record.florianopolis.br" tvg-name="Record SC HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",Record SC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339453
-#EXTINF:-1 tvg-id="tv.rondonia.br" tvg-name="RECORD SIC TV RONDONIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD SIC TV RONDONIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388498
-#EXTINF:-1 tvg-id="tv.rondonia.br" tvg-name="RECORD SIC TV RONDONIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD SIC TV RONDONIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388499
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SJR.PRETO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD SJR.PRETO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388500
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SJR.PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD SJR.PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388501
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388488
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD SP FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388487
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1591
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1476
-#EXTINF:-1 tvg-id="record.cabralia.br" tvg-name="RECORD TV CABRALIA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e788262c3d2c784498666e9a95443f4d.jpg" group-title="CANAIS | RECORD",RECORD TV CABRALIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/19064
-#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD TV MINAS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS | RECORD",RECORD TV MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/28670
-#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD TV MINAS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6acdd32a2c3e5f1eb0a17e45b73d23b5.png" group-title="CANAIS | RECORD",RECORD TV MINAS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339451
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD VILA REAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD VILA REAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388502
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD VILA REAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | RECORD",RECORD VILA REAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388503
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Boa Vista HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329494
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Boa Vista SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329495
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Rede Amazônica Manaus HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329500
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Rede Amazônica Manaus SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329501
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329503
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Rio Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329506
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Rio Branco SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Rio Branco SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329507
-#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2bafc1207bc542bb456df798c53e4b1a.png" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339456
-#EXTINF:-1 tvg-id="rede.seculo.21.br" tvg-name="REDE SECULO 21 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/30f97d030fc4660e2ac63a13b32a2447.png" group-title="CANAIS | RELIGIOSOS",REDE SECULO 21 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/21262
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9fc7c32c68ff4e068ed86dc455ec34c1.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/410629
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/79f58223930e22b418c873eb52af365b.png" group-title="CANAIS | ABERTOS",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1592
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV PAMPA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/79f58223930e22b418c873eb52af365b.png" group-title="CANAIS | ABERTOS",REDE TV PAMPA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/407875
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV PAMPA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/79f58223930e22b418c873eb52af365b.png" group-title="CANAIS | ABERTOS",REDE TV PAMPA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/407876
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/79f58223930e22b418c873eb52af365b.png" group-title="CANAIS | ABERTOS",REDE TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1478
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/d3a4daef33e121bee09faf59285b83c7.png" group-title="CANAIS | RELIGIOSOS",Rede Vida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/317665
-#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/cc18d27ea6338dfc46c04a267ad36968.png" group-title="CANAIS | MÚSICAS",RETRO MUSIC TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/3768
-#EXTINF:-1 tvg-id="ric.curitiba.br" tvg-name="RIC TV MARINGA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/32a228cef2da747d077ec08c0e1772d0.jpg" group-title="CANAIS | RECORD",RIC TV MARINGA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339460
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/367b5b00da156857496211c387b159c8.png" group-title="CANAIS | RELIGIOSOS",RIT TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/5708
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="RPC Curitiba HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329509
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="RPC Curitiba SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329510
-#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT BRASILIA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388510
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1685
-#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT GOIANIA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ec0bd63cdef729722f52802ffe21be54.png" group-title="CANAIS | SBT",SBT GOIANIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339461
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT INTERIOR HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT INTERIOR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388511
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ITAPOAN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT ITAPOAN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388504
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ITAPOAN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT ITAPOAN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388505
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="SBT RBS FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT RBS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388506
-#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="SBT RECIFE TV JORNAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/063cd6e1a43376a8c3d9aada0ccea5b4.jpg" group-title="CANAIS | SBT",SBT RECIFE TV JORNAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339464
-#EXTINF:-1 tvg-id="rede.massa.br" tvg-name="SBT REDE MASSA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5cf83fee589dc2ffd5e2361db18ea8d0.png" group-title="CANAIS | SBT",SBT REDE MASSA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339465
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RIO FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT RIO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388507
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RIO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT RIO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/5746
-#EXTINF:-1 tvg-id="sbt.natal.br" tvg-name="SBT RN HD" tvg-logo="" group-title="CANAIS | SBT",SBT RN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339462
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SANTOS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SANTOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/370895
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SANTOS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SANTOS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/370896
-#EXTINF:-1 tvg-id="sbt.florianopolis.br" tvg-name="SBT SCC SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SCC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388512
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SP FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339466
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1595
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1480
-#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT TV ALTEROSA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388508
-#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT TV ALTEROSA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388509
-#EXTINF:-1 tvg-id="tv.cidade.verde.br" tvg-name="SBT TV CIDADE VERDE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ee86b2efb05100b36cf16608dffe6fd7.png" group-title="CANAIS | SBT",SBT TV CIDADE VERDE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339467
-#EXTINF:-1 tvg-id="" tvg-name="SBT TV DIFUSORA CAXIAS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT TV DIFUSORA CAXIAS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388514
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV FLORESTA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/634cdddde8ce59fb4af61bbbfc56bcd3.png" group-title="CANAIS | SBT",SBT TV FLORESTA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339468
-#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV JANGADEIRO CEARÁ FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/60eea8b5ba3273ceebf058b278f10f9e.jpg" group-title="CANAIS | SBT",SBT TV JANGADEIRO CEARÁ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339469
-#EXTINF:-1 tvg-id="vtv.br" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/378586
-#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7717e3167582d815b04dbdce52ffd70.png" group-title="CANAIS | MÚSICAS",SERTANEJO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/387693
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/7ecb9bce8af0f9d9a410d7cf6711f93f.jpg" group-title="CANAIS | ABERTOS",SHOPTIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/10162
-#EXTINF:-1 tvg-id="canal.smithsonian.br" tvg-name="Smithsonian Channel FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c4e48cdd4f7b542aeb98c3dfea648ebb.png" group-title="CANAIS | DOCUMENTÁRIOS",Smithsonian Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/316448
-#EXTINF:-1 tvg-id="canal.smithsonian.br" tvg-name="Smithsonian Channel HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c4e48cdd4f7b542aeb98c3dfea648ebb.png" group-title="CANAIS | DOCUMENTÁRIOS",Smithsonian Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/316449
-#EXTINF:-1 tvg-id="canal.smithsonian.br" tvg-name="Smithsonian Channel SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/c4e48cdd4f7b542aeb98c3dfea648ebb.png" group-title="CANAIS | DOCUMENTÁRIOS",Smithsonian Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/316450
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD" tvg-logo="" group-title="CANAIS | FILMES E SÉRIES",SONY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1687
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f9f47444685fcfd0d11b3a42c6d1a9f7.jpg" group-title="CANAIS | FILMES E SÉRIES",SONY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339233
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f9f47444685fcfd0d11b3a42c6d1a9f7.jpg" group-title="CANAIS | FILMES E SÉRIES",SONY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1597
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f9f47444685fcfd0d11b3a42c6d1a9f7.jpg" group-title="CANAIS | FILMES E SÉRIES",SONY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1481
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89fc72d3a48b108088f3ef2786a8c7f1.jpg" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1688
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89fc72d3a48b108088f3ef2786a8c7f1.jpg" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339238
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89fc72d3a48b108088f3ef2786a8c7f1.jpg" group-title="CANAIS | FILMES E SÉRIES",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1598
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/89fc72d3a48b108088f3ef2786a8c7f1.jpg" group-title="CANAIS | FILMES E SÉRIES",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1482
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/75518a9ca15f7783cb569d9f2c5bb8c6.jpg" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1689
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/75518a9ca15f7783cb569d9f2c5bb8c6.jpg" group-title="CANAIS | ESPORTES",SPORTV 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339258
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/75518a9ca15f7783cb569d9f2c5bb8c6.jpg" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1599
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/75518a9ca15f7783cb569d9f2c5bb8c6.jpg" group-title="CANAIS | ESPORTES",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1483
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/30a2193989c2848176a7c171908d295d.jpg" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1690
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/30a2193989c2848176a7c171908d295d.jpg" group-title="CANAIS | ESPORTES",SPORTV 3 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339259
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/30a2193989c2848176a7c171908d295d.jpg" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1600
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/30a2193989c2848176a7c171908d295d.jpg" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1484
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/02448940ece42b3bce0ad2f383f7b8d2.jpg" group-title="CANAIS | ESPORTES",SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1691
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/02448940ece42b3bce0ad2f383f7b8d2.jpg" group-title="CANAIS | ESPORTES",SPORTV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339260
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/02448940ece42b3bce0ad2f383f7b8d2.jpg" group-title="CANAIS | ESPORTES",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1601
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/02448940ece42b3bce0ad2f383f7b8d2.jpg" group-title="CANAIS | ESPORTES",SPORTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1485
-#EXTINF:-1 tvg-id="" tvg-name="STAR + HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="CANAIS | PAY PER VIEW",STAR + HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/345285
-#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="CANAIS | PAY PER VIEW",STAR + HD 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/348367
-#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="CANAIS | PAY PER VIEW",STAR + HD 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/348368
-#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="CANAIS | PAY PER VIEW",STAR + HD 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/373689
-#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="CANAIS | PAY PER VIEW",STAR + HD 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/373690
-#EXTINF:-1 tvg-id="" tvg-name="STAR + HD 6" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="CANAIS | PAY PER VIEW",STAR + HD 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/373691
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/d7db4d32c8295032e07606027cb1077f.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1647
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/d7db4d32c8295032e07606027cb1077f.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339239
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/d7db4d32c8295032e07606027cb1077f.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1542
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/d7db4d32c8295032e07606027cb1077f.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1403
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/0b62824b9b67894f53c4490c79a6bf89.jpg" group-title="CANAIS | VARIEDADES",STAR LIFE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339242
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/22801a739d147d4b597ee2a6d3c8b85a.jpg" group-title="CANAIS | VARIEDADES",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1543
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/0b62824b9b67894f53c4490c79a6bf89.jpg" group-title="CANAIS | VARIEDADES",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1400
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b7ca6f5b80ac1a51a654a1316b282.jpg" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1692
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b7ca6f5b80ac1a51a654a1316b282.jpg" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339243
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b7ca6f5b80ac1a51a654a1316b282.jpg" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1602
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9e0b7ca6f5b80ac1a51a654a1316b282.jpg" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1486
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6eded779d208aaeb28d25f30b5c54645.jpg" group-title="CANAIS | FILMES E SÉRIES",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1693
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6eded779d208aaeb28d25f30b5c54645.jpg" group-title="CANAIS | FILMES E SÉRIES",SYFY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339244
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6eded779d208aaeb28d25f30b5c54645.jpg" group-title="CANAIS | FILMES E SÉRIES",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1603
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6eded779d208aaeb28d25f30b5c54645.jpg" group-title="CANAIS | FILMES E SÉRIES",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1487
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83cea1596e31f7dcb9856ccad22746c4.jpg" group-title="CANAIS | FILMES E SÉRIES",TBS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339245
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/83cea1596e31f7dcb9856ccad22746c4.jpg" group-title="CANAIS | FILMES E SÉRIES",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1488
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e83d51e9ecb489d950cdb76a9b8731f4.jpg" group-title="CANAIS | FILMES E SÉRIES",TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413935
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e83d51e9ecb489d950cdb76a9b8731f4.jpg" group-title="CANAIS | FILMES E SÉRIES",TCM FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339246
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e83d51e9ecb489d950cdb76a9b8731f4.jpg" group-title="CANAIS | FILMES E SÉRIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413962
-#EXTINF:-1 tvg-id="" tvg-name="TCM PLAY MOSSORO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/520d2a4fb9f0cae40d75268dd8fca947.jpg" group-title="CANAIS | ABERTOS",TCM PLAY MOSSORO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/407908
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/e83d51e9ecb489d950cdb76a9b8731f4.jpg" group-title="CANAIS | FILMES E SÉRIES",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1489
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1694
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339224
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1604
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1490
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1695
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339225
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1605
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1491
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1696
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339226
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1606
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1492
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1697
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339227
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1607
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1493
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1698
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339228
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1608
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1494
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1699
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339229
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1609
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1495
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/df896b9dee557399b39a8260bc694c43.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1700
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/df896b9dee557399b39a8260bc694c43.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339247
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/df896b9dee557399b39a8260bc694c43.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1610
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/df896b9dee557399b39a8260bc694c43.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1496
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/170ed8b50a98cd9ac8325d81727eac07.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1701
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/170ed8b50a98cd9ac8325d81727eac07.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339248
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/170ed8b50a98cd9ac8325d81727eac07.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1611
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SERIES SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/170ed8b50a98cd9ac8325d81727eac07.jpg" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1497
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/df24da023af3f9ed6887835cdfd07c8e.jpg" group-title="CANAIS | INFANTIS",TOONCAST FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/18712
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71d6accd8e71015efc142bd937c81549.jpg" group-title="CANAIS | INFANTIS",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1612
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71d6accd8e71015efc142bd937c81549.jpg" group-title="CANAIS | INFANTIS",TOONCAST SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1498
-#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brasil HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/3dda1140860c99d184556c3ca27e99d5.png" group-title="CANAIS | VARIEDADES",Travel Box Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/22873
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/55d0a91f3b384df78a2f657467acdd8a.jpg" group-title="CANAIS | VARIEDADES",TRU TV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339332
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/55d0a91f3b384df78a2f657467acdd8a.jpg" group-title="CANAIS | VARIEDADES",TRUTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/4689
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Anhanguera Goiânia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329512
-#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="TV Anhanguera Goiânia SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Anhanguera Goiânia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329513
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a7cd818bb8068b520d5dea4b0957e8a6.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/4819
-#EXTINF:-1 tvg-id="" tvg-name="TV ARACATI SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="CANAIS | ABERTOS",TV ARACATI SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/4723
-#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="TV ATALAIA SERGIPE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/87/Logotipo_da_TV_Atalaia.jpg" group-title="CANAIS | ABERTOS",TV ATALAIA SERGIPE SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/27469
-#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329515
-#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329516
-#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f12aaaeefc61befd79ed4d5ea71d4763.jpg" group-title="CANAIS | ABERTOS",TV BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339473
-#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Centro-américa Cuiabá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329593
-#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="TV Centro-américa Cuiabá SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Centro-américa Cuiabá SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329594
-#EXTINF:-1 tvg-id="tv.correio.br" tvg-name="TV CORREIO RECORD TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ba542a94d8e367f7e6f32c8a5ab0cc8b.jpg" group-title="CANAIS | RECORD",TV CORREIO RECORD TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339476
-#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CÂMARA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/51e2cdce9d5194c935288616c8b4f528.png" group-title="CANAIS | ABERTOS",TV CÂMARA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339474
-#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/4580e60b1f8e0e2c4f8580551288909e.png" group-title="CANAIS | ABERTOS",TV DIARIO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/10032
-#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/23714b9578435876a633f6098df9b307.png" group-title="CANAIS | ABERTOS",TV ESCOLA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339478
-#EXTINF:-1 tvg-id="tv.evangelizar.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/4cd661ea2269d063357ede9a1378647c.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/27468
-#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="TV Fronteira HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Fronteira HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329518
-#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="TV Fronteira SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Fronteira SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329519
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/57a0b00b38445738dcf73e6583f8b4a8.jpg" group-title="CANAIS | ABERTOS",TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1499
-#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="TV Gazeta Sul HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Gazeta Sul HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329521
-#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="TV Gazeta Sul SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Gazeta Sul SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329522
-#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES SD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",TV GIDEOES SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/5748
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="TV Globo Brasília HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329524
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="TV Globo Brasília SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Brasília SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329525
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="TV Globo Minas HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329527
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="TV Globo Minas SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329528
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="TV Globo Nordeste HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329530
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="TV Globo Nordeste SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329531
-#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="TV Globo Rio FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388181
-#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="TV Globo Rio HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329533
-#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="TV Globo Rio SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Rio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329534
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413508
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388158
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329536
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329537
-#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="TV Liberal Belém HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Liberal Belém HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329542
-#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="TV Liberal Belém SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Liberal Belém SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329543
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante Imperatriz HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante Imperatriz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329548
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante Imperatriz SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante Imperatriz SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329549
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante São Luiz HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante São Luiz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329551
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante São Luiz SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante São Luiz SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329552
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="TV Morena Campo Grande HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Morena Campo Grande HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329554
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="TV Morena Campo Grande SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Morena Campo Grande SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329555
-#EXTINF:-1 tvg-id="tv.mundial.br" tvg-name="TV MUNDIAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/85c34f675257eead67988b910a6b2063.jpg" group-title="CANAIS | RELIGIOSOS",TV MUNDIAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1705
-#EXTINF:-1 tvg-id="tv.nova.nordeste.br" tvg-name="TV NOVA NORDESTE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/10b2b18206e62976ae04f04ef33746e2.png" group-title="CANAIS | ABERTOS",TV NOVA NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339484
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/434bc02eda3c2d8fbef8ac2080ac98f9.png" group-title="CANAIS | RELIGIOSOS",TV Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/6454
-#EXTINF:-1 tvg-id="tv.pai.eterno.br" tvg-name="TV PAI ETERNO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb36419c1f4e0dd2df0e3ab74feb07b.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339485
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV RA TIM BUM FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339383
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="CANAIS | INFANTIS",TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/317666
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="CANAIS | INFANTIS",TV Ra Tim Bum SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/317667
-#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2f59db4b381ed9952ad42f901ce6cf0d.png" group-title="CANAIS | ABERTOS",TV SENADO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339487
-#EXTINF:-1 tvg-id="tv.serra.dourada.br" tvg-name="TV SERRA DOURADA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/ec0bd63cdef729722f52802ffe21be54.png" group-title="CANAIS | SBT",TV SERRA DOURADA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339488
-#EXTINF:-1 tvg-id="tv.taroba.londrina.br" tvg-name="TV TAROBA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/17823e7a031083b6f665bd3cbb9f1027.jpg" group-title="CANAIS | ABERTOS",TV TAROBA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339491
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="TV TEM Bauru HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329557
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="TV TEM Bauru SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Bauru SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329558
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="TV TEM Sorocaba HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329566
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="TV TEM Sorocaba SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Sorocaba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329567
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM São José do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329563
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TV TEM São José do Rio Preto SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM São José do Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329564
-#EXTINF:-1 tvg-id="record.campinas.br" tvg-name="TV THATHI HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/51dbd88ffdaa46e2804be4203e9b0140.png" group-title="CANAIS | RECORD",TV THATHI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339493
-#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="TV Tribuna HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Tribuna HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329569
-#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="TV Tribuna SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Tribuna SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329570
-#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329572
-#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="TV Verdes Mares Cariri SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Cariri SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329573
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329575
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329576
-#EXTINF:-1 tvg-id="tv5.monde.br" tvg-name="TV5 MONDE HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/f35922049fe9280bfe81657d83906307.png" group-title="CANAIS | NOTÍCIAS",TV5 MONDE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/388520
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/1994ca17f72c68b36fad87b3cce1f204.png" group-title="CANAIS | FILMES E SÉRIES",TVCINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/392303
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/25ef2a0e3ef320f124f4f84357c5325c.png" group-title="CANAIS | FILMES E SÉRIES",TVCINE EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/392299
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b6ec9e9503151ff36f19320a023ba9a2.png" group-title="CANAIS | FILMES E SÉRIES",TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/392301
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/223a40c812ca2c6335d7f45f21ffe0ef.png" group-title="CANAIS | FILMES E SÉRIES",TVCINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/392297
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1702
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9b25a4376bcf47a56c4ea0e18c7fda4f.jpg" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1613
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/9b25a4376bcf47a56c4ea0e18c7fda4f.jpg" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1500
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/b7af031c5964d5b49c8a1eeb33307b68.png" group-title="CANAIS | RELIGIOSOS",UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/332310
-#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Vanguarda São José dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329578
-#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="Vanguarda São José dos Campos SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Vanguarda São José dos Campos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329579
-#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="Vanguarda Taubaté HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Vanguarda Taubaté HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/329581
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ecdd3cb6fa189800e4346a409d84b00.jpg" group-title="CANAIS | MÚSICAS",VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1614
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/8ecdd3cb6fa189800e4346a409d84b00.jpg" group-title="CANAIS | MÚSICAS",VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1501
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1703
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339333
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1615
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1502
-#EXTINF:-1 tvg-id="" tvg-name="Vox 90.3 FM" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/5bb1f145afe17acf2866664fdc0f9644.png" group-title="CANAIS | RÁDIOS",Vox 90.3 FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/413523
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/36740c3de2e51cd917038559a558d96b.jpg" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1704
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/36740c3de2e51cd917038559a558d96b.jpg" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339249
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/36740c3de2e51cd917038559a558d96b.jpg" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1616
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/36740c3de2e51cd917038559a558d96b.jpg" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1503
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a13bec610e64616ec6a784bddfc28b32.jpg" group-title="CANAIS | ESPORTES",WOOHOO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/339261
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a13bec610e64616ec6a784bddfc28b32.jpg" group-title="CANAIS | ESPORTES",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1617
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/a13bec610e64616ec6a784bddfc28b32.jpg" group-title="CANAIS | ESPORTES",WOOHOO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1504
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/images/71d6accd8e71015efc142bd937c81549.jpg" group-title="CANAIS | INFANTIS",ZOOMOO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://flixgran.xyz:8080/444444/444444/1618
+
+<item>
+<title>[B]Globo RPC TV [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/483$nome= [COLOR green]Globo RPC TV[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/288$nome= [COLOR yellow]GLOBO RPC PARANAESE[/COLOR]</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+<fanart>https://imgur.com/5RQ1PxL.png</fanart>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
+</item>
+
+<item>
+<title>[B]Globo SP[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/7918$nome= [COLOR green]Globo SP HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/286$nome= [COLOR yellow]Globo RJ HD[/COLOR]</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+<fanart>https://imgur.com/5RQ1PxL.png</fanart>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
+</item>
+<item>
+<title>[B]Globo Nordeste [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/282$nome= [COLOR green]Globo Nordeste HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/479$nome= [COLOR yellow]Globo Minas HD[/COLOR]</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+<fanart>https://imgur.com/5RQ1PxL.png</fanart>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
+</item>
+
+
+<item>
+<title>[B]SBT [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/384$nome= [COLOR green]SBT RJ HD[/COLOR</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/452$nome= [COLOR yellow]SBT SP[/COLOR]</link>
+<thumbnail>http://i.imgur.com/7SlZF9B.png</thumbnail>
+<fanart>http://i.imgur.com/7SlZF9B.png</fanart>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
+</item>
+
+<item>
+<title>[B]SBT[/B]</title>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8$nome= [COLOR green]SBT PE HD[/COLOR]</link>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8$nome= [COLOR yellow]SBT PE SD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/7SlZF9B.png</thumbnail>
+<fanart>http://i.imgur.com/7SlZF9B.png</fanart>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
+</item>
 
 
 
+<item>
+<title>[B]BAND[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/402$nome= [COLOR green]Band SP [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/74$nome= [COLOR yellow]Band RJ [/COLOR]</link>
+<thumbnail>http://i.imgur.com/x70tdT3.png</thumbnail>
+<fanart>http://i.imgur.com/x70tdT3.png</fanart>
+<info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio</info>
+</item>
+
+<item>
+<title>[B]RECORD RJ[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/436$nome= [COLOR green]Record RJ HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/495$nome= [COLOR yellow]Record RJ SD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
+<fanart>http://i.imgur.com/5UeQAk9.png</fanart>
+<info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial. Em 2010 ela foi eleita pelo mercado publicitário a 5º maior emissora do mundo em faturamento e a 8º maior rede em estrutura física.</info>
+</item>
+
+<item>
+<title>[B]RECORD SP[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/437$nome= [COLOR green]Record SP SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/499nome= [COLOR yellow]Record SP HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
+<fanart>http://i.imgur.com/5UeQAk9.png</fanart>
+<info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial. Em 2010 ela foi eleita pelo mercado publicitário a 5º maior emissora do mundo em faturamento e a 8º maior rede em estrutura física.</info>
+</item>
+
+<item>
+<title>[B]RedeTV![/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/392$nome= [COLOR green]RedeTV! SP[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/442$nome= [COLOR yellow]Rede TV ES[/COLOR]</link>
+<thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
+<fanart>https://i.imgur.com/hd76Jt4.png</fanart>
+<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
+</item>
+
+
+<item>
+<title>[B]RedeTV![/B]</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR green]Rede TV RS[/COLOR]</link>
+<link>https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]Rede TV PB[/COLOR]</link>
+<thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
+<fanart>https://i.imgur.com/hd76Jt4.png</fanart>
+<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
+</item>
+ 
+<item>
+<title>[B]DISCOVERY CHANNEL HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/171$nome= [COLOR green] DISCOVERY CHANNEL HD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/171$nome= [COLOR yellow] DISCOVERY CHANNEL HD HD[/COLOR]</link>
+<thumbnail>https://tvmagazine.com.br/imagens/icones/600/discoverychannelb.png</thumbnail>
+<fanart>https://tvmagazine.com.br/imagens/icones/600/discoverychannelb.png</fanart>
+<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Warner Bros. Discovery destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia. </info>
+</item>
+ 
+<item>
+<title>[B]DISCOVERY H&amp [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/175$nome= [COLOR green]DISCOVERY H&amp SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/175$nome= [COLOR yellow]DISCOVERY H&amp HD[/COLOR]</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnh0bJr9GVVVw7OhSD4x3MCjzIbsJMy2dqCgQ90eyA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AAUvwnh0bJr9GVVVw7OhSD4x3MCjzIbsJMy2dqCgQ90eyA=s900-c-k-c0x00ffffff-no-rj</fanart>
+<info>TVE Brasil foi uma emissora de televisão brasileira sediada no Rio de Janeiro, capital do estado homônimo. Operava pelo canal 2 VHF analógico e era mantida pela Associação de Comunicação Educativa Roquette Pinto. </info>
+</item>
+
+
+<item>
+<title>[B]DISCOVERY ID [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/176$nome= [COLOR green]DISCOVERY ID  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/176$nome= [COLOR yellow]DISCOVERY ID  HD[/COLOR]</link>
+<thumbnail>https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png</thumbnail>
+<fanart>https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png</fanart>
+<info>é uma rede de televisão brasileira sediada em Campinas, São Paulo. É uma das empresas do Grupo Record. Foi criada em 1.º de agosto de 1998, e atualmente, mantém uma grade de programação com programas jornalísticos e de variedades, além de reprises de programas produzidos pela sua coirmã RecordTV.</info>
+</item>
+
+<item>
+<title>[B]Rede Vida HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/418$nome= [COLOR green]Rede Vida HD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/418$nome= [COLOR yellow]Rede Vida HD HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/1469ea51fe637967d0e56d2dfe8838bb.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/1469ea51fe637967d0e56d2dfe8838bb.png</fanart>
+<info>Rede Família é uma rede de televisão brasileira sediada em Campinas, São Paulo. É uma das empresas do Grupo Record. Foi criada em 1.º de agosto de 1998, e atualmente, mantém uma grade de programação com programas jornalísticos e de variedades, além de reprises de programas produzidos pela sua coirmã RecordTV.</info>
+</item>
+
+
+<item>
+<title>[B]DISCOVERY SCIENCE[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/179$nome= [COLOR green]DISCOVERY SCIENCE HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/179$nome= [COLOR green]DISCOVERY SCIENCE SD[/COLOR]</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png</thumbnail>
+<fanart>https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png</fanart>
+<info>Discovery Science é um canal de televisão de TV por assinatura do grupo Warner Bros. Discovery que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia.  </info>
+</item>
+
+<item>
+<title>[B]DISCOVERY TURBO[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/182$nome= [COLOR green]DISCOVERY TURBO[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/182$nome= [COLOR yellow]DISCOVERY TURBO[/COLOR]</link>
+<thumbnail>https://i.ytimg.com/vi/cxcPXtbddh4/maxresdefault.jpgL</thumbnail>
+<fanart>https://i.ytimg.com/vi/cxcPXtbddh4/maxresdefault.jpg</fanart>
+<info>O Discovery Turbo é uma rede pertencente a Warner Bros. Discovery com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais. </info>
+</item>
+
+<item>
+<title>[B]HISTORY CHANNEL[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/496$nome= [COLOR green]HISTORY CHANNEL SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/496$nome= [COLOR green]HISTORY CHANNEL HD[/COLOR]</link>
+<thumbnail>http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png</thumbnail>
+<fanart>http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png</fanart>
+<info>O History, é uma rede de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, a rede também aborda temas atuais de relevância. O History está disponível na maior parte das ofertas televisivas pagas. </info>
+</item>
+
+<item>
+<title>[B]NATIONAL GEOGRAPHIC  [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/335$nome= [COLOR green]NATIONAL GEOGRAPHIC SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/335$nome= [COLOR green]NATIONAL GEOGRAPHIC HD[/COLOR]</link>
+<thumbnail>https://www.nationalgeographicbrasil.com/images/logo.png</thumbnail>
+<fanart>https://www.nationalgeographicbrasil.com/images/logo.png</fanart>
+<info>National Geographic, anteriormente National Geographic Magazine, é a revista oficial da National Geographic Society. Publicou a sua primeira edição em 1888, apenas nove meses após a própria sociedade ter sido fundada. É imediatamente identificável pela moldura amarela característica que envolve a sua capa. </info>
+</item>
+
+<item>
+<title>[B]COMEDY CENTRAL  [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/126$nome= [COLOR green]COMEDY CENTRAL SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/126$nome= [COLOR green]COMEDY CENTRAL HD[/COLOR]</link>
+<thumbnail>https://www.exorbeo.com/wp-content/uploads/2013/04/comedy+central+sem+graca-1280x720.jpg</thumbnail>
+<fanart>https://www.exorbeo.com/wp-content/uploads/2013/04/comedy+central+sem+graca-1280x720.jpg</fanart>
+<info>Comedy Central é uma rede e canal pago de humor dos Estados Unidos famoso pelos seus programas de comédia. Pertence a Americana Paramount Media Networks. Entre os destaques de sua programação está a animação South Park célebre pelo seu humor politicamente incorreto. </info>
+</item>
+
+<item>
+<title>[B]VIVA[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/4075$nome= [COLOR green]VIVA SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/4075$nome= [COLOR green]VIVA HD[/COLOR]</link>
+<thumbnail>http://images.uncyc.org/pt/1/1c/Viva.jpg</thumbnail>
+<fanart>http://images.uncyc.org/pt/1/1c/Viva.jpg</fanart>
+<info>Viva é um canal de televisão por assinatura brasileiro de entretenimento pertencente à divisão de canais de TV a cabo do Grupo Globo. Foi inaugurado no dia 18 de maio de 2010 e está presente nas operadoras de televisão a cabo e satélite Sky, Claro TV, Vivo TV, Oi TV e TV Alphaville</info>
+</item>
+
+<item>
+<title>[B]Gospel Cartoon[/B]</title>
+<link>http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8$nome= [COLOR green]Gospel Cartoon[/COLOR]</link>
+<link>http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8$nome= [COLOR yellow]Gospel Cartoon 2[/COLOR]</link>
+<thumbnail>http://i.imgur.com/KlbMTBD.png</thumbnail>
+<fanart>http://i.imgur.com/KlbMTBD.png</fanart>
+<info>CANAIS  KIDS .</info>
+</item>
+
+<item>
+<title>[B]Nickelodeon[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/341$nome= [COLOR green]Nickelodeon SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/341$nome= [COLOR yellow]Nickelodeon HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ZjLSLiY.png</thumbnail>
+<fanart>http://i.imgur.com/ZjLSLiY.png</fanart>
+<info>Nickelodeon Brasil é um canal de televisão por assinatura que pertence à ViacomCBS Networks Americas, filiais do canal americano Nickelodeon. Sua sede está localizada na cidade de São Paulo, e tem o público alvo principal de adolescentes e crianças. </info>
+</item>
+
+<item>
+<title>[B]Nick Jr.[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/340$nome= [COLOR green]Nick Jr. SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/340$nome= [COLOR yellow]Nick Jr. HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/6vVmJJf.png</thumbnail>
+<fanart>http://i.imgur.com/6vVmJJf.png</fanart>
+<info>Nick Jr. é um canal infantil de TV por assinatura dos Estados Unidos fundado em 4 de janeiro de 1988 como Nick Junior e 2 de fevereiro de 1997 como Noggin até ser convertido para os novos marca e nome em 28 de setembro de 2009, às 6h do horário de Brasília. </info>
+</item>
+
+<item>
+<title>[B]Cartoon Network[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/584$nome= [COLOR green]Cartoon Network SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/89$nome= [COLOR yellow]Cartoon Network HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/S5PsDDR.png</thumbnail>
+<fanart>http://i.imgur.com/S5PsDDR.png</fanart>
+<info>Cartoon Network é um canal norte-americano de televisão por assinatura de rede de propriedade da Warner Bros. Global Kids & Young Adults, que vai ao ar principalmente com programação animada.</info>
+</item>
+
+<item>
+<title>[B]Disney XD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/18039$nome= [COLOR green]Disney XD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/18039$nome= [COLOR yellow]Disney XD HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/zNNIALN.png</thumbnail>
+<fanart>http://i.imgur.com/zNNIALN.png</fanart>
+<info>Disney XD é um canal de televisão por assinatura estadunidense com versões por vários países, de propriedade da The Walt Disney Company unidade da The Walt Disney Company através da Disney Channels Worldwide. A programação da rede é direcionada a crianças da idade de 6 aos 15 anos.</info>
+</item>
+
+<item>
+<title>[B]Disney Junior[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/178$nome= [COLOR green]Disney Junior SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/178$nome= [COLOR yellow]Disney Junior HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/H9AY5z4.png</thumbnail>
+<fanart>http://i.imgur.com/H9AY5z4.png</fanart>
+<info>Disney Junior é o canal de televisão por assinatura americana, da propriedade Disney General Entertainment Content para The Walt Disney Company e foi através pela Disney Branded Television. </info>
+</item>
+
+<item>
+<title>[B]Disney Channel[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/586$nome= [COLOR green]Disney Channel SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/184$nome= [COLOR yellow]Disney Channel HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ETxffjm.png</thumbnail>
+<fanart>http://i.imgur.com/ETxffjm.png</fanart>
+<info>Disney Channel é um canal de televisão norte-americano especializado em programação infanto-juvenil, através das suas séries originais e filmes.</info>
+</item>
+
+<item>
+<title>[B]Tooncast[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/594$nome= [COLOR green]Tooncast SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/505$nome= [COLOR yellow]Tooncast HD[/COLOR]</link>
+<thumbnail>http://playhdtv.tk/logs/tooncoscat.jpg</thumbnail>
+<fanart>https://i1.wp.com/anmtv.com.br/wp-content/uploads/tooncast.jpg?ssl=1</fanart>
+<info>O Tooncast é um canal infantil de desenhos clássicos fundado pela Warner Bros. Entertainment e pela Turner International que é também a programadora da Cartoon Network, do Boomerang, da TNT, da TNT Séries, do Space, da CNN Brasil, da CNN International, da CNN en Español, do TBS, do TCM, do I.Sat e do TruTV. </info>
+</item>
+
+
+
+<item>
+<title>[B]Globinho[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/296$nome= [COLOR green]Globinho SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/296$nome= [COLOR yellow]Gloob HD[/COLOR]</link>
+<thumbnail>https://i.ytimg.com/vi/aYL11NvVQtI/hqdefault.jpg</thumbnail>
+<fanart>https://febreteen.com.br/wp-content/uploads/2020/06/tv-globinho.png</fanart>
+<info>O programa exibe desenhos animados e séries infantojuvenis.</info>
+</item>
+
+<item>
+<title>[B]Boomerang[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/80$nome= [COLOR green]Boomerang SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/80$nome= [COLOR yellow]Boomerang HD[/COLOR]</link>
+<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/7/7c/Boomerang.png/revision/latest/top-crop/width/360/height/450?cb=20180804010050&path-prefix=pt-br</thumbnail>
+<fanart>https://blog.roku.com/wp-content/uploads/2017/06/Boomerang-on-Roku_blog.jpg</fanart>
+<info>O Boomerang é um canal de televisão digital, cabo e satélite americano que é de propriedade da subsidiária Warner Bros. Global Kids & Young Adults.</info>
+</item>
+
+
+<item>
+<title>[B]Gloob[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/295$nome= [COLOR green]Gloob SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/295$nome= [COLOR yellow]Gloob HD[/COLOR]</link>
+<thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a2/dd/53/a2dd5380-cc89-7176-b9ad-4c7b289ca911/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png</thumbnail>
+<fanart>https://image.isu.pub/200625214129-962feed7e052d6bbee8250e0beb6e1f9/jpg/page_1_thumb_large.jpg</fanart>
+<info>Gloob é um canal de televisão por assinatura brasileiro que pertence ao Grupo Globo e foi lançado no dia 15 de junho de 2012, direcionado ao público infantil. Seu nome é um anagrama da palavra Globo, invertendo a letra "O" antes do "B". Também transmite sua programação em high definition em versão simulcast.</info>
+</item>
+
+
+<item>
+<title>[B]FX[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/639$nome= [COLOR green]FX SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/267$nome= [COLOR yellow]FX HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/GaQZSu6.png</thumbnail>
+<fanart>http://i.imgur.com/GaQZSu6.png</fanart>
+<info>O FX é um canal norte-americano de TV por assinatura da Walt Disney Television. Lançado originalmente nos Estados Unidos, a 1º de junho de 1994, e em alguns países da Europa como Portugal e América Latina como Brasil.</info>
+</item>
+
+<item>
+<title>[B]Megapix [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/649$nome= [COLOR green]Megapix SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/4518$nome= [COLOR yellow]Megapix  HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/LewQb1v.png</thumbnail>
+<fanart>http://i.imgur.com/LewQb1v.png</fanart>
+<info>O Megapix é um canal por assinatura do Grupo Globo. É voltado exclusivamente para filmes dublados, faz exibição de títulos na segunda janela da TV por assinatura. Filmes que geralmente foram lançados pela Telecine ou HBO, mas que estreiam com exclusividade nos pacotes básicos pelo Megapix. </info>
+</item>
+
+<item>
+<title>[B]Telecine Action[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/655$nome= [COLOR green]Telecine Action SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/481$nome= [COLOR yellow]Telecine Action HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/9n9boo3.png</thumbnail>
+<fanart>http://i.imgur.com/9n9boo3.png</fanart>
+<info>Telecine Action é um canal de televisão por assinatura brasileiro transmitido pelas operadoras Sky, Claro TV, Vivo TV e Oi TV que dá destaque à transmissão de antigos e novos filmes de ação, suspense, terror, guerra e erótico. </info>
+</item>
+
+<item>
+<title>[B]Telecine Premium[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/659$nome= [COLOR green]Telecine Premium SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/491$nome= [COLOR yellow]Telecine Premium HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ZZxY55p.png</thumbnail>
+<fanart>http://i.imgur.com/ZZxY55p.png</fanart>
+<info>Telecine Premium é um canal de televisão brasileiro pertencente à Rede Telecine, transmitido pela TV por assinatura nas operadoras Vivo TV, Claro TV, Sky Brasil e Oi TV com a transmissão de filmes ...</info>
+</item>
+
+<item>
+<title>[B]Telecine Touch[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/660$nome= [COLOR green]Telecine Touch SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/493
+$nome= [COLOR yellow]Telecine Touch HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/Ns47Tfm.png</thumbnail>
+<fanart>http://i.imgur.com/Ns47Tfm.png</fanart>
+<info>Telecine Touch é um canal de televisão por assinatura brasileiro que exibe uma programação com gêneros de drama, romance, emoção, etc. O canal possui como idioma padrão o português que é usado completamente nos comentários sobre a programação do canal. </info>
+</item>
+
+<item>
+<title>[B]Telecine Fun[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/657$nome= [COLOR green]Telecine Fun SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/485$nome= [COLOR yellow]Telecine Fun HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/9nwihyb.png</thumbnail>
+<fanart>http://i.imgur.com/9nwihyb.png</fanart>
+<info>Telecine Fun é um canal de televisão por assinatura brasileiro pertencente aos canais da Rede Telecine. O canal exibe filmes de comédia, comédia romântica, animações e desenhos animados. Originalmente no idioma original com legendas, mas desde 2012 em versão dublada. </info>
+</item>
+
+
+<item>
+<title>[B]Telecine Pipoca[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/658$nome= [COLOR green]Telecine Pipoca SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/488$nome= [COLOR yellow]Telecine Pipoca HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/HtsOTJm.png</thumbnail>
+<fanart>http://i.imgur.com/HtsOTJm.png</fanart>
+<info>Telecine Pipoca é um canal de televisão por assinatura brasileiro que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pelo Telecine Premium, Telecine Action, Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comerciais de 2 minutos.</info>
+</item>
+<item>
+<title>[B]Telecine Cult[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/656$nome= [COLOR green]Telecine Cult SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/483$nome= [COLOR yellow]Telecine Cult HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/fPwVtGc.png</thumbnail>
+<fanart>http://i.imgur.com/fPwVtGc.png</fanart>
+<info>Telecine Cult é um canal de televisão por assinatura brasileiro que exibe filmes clássicos, filmes independentes, filmes temáticos, filmes raros e filmes de arte com produções europeias, asiáticas, latinas e filmes antigos. O canal exibe todos os filmes sem os intervalos comerciais. </info>
+</item>
+
+<item>
+<title>[B]Cinemax[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/105$nome= [COLOR green]Cinemax SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/105$nome= [COLOR yellow]Cinemax HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/nlGx2t1.png</thumbnail>
+<fanart>http://i.imgur.com/nlGx2t1.png</fanart>
+<info>O Cinemax é uma rede de televisão por assinatura de filmes, que pertence a Home Box Office, uma subsidiária da WarnerMedia Inc. Foi lançado no Brasil no dia 1º de outubro de 1997.</info>
+</item>
+
+<item>
+<title>[B]A&E[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/18065$nome= [COLOR green]A&E SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/18065$nome= [COLOR yellow]A&E HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/jT9k8mt.png</thumbnail>
+<fanart>http://i.imgur.com/jT9k8mt.png</fanart>
+<info>A&E é uma rede de televisão transmitida por servidores de televisão a cabo ou satélite. Seus edifícios empresariais principais se localizam em Manhattan, com demais escritórios em Stamford, Atlanta, Detroit, Los Angeles, Chicago e Londres.</info>
+</item>
+
+<item>
+<title>[B]AXN[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/67$nome= [COLOR green]AXN SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/67$nome= [COLOR yellow]AXN HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/kNNpfSN.png</thumbnail>
+<fanart>http://i.imgur.com/kNNpfSN.png</fanart>
+<info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Network. No entanto, por razões comerciais e para facilitar a sua difusão pelo público, o nome é alterado para AXN</info>
+</item>
+<item>
+<title>[B]AMC HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/9$nome= [COLOR green]AMC HD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/9$nome= [COLOR yellow]AMC HD HD[/COLOR]</link>
+<thumbnail>http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg</thumbnail>
+<fanart>http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg</fanart>
+<info>AMC é um canal de televisão por assinatura multinacional americana que é a principal propriedade da AMC Networks. A programação do canal consiste principalmente de filmes lançados nos cinemas, juntamente com uma quantidade limitada de programação original</info>
+</item>
+
+<item>
+<title>[B]Star Channel[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/675$nome= [COLOR green]Star Channel SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/250$nome= [COLOR yellow]Star Channel HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/pjtRpMJ.png</thumbnail>
+<fanart>http://i.imgur.com/pjtRpMJ.png</fanart>
+<info>Star Channel Brasil é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal exibe filmes da 20th Century Studios e séries dos canais Fox e ABC dos Estados Unidos. A emissora é integrante da Walt Disney Direct-to-Consumer & International. </info>
+</item>
+
+
+<item>
+<title>[B]Sony[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/86$nome= [COLOR green]Sony SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/86$nome= [COLOR yellow]Sony HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/KjvoSeG.png</thumbnail>
+<fanart>http://i.imgur.com/KjvoSeG.png</fanart>
+<info>A Sony Group Corporation é uma empresa multinacional japonesa, sendo o quinto maior conglomerado de mídia do planeta.</info>
+</item>
+
+
+<item>
+<title>[B]TNT Séries[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/663$nome= [COLOR green]TNT Séries SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/502$nome= [COLOR yellow]TNT Séries HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ky7Nxh1.png</thumbnail>
+<fanart>http://i.imgur.com/ky7Nxh1.png</fanart>
+<info>TNT, é um canal de televisão por assinatura especializado em filmes, séries e eventualmente transmissões esportivas.</info>
+</item>
+
+
+
+<item>
+<title>[B]TNT[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/662$nome= [COLOR green]TNT SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/503$nome= [COLOR yellow]TNT HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/wtLZgX5.png</thumbnail>
+<fanart>http://i.imgur.com/wtLZgX5.png</fanart>
+<info>TNT, é um canal de televisão por assinatura especializado em filmes, séries e eventualmente transmissões esportivas.</info>
+</item>
+
+<item>
+<title>[B]Paramount[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/346$nome= [COLOR green]Paramount SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/346$nome= [COLOR yellow]Paramount HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/yScrn6s.png</thumbnail>
+<fanart>http://i.imgur.com/yScrn6s.png</fanart>
+<info>Paramount+ é um serviço de streaming norte-americano de propriedade e operado pela CBS Interactive, uma subsidiária da ViacomCBS. Oferece conteúdo original, conteúdo recém-transmitido nas propriedades de transmissão da CBS e conteúdo da biblioteca da ViacomCBS. </info>
+</item>
+
+<item>
+<title>[B]Warner[/B]</title>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/33002$nome= [COLOR green]Warner SD[/COLOR]</link>
+<link>http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]Warner HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/HBaycf4.png</thumbnail>
+<fanart>http://i.imgur.com/HBaycf4.png</fanart>
+<info>A Warner Bros. Entertainment., também conhecida como Warner Bros. Pictures ou simplesmente Warner Bros. é uma produtora e distribuidora estadunidense de filmes e entretenimento televisivo. Foi fundada em 4 de abril de 1923 pelos irmãos Warner.</info>
+</item>
+
+
+
+
+<item>
+<title>[B]TBS[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/654$nome= [COLOR green]TBS SD[/COLOR]</link>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/32986$nome= [COLOR yellow]TBS HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/d99ec076329eccd8ffbb94895090a2b7.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/d99ec076329eccd8ffbb94895090a2b7.jpg</fanart>
+<info>TBS Brasil é uma rede brasileira de TV por assinatura pertencente a WarnerMedia, subsidiária da AT&T, sendo a versão local do canal americano TBS. A rede é voltado para a comédia, filmes, e séries para a família, sendo o primeiro no país com estas</info>
+</item>
+
+
+<item>
+<title>[B]Studio Universal [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/652$nome= [COLOR green]Studio Universal SD[/COLOR]</link>
+<link>http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]Studio Universal  HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/4b16934e7fb61fbe17e9b0f3f76b95ef.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/4b16934e7fb61fbe17e9b0f3f76b95ef.png</fanart>
+<info>Studio Universal é um canal de televisão por assinatura com programação de filmes e séries ...</info>
+</item>
+
+<item>
+<title>[B]SyFy[/B]</title>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/32985$nome= [COLOR green]SyFySD[/COLOR]</link>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/32985$nome= [COLOR yellow]SyFy HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/458ea1b04f052078408f348448d87d0e.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/458ea1b04f052078408f348448d87d0e.jpg</fanart>
+<info>Syfy é um canal de televisão por assinatura. Sua programação é dedicada à ficção científica, fantasia, terror e paranormal. Lançado em 24 de Setembro de 1992 pela NBCUniversal o Syfy está presente em alguns países da América Latina, América do Norte,</info>
+</item>
+<item>
+<title>[B]Space [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/651$nome= [COLOR green]SpaceSD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/459$nome= [COLOR yellow]Space HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/88873418020ce76995a8164c17841f74.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/88873418020ce76995a8164c17841f74.png</fanart>
+<info>Space é um canal de televisão por assinatura brasileiro. É um canal pertencente à WarnerMedia, subsidiária da AT&T. Por exibir filmes dos gêneros de ação, ficção científica, policial e terror, e séries do gênero policial e suspense é voltado para mulheres e homens acima de 18 anos de idade. </info>
+</item>
+
+<item>
+<title>[B]TCM[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/686$nome= [COLOR green]TCM SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/479$nome= [COLOR yellow]TCM HD[/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png</fanart>
+<info>TCM é um canal de televisão por assinatura com programação de filmes e séries ...</info>
+</item>
+
+<item>
+<title>[B]HBO [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/309$nome= [COLOR green]HBO SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/309$nome= [COLOR yellow]HBO HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg</fanart>
+<info>O HBO HD foi o primeiro canal premium da TV por assinatura na América Latina a transmitir 24 horas de filmes, séries e documentários em alta definição, com áudio 5.1 Dolby. Com o início da transmissão simultânea total em HD do canal original HBO, o HBO HD deixou de ser transmitido.</info>
+</item>
+
+<item>
+<title>[B]HBO 2[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/303$nome= [COLOR green]HBO 2 SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/303$nome= [COLOR yellow]HBO 2 HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/c6ee5c05ed06960e3134797075af15d4.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/c6ee5c05ed06960e3134797075af15d4.png</fanart>
+<info>O HBO 2, é um canal de televisão por assinatura da rede HBO que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pela HBO e séries exclusivas, sem intervalos comerciais. A partir de julho de 2009, a HBO 2 ganhou sua independência..</info>
+</item>
+
+<item>
+<title>[B]HBO Family[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/308$nome= [COLOR green]HBO Family SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/308$nome= [COLOR yellow]HBO Family HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/bc94c34ea8467a191e82a249f2a10485.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/bc94c34ea8467a191e82a249f2a10485.png</fanart>
+<info>HBO Family é um canal de televisão por assinatura originado da HBO. A HBO Family se caracteriza pela leveza da programação, que vai desde os filmes até o visual das chamadas com uma locução composta de uma voz ...</info>
+</item>
+
+<item>
+<title>[B] HBO Plus [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/301$nome= [COLOR green] HBO Plus  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/301$nome= [COLOR yellow] HBO Plus  HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/7b3fc19616539e7a4b4a46c7fb240b46.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/7b3fc19616539e7a4b4a46c7fb240b46.png</fanart>
+<info>HBO+ é um canal de televisão por assinatura pertencente a HBO lançado em 2003 na América Latina. O canal exibe filmes de sucesso mundial e também, séries, shows e boxe...</info>
+</item>
+
+<item>
+<title>[B]HBO Signature HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/316$nome= [COLOR green]HBO Signature SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/316$nome= [COLOR yellow]HBO Signature HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/e830e41982c90258cb60df46cbf35eb6.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/e830e41982c90258cb60df46cbf35eb6.jpg</fanart>
+<info>Assista filmes, séries e documentários da HBO Brasil, quando e onde você quiser. Sucessos globais e premiados ... .</info>
+</item>
+
+<item>
+<title>[B]HBO Mundi HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/310$nome= [COLOR green]HBO Mundi SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/310$nome= [COLOR yellow]HBO Mundi HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/b238a800871a6b866596065a180fdd66.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/b238a800871a6b866596065a180fdd66.png</fanart>
+<info>HBO Mundi é um canal premium de televisão por assinatura que oferecem filmes, apresentações especiais e outros serviços aos consumidores...</info>
+</item>
+
+<item>
+<title>[B]HBO Extreme [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/317$nome= [COLOR green]HBO Extreme  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/317$nome= [COLOR yellow]HBO Extreme  HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/fdeac453ed80c4c62ac98970551dda73.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/fdeac453ed80c4c62ac98970551dda73.png</fanart>
+<info>HBO Xtreme é um canal de televisão por assinatura, que foi lançado em 2000 como Cinemax Prime. O canal tem atualmente como foco o público adulto masculino. O canal chamava-se MaxPrime de setembro de 2003 até 2020...</info>
+</item>
+
+<item>
+<title>[B]HBO Pop  [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/314$nome= [COLOR green]HBO Pop  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/314$nome= [COLOR yellow]HBO Pop HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/f662791f6afe8a539764c06c24dcb443.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/f662791f6afe8a539764c06c24dcb443.png</fanart>
+<info>HBO Pop é um canal de televisão por assinatura pertencente a HBO, que substituiu os anteriores Max HD e Max UP. Em 31 de outubro de 2019, com o anúncio da ......</info>
+</item>
+
+<item>
+<title>[B]Premiere Clubes[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/541$nome= [COLOR green]Premiere Clubes SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/368$nome= [COLOR yellow]Premiere Clubes HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
+<fanart>http://i.imgur.com/xmmiHls.png</fanart>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
+</item>
+<item>
+<title>[B]Premiere [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/541$nome= [COLOR green]Premiere 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/542$nome= [COLOR yellow]Premiere 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/543$nome= [COLOR yellow]Premiere 3[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/544$nome= [COLOR yellow]Premiere 4[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/545$nome= [COLOR yellow]Premiere 5[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/546$nome= [COLOR yellow]Premiere 6[/COLOR]</link>
+<thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
+<fanart>http://i.imgur.com/xmmiHls.png</fanart>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
+</item>
+
+<item>
+<title>[B]Premiere Servidor 02[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/351$nome= [COLOR green]Premiere 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/353$nome= [COLOR yellow]Premiere 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/355$nome= [COLOR yellow]Premiere 3[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/357$nome= [COLOR yellow]Premiere 4[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/359$nome= [COLOR yellow]Premiere 5[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/361$nome= [COLOR yellow]Premiere 6[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/363$nome= [COLOR yellow]Premiere 7[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/364$nome= [COLOR yellow]Premiere 8[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/365$nome= [COLOR yellow]Premiere 9[/COLOR]</link>
+<thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
+<fanart>http://i.imgur.com/xmmiHls.png</fanart>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
+</item>
+
+
+
+<item>
+<title>[B]Combate[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/124$nome= [COLOR green]Combate SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/124$nome= [COLOR yellow]Combate HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/dOFWcWV.png</thumbnail>
+<fanart>http://i.imgur.com/dOFWcWV.png</fanart>
+<info>Combate é uma marca brasileira de conteúdo especializada em esportes de luta pertencente ao Grupo Globo e distribuida via operadoras de tv por assinatura em sistema de pay-per-view. O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mundo de Jiu-Jitsu e Kickboxing. </info>
+</item>
+
+
+
+<item>
+<title>[B],CONMEBOL TV [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/128$nome= [COLOR green],CONMEBOL TV 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/129$nome= [COLOR yellow],CONMEBOL TV 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/130$nome= [COLOR yellow],CONMEBOL TV 3[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/131$nome= [COLOR yellow],CONMEBOL TV 4[/COLOR]</link>
+<thumbnail>https://www.netbrasilia.net/wp-content/uploads/2020/09/net-brasilia-conmebol-tv-assine-internet-oferta-especial.png</thumbnail>
+<fanart>https://www.netbrasilia.net/wp-content/uploads/2020/09/net-brasilia-conmebol-tv-assine-internet-oferta-especial.png</fanart>
+<info>Conmebol TV é um canal de televisão por assinatura brasileiro em pay-per-view, lançado no dia 15 de setembro de 2020 que transmite a Copa Libertadores da América, a Copa Sul-Americana e a Recopa Sul-Americana.  </info>
+</item>
+
+
+<item>
+<title>[B]TNT Sports[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/9918$nome= [COLOR green]ESTADIO TNT SPORT 02[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/9919$nome= [COLOR yellow]ESTADIO TNT SPORT 03[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/9920$nome= [COLOR yellow]ESTADIO TNT SPORT 04[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/9922$nome= [COLOR yellow]ESTADIO TNT SPORT 05[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ka06Cjw.png</thumbnail>
+<fanart>http://i.imgur.com/ka06Cjw.png</fanart>
+<info>Esporte Interativo foi um canal esportivo de televisão por assinatura brasileiro que iniciou as transmissões em 5 de janeiro de 2014, incialmente como o nome de Esporte Interativo Nordeste. Ao contrário do canal aberto, este tinha transmissão somente pela TV por Assinatura e transmitidos inteiramente em HD.</info>
+</item>
+
+<item>
+<title>[B]ESPN Brasil[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/240$nome= [COLOR green]ESPN Brasil SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/240$nome= [COLOR yellow]ESPN Brasil HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/rTXcueh.png</thumbnail>
+<fanart>http://i.imgur.com/rTXcueh.png</fanart>
+<info>ESPN Brasil é a franquia local da ESPN, sendo a filial controlada diretamente pela The Walt Disney Company e pela Hearst Corporation. Transmite eventos esportivos de várias modalidades, tanto nacionais quanto internacionais. No Brasil, a Disney conta com seis canais na TV por assinatura.</info>
+</item>
+
+<item>
+<title>[B]ESPN[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/243$nome= [COLOR green]ESPN 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/238$nome= [COLOR yellow]ESPN 2[/COLOR]</link>
+<thumbnail>http://i.imgur.com/kcxzdPA.png</thumbnail>
+<fanart>http://i.imgur.com/kcxzdPA.png</fanart>
+<info>ESPN.com é o website oficial da ESPN e uma subdivisão da ESPN Inc. O site foi lançado em 1995 como ESPNet.SportsZone.com. O site tem várias seções: para a NHL, NFL, MLB, NBA, NASCAR, IRL, College, golfe e futebol. </info>
+</item>
+
+<item>
+<title>[B]SporTV[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/474$nome= [COLOR green]SporTV 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/467$nome= [COLOR yellow]SporTV 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/469$nome= [COLOR yellow]SporTV 3[/COLOR]</link>
+<thumbnail>https://seeklogo.com/images/S/sportv-logo-EE99497E46-seeklogo.com.png</thumbnail>
+<fanart>https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/08/sportv_prem-639x338.jpg</fanart>
+<info>O SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Tem dois canais irmãos, o SporTV 2 e SporTV 3. Transmite atualmente, mais de dois mil eventos esportivos por ano de todas as importantes modalidades. </info>
+</item>
+
+
+<item>
+<title>[B]Woohoo[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/551$nome= [COLOR green]Woohoo SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/551$nome= [COLOR yellow]Woohoo HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/Dt61U19.png</thumbnail>
+<fanart>http://i.imgur.com/Dt61U19.png</fanart>
+<info>Woohoo é um canal de TV por assinatura brasileiro, voltado para os esportes de ação, música e comportamento jovem. O canal esta disponível em várias operadoras de TV por assinatura brasileiras. Em Portugal foi lançado no início de 2013 em exclusivo na ZON. </info>
+</item>
+
+<item>
+<title>[B]Band Sports[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/75$nome= [COLOR green]Band Sports SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/75$nome= [COLOR yellow]Band Sports HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/wuMZB2S.png</thumbnail>
+<fanart>http://i.imgur.com/wuMZB2S.png</fanart>
+<info>BandSports é um canal de televisão brasileiro de esportes via televisão por assinatura do Grupo Bandeirantes de Comunicação. Foi lançado em 13 de maio de 2002.</info>
+</item>
+
+<item>
+<title>[B]Fox Sports[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/265$nome= [COLOR green]Fox Sports 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/262$nome= [COLOR yellow]Fox Sports 2[/COLOR]</link>
+<thumbnail>http://i.imgur.com/bYUGfOo.png</thumbnail>
+<fanart>http://i.imgur.com/bYUGfOo.png</fanart>
+<info>Fox Sports Brasil é um canal de televisão por assinatura brasileiro voltado para transmissão de eventos esportivos. Desde 5 de fevereiro de 2012 o canal já está disponível em todo o território brasileiro, disponível em algumas operadoras no lugar do canal Speed Channel com o início da Copa Libertadores.</info>
+</item>
+
+<item>
+<title>[B]Fox Sports[/B]</title>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/33277$nome= [COLOR green]Fox Sports 1[/COLOR]</link>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/33276$nome= [COLOR yellow]Fox Sports 2[/COLOR]</link>
+<thumbnail>http://i.imgur.com/bYUGfOo.png</thumbnail>
+<fanart>http://i.imgur.com/bYUGfOo.png</fanart>
+<info>Fox Sports Brasil é um canal de televisão por assinatura brasileiro voltado para transmissão de eventos esportivos. Desde 5 de fevereiro de 2012 o canal já está disponível em todo o território brasileiro, disponível em algumas operadoras no lugar do canal Speed Channel com o início da Copa Libertadores.</info>
+</item>
+
+<item>
+<title>[B]All Sports[/B]</title>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR green]All Sports SD[/COLOR]</link>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]All Sports HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/HozFynS.png</thumbnail>
+<fanart>http://i.imgur.com/HozFynS.png</fanart>
+<info>Web TV dedicado ao esporte em geral, especialmente os com pouca visibilidade na grande</info>
+</item>
+
+
+
+<item>
+<title>[B]ID Investigation Discovery [/B]</title>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/33024$nome= [COLOR green]ID Investigation Discovery SD[/COLOR]</link>
+<link>http://new-pro.tv:8080/Hotel-2021/Allroom/33024$nome= [COLOR yellow]ID Investigation Discovery HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg</fanart>
+<info>Discovery ID é um canal focado desde investigações criminais até séries de crimes por dinheiro, vingança e mentes assassinas. Conheça nossa programação e ...</info>
+</item>
+
+<item>
+<title>[B]Animal Planet[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/12$nome= [COLOR green]Animal Planet SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/12$nome= [COLOR yellow]Animal Planet HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg</fanart>
+<info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos. </info>
+</item>
