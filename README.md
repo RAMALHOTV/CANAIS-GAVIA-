@@ -1002,8 +1002,6 @@ http://axr.life:80/00005824/MF159357C/5129
 http://axr.life:80/00005824/MF159357C/5535
 #EXTINF:-1 tvg-id="" tvg-name="VILLA MIX SD" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",VILLA MIX SD
 http://axr.life:80/00005824/MF159357C/923157
-#EXTINF:-1 tvg-id="" tvg-name="VIOLAÇÃO ANAL" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",VIOLAÇÃO ANAL
-http://axr.life:80/00005824/MF159357C/1010106
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA FHD
 http://axr.life:80/00005824/MF159357C/30742
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA HD
