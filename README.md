@@ -36,7 +36,7 @@
 
 <item>
 <title>[B]SBT [/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/384$nome= [COLOR green]SBT RJ HD[/COLOR</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://a5telecom.distv.net:8080/6188/6188/384$nome= [COLOR green]SBT RJ HD[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://mn.hostinggonow.com:2095/NEW_LIVE240118106/8271098626/452$nome= [COLOR yellow]SBT SP[/COLOR]</link>
 <thumbnail>http://i.imgur.com/7SlZF9B.png</thumbnail>
 <fanart>http://i.imgur.com/7SlZF9B.png</fanart>
