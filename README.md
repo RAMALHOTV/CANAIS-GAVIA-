@@ -45,8 +45,8 @@
 
 <item>
 <title>[B]SBT[/B]</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8$nome= [COLOR green]SBT PE HD[/COLOR]</link>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8$nome= [COLOR yellow]SBT PE SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8$nome= [COLOR green]SBT PE HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=212.7.211.205:2095&url=https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8$nome= [COLOR yellow]SBT PE SD[/COLOR]</link>
 <thumbnail>http://i.imgur.com/7SlZF9B.png</thumbnail>
 <fanart>http://i.imgur.com/7SlZF9B.png</fanart>
 <info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
